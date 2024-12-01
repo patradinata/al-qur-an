@@ -1,0 +1,188 @@
+{
+  "id": 728,
+  "chapter_id": 5,
+  "verse_key": "5:59",
+  "hizb_number": 12,
+  "rub_el_hizb_number": 47,
+  "ruku_number": 94,
+  "manzil_number": 2,
+  "page_number": 118,
+  "juz_number": 6,
+  "text_uthmani": "قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ هَلْ تَنقِمُونَ مِنَّآ إِلَّآ أَنْ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ إِلَيْنَا وَمَآ أُنزِلَ مِن قَبْلُ وَأَنَّ أَكْثَرَكُمْ فَـٰسِقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/5.mp3",
+  "words": [
+    {
+      "id": 53882,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_059_001.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 53883,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_059_002.mp3",
+      "text": "يَـٰٓأَهْلَ",
+      "translation": "Wahai ahli",
+      "transliteration": "yāahla"
+    },
+    {
+      "id": 53884,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_059_003.mp3",
+      "text": "ٱلْكِتَـٰبِ",
+      "translation": "Kitab",
+      "transliteration": "l-kitābi"
+    },
+    {
+      "id": 53885,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_059_004.mp3",
+      "text": "هَلْ",
+      "translation": "apakah",
+      "transliteration": "hal"
+    },
+    {
+      "id": 53886,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_059_005.mp3",
+      "text": "تَنقِمُونَ",
+      "translation": "kamu membenci",
+      "transliteration": "tanqimūna"
+    },
+    {
+      "id": 53887,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_059_006.mp3",
+      "text": "مِنَّآ",
+      "translation": "dari/kepada kami",
+      "transliteration": "minnā"
+    },
+    {
+      "id": 53888,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_059_007.mp3",
+      "text": "إِلَّآ",
+      "translation": "kecuali/lantaran",
+      "transliteration": "illā"
+    },
+    {
+      "id": 53889,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_059_008.mp3",
+      "text": "أَنْ",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 53890,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_059_009.mp3",
+      "text": "ءَامَنَّا",
+      "translation": "kami  beriman",
+      "transliteration": "āmannā"
+    },
+    {
+      "id": 53891,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_059_010.mp3",
+      "text": "بِٱللَّهِ",
+      "translation": "kepada Allah",
+      "transliteration": "bil-lahi"
+    },
+    {
+      "id": 53892,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_059_011.mp3",
+      "text": "وَمَآ",
+      "translation": "dan apa yang",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 53893,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_059_012.mp3",
+      "text": "أُنزِلَ",
+      "translation": "diturunkan",
+      "transliteration": "unzila"
+    },
+    {
+      "id": 53894,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_059_013.mp3",
+      "text": "إِلَيْنَا",
+      "translation": "kepada kami",
+      "transliteration": "ilaynā"
+    },
+    {
+      "id": 53895,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_059_014.mp3",
+      "text": "وَمَآ",
+      "translation": "dan apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 53896,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_059_015.mp3",
+      "text": "أُنزِلَ",
+      "translation": "diturunkan",
+      "transliteration": "unzila"
+    },
+    {
+      "id": 53897,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_059_016.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 53898,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_059_017.mp3",
+      "text": "قَبْلُ",
+      "translation": "sebelum",
+      "transliteration": "qablu"
+    },
+    {
+      "id": 53899,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_059_018.mp3",
+      "text": "وَأَنَّ",
+      "translation": "dan/sedangkan sesungguhnya",
+      "transliteration": "wa-anna"
+    },
+    {
+      "id": 53900,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_059_019.mp3",
+      "text": "أَكْثَرَكُمْ",
+      "translation": "kebanyakan kamu",
+      "transliteration": "aktharakum"
+    },
+    {
+      "id": 53901,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/005_059_020.mp3",
+      "text": "فَـٰسِقُونَ",
+      "translation": "orang-orang yang fasik",
+      "transliteration": "fāsiqūna"
+    },
+    {
+      "id": 53902,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٥٩",
+      "translation": "(59)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Hai ahli kitab, apakah kamu memandang kami salah, hanya lantaran kami beriman kepada Allah, kepada apa yang diturunkan kepada kami, dan kepada apa yang diturunkan sebelumnya? sedang kebanyakan di antara kamu benar-benar orang-orang yang fasik?\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Qul yā ahlal-kitābi hal tanqimūna minnā illā an āmannā billāhi wa mā unzila ilainā wa mā unzila min qabl(u), wa anna akṡarakum fāsiqūn(a)."
+}

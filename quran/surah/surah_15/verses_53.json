@@ -1,0 +1,84 @@
+{
+  "id": 1855,
+  "chapter_id": 15,
+  "verse_key": "15:53",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 221,
+  "manzil_number": 3,
+  "page_number": 265,
+  "juz_number": 14,
+  "text_uthmani": "قَالُوا۟ لَا تَوْجَلْ إِنَّا نُبَشِّرُكَ بِغُلَـٰمٍ عَلِيمٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 50870,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_053_001.mp3",
+      "text": "قَالُوا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 50871,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_053_002.mp3",
+      "text": "لَا",
+      "translation": "jangan",
+      "transliteration": "lā"
+    },
+    {
+      "id": 50872,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_053_003.mp3",
+      "text": "تَوْجَلْ",
+      "translation": "kamu merasa takut",
+      "transliteration": "tawjal"
+    },
+    {
+      "id": 50873,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_053_004.mp3",
+      "text": "إِنَّا",
+      "translation": "sesungguhnya kami",
+      "transliteration": "innā"
+    },
+    {
+      "id": 50874,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_053_005.mp3",
+      "text": "نُبَشِّرُكَ",
+      "translation": "kami memberi kabar gembira kepadamu",
+      "transliteration": "nubashiruka"
+    },
+    {
+      "id": 50875,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_053_006.mp3",
+      "text": "بِغُلَـٰمٍ",
+      "translation": "dengan seorang anak laki-laki",
+      "transliteration": "bighulāmin"
+    },
+    {
+      "id": 50876,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_053_007.mp3",
+      "text": "عَلِيمٍۢ",
+      "translation": "berilmu/pandai",
+      "transliteration": "ʿalīmin"
+    },
+    {
+      "id": 50877,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "٥٣",
+      "translation": "(53)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka berkata, \"Janganlah kamu merasa takut, sesungguhnya kami memberi kabar gembira kepadamu dengan (kelahiran seorang) anak laki-laki (yang akan menjadi) orang yang alim <sup foot_note_id=\"803\">12</sup>\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Qālū lā taujal innā nubasysyiruka bigulāmin ‘alīm(in)."
+}

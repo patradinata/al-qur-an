@@ -1,0 +1,156 @@
+{
+  "id": 586,
+  "chapter_id": 4,
+  "verse_key": "4:93",
+  "hizb_number": 10,
+  "rub_el_hizb_number": 37,
+  "ruku_number": 74,
+  "manzil_number": 1,
+  "page_number": 93,
+  "juz_number": 5,
+  "text_uthmani": "وَمَن يَقْتُلْ مُؤْمِنًا مُّتَعَمِّدًا فَجَزَآؤُهُۥ جَهَنَّمُ خَـٰلِدًا فِيهَا وَغَضِبَ ٱللَّهُ عَلَيْهِ وَلَعَنَهُۥ وَأَعَدَّ لَهُۥ عَذَابًا عَظِيمًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/4.mp3",
+  "words": [
+    {
+      "id": 69300,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_093_001.mp3",
+      "text": "وَمَن",
+      "translation": "dan barang siapa",
+      "transliteration": "waman"
+    },
+    {
+      "id": 69301,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_093_002.mp3",
+      "text": "يَقْتُلْ",
+      "translation": "membunuh",
+      "transliteration": "yaqtul"
+    },
+    {
+      "id": 69302,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_093_003.mp3",
+      "text": "مُؤْمِنًۭا",
+      "translation": "seorang mukmin",
+      "transliteration": "mu'minan"
+    },
+    {
+      "id": 69303,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_093_004.mp3",
+      "text": "مُّتَعَمِّدًۭا",
+      "translation": "dengan sengaja",
+      "transliteration": "mutaʿammidan"
+    },
+    {
+      "id": 69304,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_093_005.mp3",
+      "text": "فَجَزَآؤُهُۥ",
+      "translation": "maka balasannya",
+      "transliteration": "fajazāuhu"
+    },
+    {
+      "id": 69305,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_093_006.mp3",
+      "text": "جَهَنَّمُ",
+      "translation": "neraka Jahanam",
+      "transliteration": "jahannamu"
+    },
+    {
+      "id": 69306,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_093_007.mp3",
+      "text": "خَـٰلِدًۭا",
+      "translation": "kekal",
+      "transliteration": "khālidan"
+    },
+    {
+      "id": 69307,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_093_008.mp3",
+      "text": "فِيهَا",
+      "translation": "di dalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 69308,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_093_009.mp3",
+      "text": "وَغَضِبَ",
+      "translation": "dan murka",
+      "transliteration": "waghaḍiba"
+    },
+    {
+      "id": 69309,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_093_010.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 69310,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_093_011.mp3",
+      "text": "عَلَيْهِ",
+      "translation": "atasnya",
+      "transliteration": "ʿalayhi"
+    },
+    {
+      "id": 69311,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_093_012.mp3",
+      "text": "وَلَعَنَهُۥ",
+      "translation": "dan mengutuknya",
+      "transliteration": "walaʿanahu"
+    },
+    {
+      "id": 69312,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_093_013.mp3",
+      "text": "وَأَعَدَّ",
+      "translation": "dan Dia menyediakan",
+      "transliteration": "wa-aʿadda"
+    },
+    {
+      "id": 69313,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_093_014.mp3",
+      "text": "لَهُۥ",
+      "translation": "baginya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 69314,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_093_015.mp3",
+      "text": "عَذَابًا",
+      "translation": "siksa",
+      "transliteration": "ʿadhāban"
+    },
+    {
+      "id": 69315,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_093_016.mp3",
+      "text": "عَظِيمًۭا",
+      "translation": "besar",
+      "transliteration": "ʿaẓīman"
+    },
+    {
+      "id": 69316,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٩٣",
+      "translation": "(93)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan barang siapa yang membunuh seorang mukmin dengan sengaja, maka balasannya ialah Jahanam, kekal ia di dalamnya dan Allah murka kepadanya, dan mengutukinya serta menyediakan azab yang besar baginya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Wa may yaqtul mu'minam muta‘ammidan fa jazā'uhū jahannamu khālidan fīhā wa gaḍiballāhu ‘alaihi wa la‘anahū wa a‘adda lahū ‘ażāban ‘aẓīmā(n)."
+}

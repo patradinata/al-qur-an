@@ -1,0 +1,340 @@
+{
+  "id": 1104,
+  "chapter_id": 7,
+  "verse_key": "7:150",
+  "hizb_number": 17,
+  "rub_el_hizb_number": 67,
+  "ruku_number": 139,
+  "manzil_number": 2,
+  "page_number": 169,
+  "juz_number": 9,
+  "text_uthmani": "وَلَمَّا رَجَعَ مُوسَىٰٓ إِلَىٰ قَوْمِهِۦ غَضْبَـٰنَ أَسِفًا قَالَ بِئْسَمَا خَلَفْتُمُونِى مِنۢ بَعْدِىٓ ۖ أَعَجِلْتُمْ أَمْرَ رَبِّكُمْ ۖ وَأَلْقَى ٱلْأَلْوَاحَ وَأَخَذَ بِرَأْسِ أَخِيهِ يَجُرُّهُۥٓ إِلَيْهِ ۚ قَالَ ٱبْنَ أُمَّ إِنَّ ٱلْقَوْمَ ٱسْتَضْعَفُونِى وَكَادُوا۟ يَقْتُلُونَنِى فَلَا تُشْمِتْ بِىَ ٱلْأَعْدَآءَ وَلَا تَجْعَلْنِى مَعَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 80464,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_001.mp3",
+      "text": "وَلَمَّا",
+      "translation": "dan setelah",
+      "transliteration": "walammā"
+    },
+    {
+      "id": 80465,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_002.mp3",
+      "text": "رَجَعَ",
+      "translation": "kembali",
+      "transliteration": "rajaʿa"
+    },
+    {
+      "id": 80466,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_003.mp3",
+      "text": "مُوسَىٰٓ",
+      "translation": "Musa",
+      "transliteration": "mūsā"
+    },
+    {
+      "id": 80467,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_004.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 80468,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_005.mp3",
+      "text": "قَوْمِهِۦ",
+      "translation": "kaumnya",
+      "transliteration": "qawmihi"
+    },
+    {
+      "id": 80469,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_006.mp3",
+      "text": "غَضْبَـٰنَ",
+      "translation": "dalam keadaan marah",
+      "transliteration": "ghaḍbāna"
+    },
+    {
+      "id": 80470,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_007.mp3",
+      "text": "أَسِفًۭا",
+      "translation": "sedih hati",
+      "transliteration": "asifan"
+    },
+    {
+      "id": 80471,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_008.mp3",
+      "text": "قَالَ",
+      "translation": "dia berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 80472,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_009.mp3",
+      "text": "بِئْسَمَا",
+      "translation": "alangkah buruknya",
+      "transliteration": "bi'samā"
+    },
+    {
+      "id": 80473,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_010.mp3",
+      "text": "خَلَفْتُمُونِى",
+      "translation": "kamu menggantiku",
+      "transliteration": "khalaftumūnī"
+    },
+    {
+      "id": 80474,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_011.mp3",
+      "text": "مِنۢ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 80475,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_012.mp3",
+      "text": "بَعْدِىٓ ۖ",
+      "translation": "sesudahku",
+      "transliteration": "baʿdī"
+    },
+    {
+      "id": 80477,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_014.mp3",
+      "text": "أَعَجِلْتُمْ",
+      "translation": "apakah kamu hendak mendahului",
+      "transliteration": "aʿajil'tum"
+    },
+    {
+      "id": 80478,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_015.mp3",
+      "text": "أَمْرَ",
+      "translation": "perintah",
+      "transliteration": "amra"
+    },
+    {
+      "id": 80479,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_016.mp3",
+      "text": "رَبِّكُمْ ۖ",
+      "translation": "Tuhan kalian",
+      "transliteration": "rabbikum"
+    },
+    {
+      "id": 80481,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_018.mp3",
+      "text": "وَأَلْقَى",
+      "translation": "dan dia melemparkan",
+      "transliteration": "wa-alqā"
+    },
+    {
+      "id": 80482,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_019.mp3",
+      "text": "ٱلْأَلْوَاحَ",
+      "translation": "batu tulis",
+      "transliteration": "l-alwāḥa"
+    },
+    {
+      "id": 80483,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_020.mp3",
+      "text": "وَأَخَذَ",
+      "translation": "dan dia memegang",
+      "transliteration": "wa-akhadha"
+    },
+    {
+      "id": 80484,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_021.mp3",
+      "text": "بِرَأْسِ",
+      "translation": "dengan kepala",
+      "transliteration": "birasi"
+    },
+    {
+      "id": 80485,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_022.mp3",
+      "text": "أَخِيهِ",
+      "translation": "saudaranya",
+      "transliteration": "akhīhi"
+    },
+    {
+      "id": 80486,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_023.mp3",
+      "text": "يَجُرُّهُۥٓ",
+      "translation": "dia menariknya",
+      "transliteration": "yajurruhu"
+    },
+    {
+      "id": 80487,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_024.mp3",
+      "text": "إِلَيْهِ ۚ",
+      "translation": "kepadanya",
+      "transliteration": "ilayhi"
+    },
+    {
+      "id": 80489,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_026.mp3",
+      "text": "قَالَ",
+      "translation": "dia (Harun) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 80490,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_027.mp3",
+      "text": "ٱبْنَ",
+      "translation": "anak",
+      "transliteration": "ib'na"
+    },
+    {
+      "id": 80491,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_028.mp3",
+      "text": "أُمَّ",
+      "translation": "ibu",
+      "transliteration": "umma"
+    },
+    {
+      "id": 80492,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_029.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 80493,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_030.mp3",
+      "text": "ٱلْقَوْمَ",
+      "translation": "kaum",
+      "transliteration": "l-qawma"
+    },
+    {
+      "id": 80494,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_031.mp3",
+      "text": "ٱسْتَضْعَفُونِى",
+      "translation": "mereka menjadikan aku lemah",
+      "transliteration": "is'taḍʿafūnī"
+    },
+    {
+      "id": 80495,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_032.mp3",
+      "text": "وَكَادُوا۟",
+      "translation": "dan hampir-hampir mereka",
+      "transliteration": "wakādū"
+    },
+    {
+      "id": 80496,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_033.mp3",
+      "text": "يَقْتُلُونَنِى",
+      "translation": "mereka membunuh aku",
+      "transliteration": "yaqtulūnanī"
+    },
+    {
+      "id": 80497,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_034.mp3",
+      "text": "فَلَا",
+      "translation": "maka jangan",
+      "transliteration": "falā"
+    },
+    {
+      "id": 80498,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_035.mp3",
+      "text": "تُشْمِتْ",
+      "translation": "kamu menjadikan gembira",
+      "transliteration": "tush'mit"
+    },
+    {
+      "id": 80499,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_036.mp3",
+      "text": "بِىَ",
+      "translation": "denganku",
+      "transliteration": "biya"
+    },
+    {
+      "id": 80500,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_037.mp3",
+      "text": "ٱلْأَعْدَآءَ",
+      "translation": "musuh-musuh",
+      "transliteration": "l-aʿdāa"
+    },
+    {
+      "id": 80501,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_038.mp3",
+      "text": "وَلَا",
+      "translation": "dan jangan",
+      "transliteration": "walā"
+    },
+    {
+      "id": 80502,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_039.mp3",
+      "text": "تَجْعَلْنِى",
+      "translation": "kamu menjadikan aku",
+      "transliteration": "tajʿalnī"
+    },
+    {
+      "id": 80503,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_040.mp3",
+      "text": "مَعَ",
+      "translation": "beserta",
+      "transliteration": "maʿa"
+    },
+    {
+      "id": 80504,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_041.mp3",
+      "text": "ٱلْقَوْمِ",
+      "translation": "kaum",
+      "transliteration": "l-qawmi"
+    },
+    {
+      "id": 80505,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_150_042.mp3",
+      "text": "ٱلظَّـٰلِمِينَ",
+      "translation": "orang-orang yang dzalim",
+      "transliteration": "l-ẓālimīna"
+    },
+    {
+      "id": 80506,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٥٠",
+      "translation": "(150)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tatkala Musa telah kembali kepada kaumnya dengan marah dan sedih hati berkatalah dia, \"Alangkah buruknya perbuatan yang kamu kerjakan sesudah kepergianku! Apakah kamu hendak mendahului janji Tuhan-mu<sup foot_note_id=\"572\">45</sup>? Dan Musa pun melemparkan alwāḥ <sup foot_note_id=\"573\">46</sup> (Taurat) itu dan memegang (rambut) kepala saudaranya (Hārūn) sambil menariknya ke arahnya.  Hārūn berkata, \"Hai anak ibuku, sesungguhnya kaum ini telah menganggapku lemah dan hampir-hampir mereka membunuhku, sebab itu janganlah kamu menjadikan musuh-musuh gembira melihatku, dan janganlah kamu masukkan aku ke dalam golongan orang-orang yang zalim\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Wa lammā raja‘a mūsā ilā qaumihī gaḍbāna asifā(n), qāla bi'samā khalaftumūnī mim ba‘dī, a‘ajiltum amra rabbikum, wa alqal-alwāḥa wa akhaża bira'si akhīhi yajurruhū ilaih(i), qālabna umma innal-qaumastaḍ‘afūnī wa kādū yaqtulūnanī, falā tusymit biyal-a‘dā'a wa lā taj‘alnī ma‘al-qaumiẓ-ẓālimīn(a)."
+}

@@ -1,0 +1,148 @@
+{
+  "id": 4175,
+  "chapter_id": 40,
+  "verse_key": "40:42",
+  "hizb_number": 48,
+  "rub_el_hizb_number": 189,
+  "ruku_number": 410,
+  "manzil_number": 6,
+  "page_number": 472,
+  "juz_number": 24,
+  "text_uthmani": "تَدْعُونَنِى لِأَكْفُرَ بِٱللَّهِ وَأُشْرِكَ بِهِۦ مَا لَيْسَ لِى بِهِۦ عِلْمٌ وَأَنَا۠ أَدْعُوكُمْ إِلَى ٱلْعَزِيزِ ٱلْغَفَّـٰرِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/40.mp3",
+  "words": [
+    {
+      "id": 42714,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_042_001.mp3",
+      "text": "تَدْعُونَنِى",
+      "translation": "kamu menyeruku",
+      "transliteration": "tadʿūnanī"
+    },
+    {
+      "id": 42715,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_042_002.mp3",
+      "text": "لِأَكْفُرَ",
+      "translation": "supaya aku kafir",
+      "transliteration": "li-akfura"
+    },
+    {
+      "id": 42716,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_042_003.mp3",
+      "text": "بِٱللَّهِ",
+      "translation": "kepada Allah",
+      "transliteration": "bil-lahi"
+    },
+    {
+      "id": 42717,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_042_004.mp3",
+      "text": "وَأُشْرِكَ",
+      "translation": "dan aku mempersekutukan",
+      "transliteration": "wa-ush'rika"
+    },
+    {
+      "id": 42718,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_042_005.mp3",
+      "text": "بِهِۦ",
+      "translation": "dengan-Nya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 42719,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_042_006.mp3",
+      "text": "مَا",
+      "translation": "apa-apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 42720,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_042_007.mp3",
+      "text": "لَيْسَ",
+      "translation": "tidak",
+      "transliteration": "laysa"
+    },
+    {
+      "id": 42721,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_042_008.mp3",
+      "text": "لِى",
+      "translation": "bagiku",
+      "transliteration": "lī"
+    },
+    {
+      "id": 42722,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_042_009.mp3",
+      "text": "بِهِۦ",
+      "translation": "tentang itu",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 42723,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_042_010.mp3",
+      "text": "عِلْمٌۭ",
+      "translation": "pengetahuan",
+      "transliteration": "ʿil'mun"
+    },
+    {
+      "id": 42724,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_042_011.mp3",
+      "text": "وَأَنَا۠",
+      "translation": "dan/padahal aku",
+      "transliteration": "wa-anā"
+    },
+    {
+      "id": 42725,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_042_012.mp3",
+      "text": "أَدْعُوكُمْ",
+      "translation": "aku menyeru kamu",
+      "transliteration": "adʿūkum"
+    },
+    {
+      "id": 42726,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_042_013.mp3",
+      "text": "إِلَى",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 42727,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_042_014.mp3",
+      "text": "ٱلْعَزِيزِ",
+      "translation": "Maha Perkasa",
+      "transliteration": "l-ʿazīzi"
+    },
+    {
+      "id": 42728,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_042_015.mp3",
+      "text": "ٱلْغَفَّـٰرِ",
+      "translation": "Maha Pengampun",
+      "transliteration": "l-ghafāri"
+    },
+    {
+      "id": 42729,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٤٢",
+      "translation": "(42)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Mengapa) kamu menyeruku supaya kafir kepada Allah dan mempersekutukan-Nya dengan apa yang tidak kuketahui, padahal aku menyeru kamu (beriman) kepada Yang Maha Perkasa lagi Maha Pengampun?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Tad‘ūnanī li'akfura billāhi wa usyrika bihī mā laisa lī bihī ‘ilmuw wa ana ad‘ūkum ilal-‘azīzil-gaffār(i)."
+}

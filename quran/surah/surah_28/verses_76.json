@@ -1,0 +1,260 @@
+{
+  "id": 3328,
+  "chapter_id": 28,
+  "verse_key": "28:76",
+  "hizb_number": 40,
+  "rub_el_hizb_number": 158,
+  "ruku_number": 341,
+  "manzil_number": 5,
+  "page_number": 394,
+  "juz_number": 20,
+  "text_uthmani": "۞ إِنَّ قَـٰرُونَ كَانَ مِن قَوْمِ مُوسَىٰ فَبَغَىٰ عَلَيْهِمْ ۖ وَءَاتَيْنَـٰهُ مِنَ ٱلْكُنُوزِ مَآ إِنَّ مَفَاتِحَهُۥ لَتَنُوٓأُ بِٱلْعُصْبَةِ أُو۟لِى ٱلْقُوَّةِ إِذْ قَالَ لَهُۥ قَوْمُهُۥ لَا تَفْرَحْ ۖ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْفَرِحِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/28.mp3",
+  "words": [
+    {
+      "id": 62615,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_076_002.mp3",
+      "text": "۞ إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 62616,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_076_003.mp3",
+      "text": "قَـٰرُونَ",
+      "translation": "Karun",
+      "transliteration": "qārūna"
+    },
+    {
+      "id": 62617,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_076_004.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 62618,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_076_005.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 62619,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_076_006.mp3",
+      "text": "قَوْمِ",
+      "translation": "kaum",
+      "transliteration": "qawmi"
+    },
+    {
+      "id": 62620,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_076_007.mp3",
+      "text": "مُوسَىٰ",
+      "translation": "Musa",
+      "transliteration": "mūsā"
+    },
+    {
+      "id": 62621,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_076_008.mp3",
+      "text": "فَبَغَىٰ",
+      "translation": "lalu dia berbuat aniaya",
+      "transliteration": "fabaghā"
+    },
+    {
+      "id": 62622,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_076_009.mp3",
+      "text": "عَلَيْهِمْ ۖ",
+      "translation": "atas mereka",
+      "transliteration": "ʿalayhim"
+    },
+    {
+      "id": 62624,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_076_011.mp3",
+      "text": "وَءَاتَيْنَـٰهُ",
+      "translation": "dan Kami telah memberikannya",
+      "transliteration": "waātaynāhu"
+    },
+    {
+      "id": 62625,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_076_012.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 62626,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_076_013.mp3",
+      "text": "ٱلْكُنُوزِ",
+      "translation": "perbendaharaan",
+      "transliteration": "l-kunūzi"
+    },
+    {
+      "id": 62627,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_076_014.mp3",
+      "text": "مَآ",
+      "translation": "apa (harta)",
+      "transliteration": "mā"
+    },
+    {
+      "id": 62628,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_076_015.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 62629,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_076_016.mp3",
+      "text": "مَفَاتِحَهُۥ",
+      "translation": "kuncinya",
+      "transliteration": "mafātiḥahu"
+    },
+    {
+      "id": 62630,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_076_017.mp3",
+      "text": "لَتَنُوٓأُ",
+      "translation": "sungguh berat",
+      "transliteration": "latanūu"
+    },
+    {
+      "id": 62631,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_076_018.mp3",
+      "text": "بِٱلْعُصْبَةِ",
+      "translation": "dengan golongan/sejumlah",
+      "transliteration": "bil-ʿuṣ'bati"
+    },
+    {
+      "id": 62632,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_076_019.mp3",
+      "text": "أُو۟لِى",
+      "translation": "orang yang mempunyai",
+      "transliteration": "ulī"
+    },
+    {
+      "id": 62633,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_076_020.mp3",
+      "text": "ٱلْقُوَّةِ",
+      "translation": "kekuatan",
+      "transliteration": "l-quwati"
+    },
+    {
+      "id": 62634,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_076_021.mp3",
+      "text": "إِذْ",
+      "translation": "ketika",
+      "transliteration": "idh"
+    },
+    {
+      "id": 62635,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_076_022.mp3",
+      "text": "قَالَ",
+      "translation": "berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 62636,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_076_023.mp3",
+      "text": "لَهُۥ",
+      "translation": "kepadanya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 62637,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_076_024.mp3",
+      "text": "قَوْمُهُۥ",
+      "translation": "kaumnya",
+      "transliteration": "qawmuhu"
+    },
+    {
+      "id": 62638,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_076_025.mp3",
+      "text": "لَا",
+      "translation": "jangan",
+      "transliteration": "lā"
+    },
+    {
+      "id": 62639,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_076_026.mp3",
+      "text": "تَفْرَحْ ۖ",
+      "translation": "kamu gembira/bangga",
+      "transliteration": "tafraḥ"
+    },
+    {
+      "id": 62641,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_076_028.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 62642,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_076_029.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 62643,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_076_030.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 62644,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_076_031.mp3",
+      "text": "يُحِبُّ",
+      "translation": "Dia menyukai",
+      "transliteration": "yuḥibbu"
+    },
+    {
+      "id": 62645,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_076_032.mp3",
+      "text": "ٱلْفَرِحِينَ",
+      "translation": "orang-orang yang membanggakan diri",
+      "transliteration": "l-fariḥīna"
+    },
+    {
+      "id": 62646,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٧٦",
+      "translation": "(76)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Qārūn adalah termasuk kaum Musa <sup foot_note_id=\"1138\">29</sup>, maka ia berlaku aniaya terhadap mereka dan Kami telah menganugerahkan kepadanya perbendaharaan harta yang kunci-kuncinya sungguh berat dipikul oleh sejumlah orang yang kuat-kuat.  (Ingatlah) ketika kaumnya berkata kepadanya, \"Janganlah kamu terlalu bangga; sesungguhnya Allah tidak menyukai orang-orang yang terlalu membanggakan diri\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Inna qārūna kāna min qaumi mūsā fabagā ‘alaihim, wa ātaināhu minal-kunūzi mā inna mafātiḥahū latanū'u bil-‘uṣbati ulil-quwwah(ti), iż qāla lahū qaumuhū lā tafraḥ, innallāha lā yuḥibbul-fariḥīn(a)."
+}

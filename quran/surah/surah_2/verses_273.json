@@ -1,0 +1,268 @@
+{
+  "id": 280,
+  "chapter_id": 2,
+  "verse_key": "2:273",
+  "hizb_number": 5,
+  "rub_el_hizb_number": 19,
+  "ruku_number": 38,
+  "manzil_number": 1,
+  "page_number": 46,
+  "juz_number": 3,
+  "text_uthmani": "لِلْفُقَرَآءِ ٱلَّذِينَ أُحْصِرُوا۟ فِى سَبِيلِ ٱللَّهِ لَا يَسْتَطِيعُونَ ضَرْبًا فِى ٱلْأَرْضِ يَحْسَبُهُمُ ٱلْجَاهِلُ أَغْنِيَآءَ مِنَ ٱلتَّعَفُّفِ تَعْرِفُهُم بِسِيمَـٰهُمْ لَا يَسْـَٔلُونَ ٱلنَّاسَ إِلْحَافًا ۗ وَمَا تُنفِقُوا۟ مِنْ خَيْرٍ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 87744,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_273_001.mp3",
+      "text": "لِلْفُقَرَآءِ",
+      "translation": "bagi orang-orang fakir",
+      "transliteration": "lil'fuqarāi"
+    },
+    {
+      "id": 87745,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_273_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 87746,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_273_003.mp3",
+      "text": "أُحْصِرُوا۟",
+      "translation": "(mereka) terkepung",
+      "transliteration": "uḥ'ṣirū"
+    },
+    {
+      "id": 87747,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_273_004.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 87748,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_273_005.mp3",
+      "text": "سَبِيلِ",
+      "translation": "jalan",
+      "transliteration": "sabīli"
+    },
+    {
+      "id": 87749,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_273_006.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 87750,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_273_007.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 87751,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_273_008.mp3",
+      "text": "يَسْتَطِيعُونَ",
+      "translation": "mereka dapat",
+      "transliteration": "yastaṭīʿūna"
+    },
+    {
+      "id": 87752,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_273_009.mp3",
+      "text": "ضَرْبًۭا",
+      "translation": "berusaha",
+      "transliteration": "ḍarban"
+    },
+    {
+      "id": 87753,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_273_010.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 87754,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_273_011.mp3",
+      "text": "ٱلْأَرْضِ",
+      "translation": "bumi",
+      "transliteration": "l-arḍi"
+    },
+    {
+      "id": 87755,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_273_012.mp3",
+      "text": "يَحْسَبُهُمُ",
+      "translation": "menyangka mereka",
+      "transliteration": "yaḥsabuhumu"
+    },
+    {
+      "id": 87756,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_273_013.mp3",
+      "text": "ٱلْجَاهِلُ",
+      "translation": "orang yang bodoh",
+      "transliteration": "l-jāhilu"
+    },
+    {
+      "id": 87757,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_273_014.mp3",
+      "text": "أَغْنِيَآءَ",
+      "translation": "orang-orang kaya",
+      "transliteration": "aghniyāa"
+    },
+    {
+      "id": 87758,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_273_015.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 87759,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_273_016.mp3",
+      "text": "ٱلتَّعَفُّفِ",
+      "translation": "meminta-minta",
+      "transliteration": "l-taʿafufi"
+    },
+    {
+      "id": 87760,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_273_017.mp3",
+      "text": "تَعْرِفُهُم",
+      "translation": "kamu kenal mereka",
+      "transliteration": "taʿrifuhum"
+    },
+    {
+      "id": 87761,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_273_018.mp3",
+      "text": "بِسِيمَـٰهُمْ",
+      "translation": "dengan sifat-sifat mereka",
+      "transliteration": "bisīmāhum"
+    },
+    {
+      "id": 87762,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_273_019.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 87763,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_273_020.mp3",
+      "text": "يَسْـَٔلُونَ",
+      "translation": "mereka meminta",
+      "transliteration": "yasalūna"
+    },
+    {
+      "id": 87764,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_273_021.mp3",
+      "text": "ٱلنَّاسَ",
+      "translation": "manusia",
+      "transliteration": "l-nāsa"
+    },
+    {
+      "id": 87765,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_273_022.mp3",
+      "text": "إِلْحَافًۭا ۗ",
+      "translation": "secara mendesak",
+      "transliteration": "il'ḥāfan"
+    },
+    {
+      "id": 87767,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_273_024.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 87768,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_273_025.mp3",
+      "text": "تُنفِقُوا۟",
+      "translation": "kamu nafkahkan",
+      "transliteration": "tunfiqū"
+    },
+    {
+      "id": 87769,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_273_026.mp3",
+      "text": "مِنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 87770,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_273_027.mp3",
+      "text": "خَيْرٍۢ",
+      "translation": "yang baik",
+      "transliteration": "khayrin"
+    },
+    {
+      "id": 87771,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_273_028.mp3",
+      "text": "فَإِنَّ",
+      "translation": "maka sesungguhnya",
+      "transliteration": "fa-inna"
+    },
+    {
+      "id": 87772,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_273_029.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 87773,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_273_030.mp3",
+      "text": "بِهِۦ",
+      "translation": "dengannya/padanya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 87774,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_273_031.mp3",
+      "text": "عَلِيمٌ",
+      "translation": "Maha Mengetahui",
+      "transliteration": "ʿalīmun"
+    },
+    {
+      "id": 87775,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٢٧٣",
+      "translation": "(273)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Berinfaklah) kepada orang-orang fakir yang terikat (oleh jihad) di jalan Allah; mereka tidak dapat (berusaha) di bumi; orang yang tidak tahu menyangka mereka orang kaya karena memelihara diri dari minta-minta.  Kamu kenal mereka dengan melihat sifat-sifatnya; mereka tidak meminta kepada orang secara mendesak.  Dan apa saja harta yang baik yang kamu nafkahkan (di jalan Allah), maka sesungguhnya Allah Maha Mengatahui.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Lil-fuqarā'il-lażīna uḥṣirū fī sabīlillāhi lā yastaṭī‘ūna ḍarban fil-arḍi yaḥsabuhumul-jāhilu agniyā'a minat-ta‘affuf(i), ta‘rifuhum bisīmāhum, lā yas'alūnan-nāsa ilḥāfā(n), wa mā tunfiqū min khairin fa innallāha bihī ‘alīm(un)."
+}

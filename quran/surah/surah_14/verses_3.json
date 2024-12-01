@@ -1,0 +1,156 @@
+{
+  "id": 1753,
+  "chapter_id": 14,
+  "verse_key": "14:3",
+  "hizb_number": 26,
+  "rub_el_hizb_number": 102,
+  "ruku_number": 211,
+  "manzil_number": 3,
+  "page_number": 255,
+  "juz_number": 13,
+  "text_uthmani": "ٱلَّذِينَ يَسْتَحِبُّونَ ٱلْحَيَوٰةَ ٱلدُّنْيَا عَلَى ٱلْـَٔاخِرَةِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبْغُونَهَا عِوَجًا ۚ أُو۟لَـٰٓئِكَ فِى ضَلَـٰلٍۭ بَعِيدٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/14.mp3",
+  "words": [
+    {
+      "id": 3079,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_003_001.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 3080,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_003_002.mp3",
+      "text": "يَسْتَحِبُّونَ",
+      "translation": "lebih menyukai",
+      "transliteration": "yastaḥibbūna"
+    },
+    {
+      "id": 3081,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_003_003.mp3",
+      "text": "ٱلْحَيَوٰةَ",
+      "translation": "kehidupan",
+      "transliteration": "l-ḥayata"
+    },
+    {
+      "id": 3082,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_003_004.mp3",
+      "text": "ٱلدُّنْيَا",
+      "translation": "dunia",
+      "transliteration": "l-dun'yā"
+    },
+    {
+      "id": 3083,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_003_005.mp3",
+      "text": "عَلَى",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 3084,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_003_006.mp3",
+      "text": "ٱلْـَٔاخِرَةِ",
+      "translation": "akhirat",
+      "transliteration": "l-ākhirati"
+    },
+    {
+      "id": 3085,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_003_007.mp3",
+      "text": "وَيَصُدُّونَ",
+      "translation": "dan mereka menghalang-halangi",
+      "transliteration": "wayaṣuddūna"
+    },
+    {
+      "id": 3086,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_003_008.mp3",
+      "text": "عَن",
+      "translation": "dari",
+      "transliteration": "ʿan"
+    },
+    {
+      "id": 3087,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_003_009.mp3",
+      "text": "سَبِيلِ",
+      "translation": "jalan",
+      "transliteration": "sabīli"
+    },
+    {
+      "id": 3088,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_003_010.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 3089,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_003_011.mp3",
+      "text": "وَيَبْغُونَهَا",
+      "translation": "dan mereka menginginkannya",
+      "transliteration": "wayabghūnahā"
+    },
+    {
+      "id": 3090,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_003_012.mp3",
+      "text": "عِوَجًا ۚ",
+      "translation": "bengkok",
+      "transliteration": "ʿiwajan"
+    },
+    {
+      "id": 3092,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_003_014.mp3",
+      "text": "أُو۟لَـٰٓئِكَ",
+      "translation": "mereka itu",
+      "transliteration": "ulāika"
+    },
+    {
+      "id": 3093,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_003_015.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 3094,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_003_016.mp3",
+      "text": "ضَلَـٰلٍۭ",
+      "translation": "kesesatan",
+      "transliteration": "ḍalālin"
+    },
+    {
+      "id": 3095,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/014_003_017.mp3",
+      "text": "بَعِيدٍۢ",
+      "translation": "jauh",
+      "transliteration": "baʿīdin"
+    },
+    {
+      "id": 3096,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) orang-orang yang lebih menyukai kehidupan dunia daripada kehidupan akhirat dan menghalang-halangi (manusia) dari jalan Allah dan menginginkan agar jalan Allah itu bengkok. Mereka itu berada dalam kesesatan yang jauh.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Allażīna yastaḥibbūnal-ḥayātad-dun-yā ‘alal-ākhirati wa yaṣuddūna ‘an sabīlillāhi wa yabgūnahā ‘iwajā(n), ulā'ika fī ḍalālim ba‘īd(in)."
+}

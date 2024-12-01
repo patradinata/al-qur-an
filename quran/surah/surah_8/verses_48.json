@@ -1,0 +1,316 @@
+{
+  "id": 1208,
+  "chapter_id": 8,
+  "verse_key": "8:48",
+  "hizb_number": 19,
+  "rub_el_hizb_number": 73,
+  "ruku_number": 151,
+  "manzil_number": 2,
+  "page_number": 183,
+  "juz_number": 10,
+  "text_uthmani": "وَإِذْ زَيَّنَ لَهُمُ ٱلشَّيْطَـٰنُ أَعْمَـٰلَهُمْ وَقَالَ لَا غَالِبَ لَكُمُ ٱلْيَوْمَ مِنَ ٱلنَّاسِ وَإِنِّى جَارٌ لَّكُمْ ۖ فَلَمَّا تَرَآءَتِ ٱلْفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَيْهِ وَقَالَ إِنِّى بَرِىٓءٌ مِّنكُمْ إِنِّىٓ أَرَىٰ مَا لَا تَرَوْنَ إِنِّىٓ أَخَافُ ٱللَّهَ ۚ وَٱللَّهُ شَدِيدُ ٱلْعِقَابِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/8.mp3",
+  "words": [
+    {
+      "id": 47511,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_001.mp3",
+      "text": "وَإِذْ",
+      "translation": "dan ketika",
+      "transliteration": "wa-idh"
+    },
+    {
+      "id": 47512,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_002.mp3",
+      "text": "زَيَّنَ",
+      "translation": "menjadikan memandang baik",
+      "transliteration": "zayyana"
+    },
+    {
+      "id": 47513,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_003.mp3",
+      "text": "لَهُمُ",
+      "translation": "bagi/kepada mereka",
+      "transliteration": "lahumu"
+    },
+    {
+      "id": 47514,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_004.mp3",
+      "text": "ٱلشَّيْطَـٰنُ",
+      "translation": "syaitan",
+      "transliteration": "l-shayṭānu"
+    },
+    {
+      "id": 47515,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_005.mp3",
+      "text": "أَعْمَـٰلَهُمْ",
+      "translation": "pekerjaan mereka",
+      "transliteration": "aʿmālahum"
+    },
+    {
+      "id": 47516,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_006.mp3",
+      "text": "وَقَالَ",
+      "translation": "dan ia berkata",
+      "transliteration": "waqāla"
+    },
+    {
+      "id": 47517,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_007.mp3",
+      "text": "لَا",
+      "translation": "tidak ada",
+      "transliteration": "lā"
+    },
+    {
+      "id": 47518,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_008.mp3",
+      "text": "غَالِبَ",
+      "translation": "menang",
+      "transliteration": "ghāliba"
+    },
+    {
+      "id": 47519,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_009.mp3",
+      "text": "لَكُمُ",
+      "translation": "bagi kalian",
+      "transliteration": "lakumu"
+    },
+    {
+      "id": 47520,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_010.mp3",
+      "text": "ٱلْيَوْمَ",
+      "translation": "pada hari",
+      "transliteration": "l-yawma"
+    },
+    {
+      "id": 47521,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_011.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 47522,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_012.mp3",
+      "text": "ٱلنَّاسِ",
+      "translation": "manusia",
+      "transliteration": "l-nāsi"
+    },
+    {
+      "id": 47523,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_013.mp3",
+      "text": "وَإِنِّى",
+      "translation": "dan sesungguhnya saya",
+      "transliteration": "wa-innī"
+    },
+    {
+      "id": 47524,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_014.mp3",
+      "text": "جَارٌۭ",
+      "translation": "pelindung",
+      "transliteration": "jārun"
+    },
+    {
+      "id": 47525,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_015.mp3",
+      "text": "لَّكُمْ ۖ",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 47527,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_017.mp3",
+      "text": "فَلَمَّا",
+      "translation": "maka tatkala",
+      "transliteration": "falammā"
+    },
+    {
+      "id": 47528,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_018.mp3",
+      "text": "تَرَآءَتِ",
+      "translation": "saling melihat",
+      "transliteration": "tarāati"
+    },
+    {
+      "id": 47529,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_019.mp3",
+      "text": "ٱلْفِئَتَانِ",
+      "translation": "kedua pasukan",
+      "transliteration": "l-fi-atāni"
+    },
+    {
+      "id": 47530,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_020.mp3",
+      "text": "نَكَصَ",
+      "translation": "ia berbalik",
+      "transliteration": "nakaṣa"
+    },
+    {
+      "id": 47531,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_021.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 47532,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_022.mp3",
+      "text": "عَقِبَيْهِ",
+      "translation": "tumitnya/kebelakang",
+      "transliteration": "ʿaqibayhi"
+    },
+    {
+      "id": 47533,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_023.mp3",
+      "text": "وَقَالَ",
+      "translation": "dan ia berkata",
+      "transliteration": "waqāla"
+    },
+    {
+      "id": 47534,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_024.mp3",
+      "text": "إِنِّى",
+      "translation": "sesungguhnya saya",
+      "transliteration": "innī"
+    },
+    {
+      "id": 47535,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_025.mp3",
+      "text": "بَرِىٓءٌۭ",
+      "translation": "berlepas diri",
+      "transliteration": "barīon"
+    },
+    {
+      "id": 47536,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_026.mp3",
+      "text": "مِّنكُمْ",
+      "translation": "daripada kamu",
+      "transliteration": "minkum"
+    },
+    {
+      "id": 47537,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_027.mp3",
+      "text": "إِنِّىٓ",
+      "translation": "sesungguhnya saya",
+      "transliteration": "innī"
+    },
+    {
+      "id": 47538,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_028.mp3",
+      "text": "أَرَىٰ",
+      "translation": "saya melihat",
+      "transliteration": "arā"
+    },
+    {
+      "id": 47539,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_029.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 47540,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_030.mp3",
+      "text": "لَا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 47541,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_031.mp3",
+      "text": "تَرَوْنَ",
+      "translation": "kamu lihat",
+      "transliteration": "tarawna"
+    },
+    {
+      "id": 47542,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_032.mp3",
+      "text": "إِنِّىٓ",
+      "translation": "sesungguhnya saya",
+      "transliteration": "innī"
+    },
+    {
+      "id": 47543,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_033.mp3",
+      "text": "أَخَافُ",
+      "translation": "saya takut",
+      "transliteration": "akhāfu"
+    },
+    {
+      "id": 47544,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_034.mp3",
+      "text": "ٱللَّهَ ۚ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 47546,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_036.mp3",
+      "text": "وَٱللَّهُ",
+      "translation": "dan Allah",
+      "transliteration": "wal-lahu"
+    },
+    {
+      "id": 47547,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_037.mp3",
+      "text": "شَدِيدُ",
+      "translation": "sangat keras",
+      "transliteration": "shadīdu"
+    },
+    {
+      "id": 47548,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/008_048_038.mp3",
+      "text": "ٱلْعِقَابِ",
+      "translation": "siksaan",
+      "transliteration": "l-ʿiqābi"
+    },
+    {
+      "id": 47549,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٤٨",
+      "translation": "(48)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan ketika setan menjadikan mereka memandang baik pekerjaan mereka dan mengatakan, \"Tidak ada seorang manusia pun yang dapat menang terhadap kamu pada hari ini, dan sesungguhnya saya ini adalah pelindungmu\".  Maka tatkala kedua pasukan itu telah dapat saling lihat melihat (berhadapan), setan itu balik ke belakang seraya berkata, \"Sesungguhnya saya berlepas diri dari kamu; sesungguhnya saya dapat melihat apa yang kamu sekalian tidak dapat melihat; sesungguhnya saya takut kepada Allah\".  Dan Allah sangat keras siksa-Nya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Wa iż zayyana lahumusy-syaiṭānu a‘mālahum wa qāla lā gāliba lakumul-yauma minan-nāsi wa innī jārul lakum, falammā tarā'atil-fi'atāni nakaṣa ‘alā ‘aqibaihi wa qāla innī barī'um minkum innī arā mā lā tarauna innī akhāfullāh(a), wallāhu syadīdul-‘iqāb(i)."
+}

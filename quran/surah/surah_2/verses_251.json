@@ -1,0 +1,244 @@
+{
+  "id": 258,
+  "chapter_id": 2,
+  "verse_key": "2:251",
+  "hizb_number": 4,
+  "rub_el_hizb_number": 16,
+  "ruku_number": 34,
+  "manzil_number": 1,
+  "page_number": 41,
+  "juz_number": 2,
+  "text_uthmani": "فَهَزَمُوهُم بِإِذْنِ ٱللَّهِ وَقَتَلَ دَاوُۥدُ جَالُوتَ وَءَاتَىٰهُ ٱللَّهُ ٱلْمُلْكَ وَٱلْحِكْمَةَ وَعَلَّمَهُۥ مِمَّا يَشَآءُ ۗ وَلَوْلَا دَفْعُ ٱللَّهِ ٱلنَّاسَ بَعْضَهُم بِبَعْضٍ لَّفَسَدَتِ ٱلْأَرْضُ وَلَـٰكِنَّ ٱللَّهَ ذُو فَضْلٍ عَلَى ٱلْعَـٰلَمِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 87026,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_251_001.mp3",
+      "text": "فَهَزَمُوهُم",
+      "translation": "maka mereka mengalahkan mereka",
+      "transliteration": "fahazamūhum"
+    },
+    {
+      "id": 87027,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_251_002.mp3",
+      "text": "بِإِذْنِ",
+      "translation": "dengan izin",
+      "transliteration": "bi-idh'ni"
+    },
+    {
+      "id": 87028,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_251_003.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 87029,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_251_004.mp3",
+      "text": "وَقَتَلَ",
+      "translation": "dan membunuh",
+      "transliteration": "waqatala"
+    },
+    {
+      "id": 87030,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_251_005.mp3",
+      "text": "دَاوُۥدُ",
+      "translation": "Daud",
+      "transliteration": "dāwūdu"
+    },
+    {
+      "id": 87031,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_251_006.mp3",
+      "text": "جَالُوتَ",
+      "translation": "Jalut",
+      "transliteration": "jālūta"
+    },
+    {
+      "id": 87032,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_251_007.mp3",
+      "text": "وَءَاتَىٰهُ",
+      "translation": "dan memberikan kepadanya",
+      "transliteration": "waātāhu"
+    },
+    {
+      "id": 87033,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_251_008.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 87034,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_251_009.mp3",
+      "text": "ٱلْمُلْكَ",
+      "translation": "kerajaan/pemerintahan",
+      "transliteration": "l-mul'ka"
+    },
+    {
+      "id": 87035,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_251_010.mp3",
+      "text": "وَٱلْحِكْمَةَ",
+      "translation": "dan hikmah",
+      "transliteration": "wal-ḥik'mata"
+    },
+    {
+      "id": 87036,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_251_011.mp3",
+      "text": "وَعَلَّمَهُۥ",
+      "translation": "dan Dia mengajarkan",
+      "transliteration": "waʿallamahu"
+    },
+    {
+      "id": 87037,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_251_012.mp3",
+      "text": "مِمَّا",
+      "translation": "daripada apa",
+      "transliteration": "mimmā"
+    },
+    {
+      "id": 87038,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_251_013.mp3",
+      "text": "يَشَآءُ ۗ",
+      "translation": "Dia kehendaki",
+      "transliteration": "yashāu"
+    },
+    {
+      "id": 87040,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_251_015.mp3",
+      "text": "وَلَوْلَا",
+      "translation": "dan seandainya",
+      "transliteration": "walawlā"
+    },
+    {
+      "id": 87041,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_251_016.mp3",
+      "text": "دَفْعُ",
+      "translation": "menolak",
+      "transliteration": "dafʿu"
+    },
+    {
+      "id": 87042,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_251_017.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 87043,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_251_018.mp3",
+      "text": "ٱلنَّاسَ",
+      "translation": "manusia",
+      "transliteration": "l-nāsa"
+    },
+    {
+      "id": 87044,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_251_019.mp3",
+      "text": "بَعْضَهُم",
+      "translation": "sebagian mereka",
+      "transliteration": "baʿḍahum"
+    },
+    {
+      "id": 87045,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_251_020.mp3",
+      "text": "بِبَعْضٍۢ",
+      "translation": "dengan sebagian yang lain",
+      "transliteration": "bibaʿḍin"
+    },
+    {
+      "id": 87046,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_251_021.mp3",
+      "text": "لَّفَسَدَتِ",
+      "translation": "pasti rusaklah",
+      "transliteration": "lafasadati"
+    },
+    {
+      "id": 87047,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_251_022.mp3",
+      "text": "ٱلْأَرْضُ",
+      "translation": "bumi",
+      "transliteration": "l-arḍu"
+    },
+    {
+      "id": 87048,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_251_023.mp3",
+      "text": "وَلَـٰكِنَّ",
+      "translation": "tetapi",
+      "transliteration": "walākinna"
+    },
+    {
+      "id": 87049,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_251_024.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 87050,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_251_025.mp3",
+      "text": "ذُو",
+      "translation": "mempunyai",
+      "transliteration": "dhū"
+    },
+    {
+      "id": 87051,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_251_026.mp3",
+      "text": "فَضْلٍ",
+      "translation": "karunia",
+      "transliteration": "faḍlin"
+    },
+    {
+      "id": 87052,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_251_027.mp3",
+      "text": "عَلَى",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 87053,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_251_028.mp3",
+      "text": "ٱلْعَـٰلَمِينَ",
+      "translation": "semesta alam",
+      "transliteration": "l-ʿālamīna"
+    },
+    {
+      "id": 87054,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٢٥١",
+      "translation": "(251)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka (tentara Ṭālūt) mengalahkan tentara Jālūt dengan izin Allah dan (dalam peperangan itu) Dāwūd membunuh Jālūt, kemudian Allah memberikan kepadanya (Dāwūd) pemerintahan dan hikmah<sup foot_note_id=\"158\">149</sup>, (sesudah meninggalnya Ṭālūt) dan mengajarkan kepadanya apa yang dikehendaki-Nya.  Seandainya Allah tidak menolak (keganasan) sebagian umat manusia dengan sebagian yang lain, pasti rusaklah bumi ini.  Tetapi Allah mempunyai karunia (yang dicurahkan) atas semesta alam.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Fahazamūhum bi'iżnillāh(i), wa qatala dāwūdu jālūta wa ātāhullāhul-mulka wal-ḥikmata wa ‘allamahū mimmā yasyā'(u), wa lau lā daf‘ullāhin-nāsa ba‘ḍahum biba‘ḍil lafasadatil-arḍu wa lākinnallāha żū faḍlin ‘alal-‘ālamīn(a)."
+}

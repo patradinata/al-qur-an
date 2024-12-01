@@ -1,0 +1,124 @@
+{
+  "id": 216,
+  "chapter_id": 2,
+  "verse_key": "2:209",
+  "hizb_number": 4,
+  "rub_el_hizb_number": 13,
+  "ruku_number": 26,
+  "manzil_number": 1,
+  "page_number": 32,
+  "juz_number": 2,
+  "text_uthmani": "فَإِن زَلَلْتُم مِّنۢ بَعْدِ مَا جَآءَتْكُمُ ٱلْبَيِّنَـٰتُ فَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 85592,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_209_001.mp3",
+      "text": "فَإِن",
+      "translation": "maka jika",
+      "transliteration": "fa-in"
+    },
+    {
+      "id": 85593,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_209_002.mp3",
+      "text": "زَلَلْتُم",
+      "translation": "kamu tergelincir",
+      "transliteration": "zalaltum"
+    },
+    {
+      "id": 85594,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_209_003.mp3",
+      "text": "مِّنۢ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 85595,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_209_004.mp3",
+      "text": "بَعْدِ",
+      "translation": "sesudah",
+      "transliteration": "baʿdi"
+    },
+    {
+      "id": 85596,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_209_005.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 85597,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_209_006.mp3",
+      "text": "جَآءَتْكُمُ",
+      "translation": "datang kepadamu",
+      "transliteration": "jāatkumu"
+    },
+    {
+      "id": 85598,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_209_007.mp3",
+      "text": "ٱلْبَيِّنَـٰتُ",
+      "translation": "bukti-bukti (kebenaran)",
+      "transliteration": "l-bayinātu"
+    },
+    {
+      "id": 85599,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_209_008.mp3",
+      "text": "فَٱعْلَمُوٓا۟",
+      "translation": "maka ketahuilah",
+      "transliteration": "fa-iʿ'lamū"
+    },
+    {
+      "id": 85600,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_209_009.mp3",
+      "text": "أَنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "anna"
+    },
+    {
+      "id": 85601,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_209_010.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 85602,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_209_011.mp3",
+      "text": "عَزِيزٌ",
+      "translation": "Maha Perkasa",
+      "transliteration": "ʿazīzun"
+    },
+    {
+      "id": 85603,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_209_012.mp3",
+      "text": "حَكِيمٌ",
+      "translation": "Maha Bijaksana",
+      "transliteration": "ḥakīmun"
+    },
+    {
+      "id": 85604,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٢٠٩",
+      "translation": "(209)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tetapi jika kamu menyimpang (dari jalan Allah) sesudah datang kepadamu bukti-bukti kebenaran, maka ketahuilah, bahwasanya Allah Maha Perkasa lagi Maha Bijaksana.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Fa'in zalaltum mim ba‘di mā jā'atkumul-bayyinātu fa‘lamū annallāha ‘azīzun ḥakīm(un)."
+}

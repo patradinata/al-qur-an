@@ -1,0 +1,244 @@
+{
+  "id": 4320,
+  "chapter_id": 42,
+  "verse_key": "42:48",
+  "hizb_number": 49,
+  "rub_el_hizb_number": 195,
+  "ruku_number": 425,
+  "manzil_number": 6,
+  "page_number": 488,
+  "juz_number": 25,
+  "text_uthmani": "فَإِنْ أَعْرَضُوا۟ فَمَآ أَرْسَلْنَـٰكَ عَلَيْهِمْ حَفِيظًا ۖ إِنْ عَلَيْكَ إِلَّا ٱلْبَلَـٰغُ ۗ وَإِنَّآ إِذَآ أَذَقْنَا ٱلْإِنسَـٰنَ مِنَّا رَحْمَةً فَرِحَ بِهَا ۖ وَإِن تُصِبْهُمْ سَيِّئَةٌۢ بِمَا قَدَّمَتْ أَيْدِيهِمْ فَإِنَّ ٱلْإِنسَـٰنَ كَفُورٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/42.mp3",
+  "words": [
+    {
+      "id": 47112,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_048_001.mp3",
+      "text": "فَإِنْ",
+      "translation": "maka jika",
+      "transliteration": "fa-in"
+    },
+    {
+      "id": 47113,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_048_002.mp3",
+      "text": "أَعْرَضُوا۟",
+      "translation": "mereka berpaling",
+      "transliteration": "aʿraḍū"
+    },
+    {
+      "id": 47114,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_048_003.mp3",
+      "text": "فَمَآ",
+      "translation": "maka tidak",
+      "transliteration": "famā"
+    },
+    {
+      "id": 47115,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_048_004.mp3",
+      "text": "أَرْسَلْنَـٰكَ",
+      "translation": "Kami mengutus kamu",
+      "transliteration": "arsalnāka"
+    },
+    {
+      "id": 47116,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_048_005.mp3",
+      "text": "عَلَيْهِمْ",
+      "translation": "atas mereka",
+      "transliteration": "ʿalayhim"
+    },
+    {
+      "id": 47117,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_048_006.mp3",
+      "text": "حَفِيظًا ۖ",
+      "translation": "penjaga",
+      "transliteration": "ḥafīẓan"
+    },
+    {
+      "id": 47119,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_048_008.mp3",
+      "text": "إِنْ",
+      "translation": "tidaklah",
+      "transliteration": "in"
+    },
+    {
+      "id": 47120,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_048_009.mp3",
+      "text": "عَلَيْكَ",
+      "translation": "atasmu",
+      "transliteration": "ʿalayka"
+    },
+    {
+      "id": 47121,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_048_010.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 47122,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_048_011.mp3",
+      "text": "ٱلْبَلَـٰغُ ۗ",
+      "translation": "penyampaian",
+      "transliteration": "l-balāghu"
+    },
+    {
+      "id": 47124,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_048_013.mp3",
+      "text": "وَإِنَّآ",
+      "translation": "dan sesungguhnya Kami",
+      "transliteration": "wa-innā"
+    },
+    {
+      "id": 47125,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_048_014.mp3",
+      "text": "إِذَآ",
+      "translation": "apabila",
+      "transliteration": "idhā"
+    },
+    {
+      "id": 47126,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_048_015.mp3",
+      "text": "أَذَقْنَا",
+      "translation": "Kami merasakan",
+      "transliteration": "adhaqnā"
+    },
+    {
+      "id": 47127,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_048_016.mp3",
+      "text": "ٱلْإِنسَـٰنَ",
+      "translation": "manusia",
+      "transliteration": "l-insāna"
+    },
+    {
+      "id": 47128,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_048_017.mp3",
+      "text": "مِنَّا",
+      "translation": "dari Kami",
+      "transliteration": "minnā"
+    },
+    {
+      "id": 47129,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_048_018.mp3",
+      "text": "رَحْمَةًۭ",
+      "translation": "rahmat",
+      "transliteration": "raḥmatan"
+    },
+    {
+      "id": 47130,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_048_019.mp3",
+      "text": "فَرِحَ",
+      "translation": "dia gembira",
+      "transliteration": "fariḥa"
+    },
+    {
+      "id": 47131,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_048_020.mp3",
+      "text": "بِهَا ۖ",
+      "translation": "karenanya",
+      "transliteration": "bihā"
+    },
+    {
+      "id": 47133,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_048_022.mp3",
+      "text": "وَإِن",
+      "translation": "dan jika",
+      "transliteration": "wa-in"
+    },
+    {
+      "id": 47134,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_048_023.mp3",
+      "text": "تُصِبْهُمْ",
+      "translation": "menimpa mereka",
+      "transliteration": "tuṣib'hum"
+    },
+    {
+      "id": 47135,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_048_024.mp3",
+      "text": "سَيِّئَةٌۢ",
+      "translation": "kesusahan",
+      "transliteration": "sayyi-atun"
+    },
+    {
+      "id": 47136,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_048_025.mp3",
+      "text": "بِمَا",
+      "translation": "dengan sebab",
+      "transliteration": "bimā"
+    },
+    {
+      "id": 47137,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_048_026.mp3",
+      "text": "قَدَّمَتْ",
+      "translation": "perbuatan",
+      "transliteration": "qaddamat"
+    },
+    {
+      "id": 47138,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_048_027.mp3",
+      "text": "أَيْدِيهِمْ",
+      "translation": "tangan-tangan mereka",
+      "transliteration": "aydīhim"
+    },
+    {
+      "id": 47139,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_048_028.mp3",
+      "text": "فَإِنَّ",
+      "translation": "maka sesungguhnya",
+      "transliteration": "fa-inna"
+    },
+    {
+      "id": 47140,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_048_029.mp3",
+      "text": "ٱلْإِنسَـٰنَ",
+      "translation": "manusia",
+      "transliteration": "l-insāna"
+    },
+    {
+      "id": 47141,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/042_048_030.mp3",
+      "text": "كَفُورٌۭ",
+      "translation": "sangat ingkar",
+      "transliteration": "kafūrun"
+    },
+    {
+      "id": 47142,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٤٨",
+      "translation": "(48)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Jika mereka berpaling, maka Kami tidak mengutus kamu sebagai pengawas bagi mereka. Kewajibanmu tidak lain hanyalah menyampaikan (risalah).  Sesungguhnya apabila Kami merasakan kepada manusia sesuatu rahmat dari Kami, dia bergembira ria karena rahmat itu.  Dan jika mereka ditimpa kesusahan disebabkan perbuatan tangan mereka sendiri, (niscaya mereka ingkar) karena sesungguhnya manusia itu amat ingkar (kepada nikmat).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Fa in a‘raḍū famā arsalnāka ‘alaihim ḥafīẓā(n), in ‘alaika illal-balāg(u), wa innā iżā ażaqnal-insāna minnā raḥmatan fariḥa bihā, wa in tuṣibhum sayyi'atum bimā qaddamat aidīhim fa'innal-insāna kafūr(un)."
+}

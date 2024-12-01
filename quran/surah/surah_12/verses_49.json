@@ -1,0 +1,116 @@
+{
+  "id": 1645,
+  "chapter_id": 12,
+  "verse_key": "12:49",
+  "hizb_number": 24,
+  "rub_el_hizb_number": 96,
+  "ruku_number": 198,
+  "manzil_number": 3,
+  "page_number": 241,
+  "juz_number": 12,
+  "text_uthmani": "ثُمَّ يَأْتِى مِنۢ بَعْدِ ذَٰلِكَ عَامٌ فِيهِ يُغَاثُ ٱلنَّاسُ وَفِيهِ يَعْصِرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/12.mp3",
+  "words": [
+    {
+      "id": 48199,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_049_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 48200,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_049_002.mp3",
+      "text": "يَأْتِى",
+      "translation": "datang",
+      "transliteration": "yatī"
+    },
+    {
+      "id": 48201,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_049_003.mp3",
+      "text": "مِنۢ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 48202,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_049_004.mp3",
+      "text": "بَعْدِ",
+      "translation": "sesudah",
+      "transliteration": "baʿdi"
+    },
+    {
+      "id": 48203,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_049_005.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian/itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 48204,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_049_006.mp3",
+      "text": "عَامٌۭ",
+      "translation": "tahun",
+      "transliteration": "ʿāmun"
+    },
+    {
+      "id": 48205,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_049_007.mp3",
+      "text": "فِيهِ",
+      "translation": "padanya",
+      "transliteration": "fīhi"
+    },
+    {
+      "id": 48206,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_049_008.mp3",
+      "text": "يُغَاثُ",
+      "translation": "diberi hujan",
+      "transliteration": "yughāthu"
+    },
+    {
+      "id": 48207,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_049_009.mp3",
+      "text": "ٱلنَّاسُ",
+      "translation": "manusia",
+      "transliteration": "l-nāsu"
+    },
+    {
+      "id": 48208,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_049_010.mp3",
+      "text": "وَفِيهِ",
+      "translation": "dan padanya",
+      "transliteration": "wafīhi"
+    },
+    {
+      "id": 48209,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_049_011.mp3",
+      "text": "يَعْصِرُونَ",
+      "translation": "mereka memeras anggur",
+      "transliteration": "yaʿṣirūna"
+    },
+    {
+      "id": 48210,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٤٩",
+      "translation": "(49)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian setelah itu akan datang tahun yang padanya manusia diberi hujan (dengan cukup) dan di masa itu mereka memeras anggur\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Ṡumma ya'tī mim ba‘di żālika ‘āmun fīhi yugāṡun-nāsu wa fīhi ya‘ṣirūn(a)."
+}

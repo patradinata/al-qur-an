@@ -1,0 +1,164 @@
+{
+  "id": 867,
+  "chapter_id": 6,
+  "verse_key": "6:78",
+  "hizb_number": 14,
+  "rub_el_hizb_number": 55,
+  "ruku_number": 110,
+  "manzil_number": 2,
+  "page_number": 137,
+  "juz_number": 7,
+  "text_uthmani": "فَلَمَّا رَءَا ٱلشَّمْسَ بَازِغَةً قَالَ هَـٰذَا رَبِّى هَـٰذَآ أَكْبَرُ ۖ فَلَمَّآ أَفَلَتْ قَالَ يَـٰقَوْمِ إِنِّى بَرِىٓءٌ مِّمَّا تُشْرِكُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/6.mp3",
+  "words": [
+    {
+      "id": 63664,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_078_001.mp3",
+      "text": "فَلَمَّا",
+      "translation": "maka ketika",
+      "transliteration": "falammā"
+    },
+    {
+      "id": 63665,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_078_002.mp3",
+      "text": "رَءَا",
+      "translation": "dia melihat",
+      "transliteration": "raā"
+    },
+    {
+      "id": 63666,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_078_003.mp3",
+      "text": "ٱلشَّمْسَ",
+      "translation": "matahari",
+      "transliteration": "l-shamsa"
+    },
+    {
+      "id": 63667,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_078_004.mp3",
+      "text": "بَازِغَةًۭ",
+      "translation": "terbit",
+      "transliteration": "bāzighatan"
+    },
+    {
+      "id": 63668,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_078_005.mp3",
+      "text": "قَالَ",
+      "translation": "dia berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 63669,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_078_006.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 63670,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_078_007.mp3",
+      "text": "رَبِّى",
+      "translation": "Tuhanku",
+      "transliteration": "rabbī"
+    },
+    {
+      "id": 63671,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_078_008.mp3",
+      "text": "هَـٰذَآ",
+      "translation": "inilah",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 63672,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_078_009.mp3",
+      "text": "أَكْبَرُ ۖ",
+      "translation": "lebih besar",
+      "transliteration": "akbaru"
+    },
+    {
+      "id": 63674,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_078_011.mp3",
+      "text": "فَلَمَّآ",
+      "translation": "maka ketika",
+      "transliteration": "falammā"
+    },
+    {
+      "id": 63675,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_078_012.mp3",
+      "text": "أَفَلَتْ",
+      "translation": "terbenam",
+      "transliteration": "afalat"
+    },
+    {
+      "id": 63676,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_078_013.mp3",
+      "text": "قَالَ",
+      "translation": "dia berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 63677,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_078_014.mp3",
+      "text": "يَـٰقَوْمِ",
+      "translation": "wahai kaumku",
+      "transliteration": "yāqawmi"
+    },
+    {
+      "id": 63678,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_078_015.mp3",
+      "text": "إِنِّى",
+      "translation": "sesungguhnya aku",
+      "transliteration": "innī"
+    },
+    {
+      "id": 63679,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_078_016.mp3",
+      "text": "بَرِىٓءٌۭ",
+      "translation": "berlepas diri",
+      "transliteration": "barīon"
+    },
+    {
+      "id": 63680,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_078_017.mp3",
+      "text": "مِّمَّا",
+      "translation": "dari apa",
+      "transliteration": "mimmā"
+    },
+    {
+      "id": 63681,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_078_018.mp3",
+      "text": "تُشْرِكُونَ",
+      "translation": "kamu persekutukan",
+      "transliteration": "tush'rikūna"
+    },
+    {
+      "id": 63682,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٧٨",
+      "translation": "(78)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian tatkala ia melihat matahari terbit, dia berkata, \"Inilah Tuhan-ku, ini yang lebih besar\".  Maka tatkala matahari itu terbenam, dia berkata, \"Hai kaumku, sesungguhnya aku berlepas diri dari apa yang kamu persekutukan\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Falammā ra'asy-syamsa bāzigatan qāla hāżā rabbī hāżā akbar(u), falammā afalat qāla yā qaumi innī barī'um mimmā tusyrikūn(a)."
+}

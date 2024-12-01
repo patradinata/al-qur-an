@@ -1,0 +1,148 @@
+{
+  "id": 3322,
+  "chapter_id": 28,
+  "verse_key": "28:70",
+  "hizb_number": 40,
+  "rub_el_hizb_number": 157,
+  "ruku_number": 340,
+  "manzil_number": 5,
+  "page_number": 393,
+  "juz_number": 20,
+  "text_uthmani": "وَهُوَ ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ لَهُ ٱلْحَمْدُ فِى ٱلْأُولَىٰ وَٱلْـَٔاخِرَةِ ۖ وَلَهُ ٱلْحُكْمُ وَإِلَيْهِ تُرْجَعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/28.mp3",
+  "words": [
+    {
+      "id": 59665,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_070_001.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan Dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 59666,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_070_002.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 59667,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_070_003.mp3",
+      "text": "لَآ",
+      "translation": "tidak ada",
+      "transliteration": "lā"
+    },
+    {
+      "id": 59668,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_070_004.mp3",
+      "text": "إِلَـٰهَ",
+      "translation": "Tuhan",
+      "transliteration": "ilāha"
+    },
+    {
+      "id": 59669,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_070_005.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 59670,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_070_006.mp3",
+      "text": "هُوَ ۖ",
+      "translation": "Dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 59672,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_070_008.mp3",
+      "text": "لَهُ",
+      "translation": "bagi-Nya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 59673,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_070_009.mp3",
+      "text": "ٱلْحَمْدُ",
+      "translation": "segala puji",
+      "transliteration": "l-ḥamdu"
+    },
+    {
+      "id": 59674,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_070_010.mp3",
+      "text": "فِى",
+      "translation": "dalam/di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 59675,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_070_011.mp3",
+      "text": "ٱلْأُولَىٰ",
+      "translation": "permulaan/dunia",
+      "transliteration": "l-ūlā"
+    },
+    {
+      "id": 59676,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_070_012.mp3",
+      "text": "وَٱلْـَٔاخِرَةِ ۖ",
+      "translation": "dan di akhirat",
+      "transliteration": "wal-ākhirati"
+    },
+    {
+      "id": 59678,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_070_014.mp3",
+      "text": "وَلَهُ",
+      "translation": "dan bagi-Nya",
+      "transliteration": "walahu"
+    },
+    {
+      "id": 59679,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_070_015.mp3",
+      "text": "ٱلْحُكْمُ",
+      "translation": "segala hukum (penentuan)",
+      "transliteration": "l-ḥuk'mu"
+    },
+    {
+      "id": 59680,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_070_016.mp3",
+      "text": "وَإِلَيْهِ",
+      "translation": "dan kepada-Nya",
+      "transliteration": "wa-ilayhi"
+    },
+    {
+      "id": 59681,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_070_017.mp3",
+      "text": "تُرْجَعُونَ",
+      "translation": "kalian dikembalikan",
+      "transliteration": "tur'jaʿūna"
+    },
+    {
+      "id": 59682,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٧٠",
+      "translation": "(70)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Dia-lah Allah, tidak ada Tuhan (yang berhak disembah), melainkan Dia, bagi-Nya-lah segala puji di dunia dan di akhirat dan bagi-Nya-lah segala penentuan, dan hanya kepada-Nya-lah kamu dikembalikan <sup foot_note_id=\"1135\">26</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Wa huwallāhu lā ilāha illā huw(a), lahul-ḥamdu fil-ūlā wal-ākhirah(ti), wa lahul-ḥukmu wa ilaihi turja‘ūn(a)."
+}

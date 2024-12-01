@@ -1,0 +1,380 @@
+{
+  "id": 880,
+  "chapter_id": 6,
+  "verse_key": "6:91",
+  "hizb_number": 14,
+  "rub_el_hizb_number": 55,
+  "ruku_number": 112,
+  "manzil_number": 2,
+  "page_number": 139,
+  "juz_number": 7,
+  "text_uthmani": "وَمَا قَدَرُوا۟ ٱللَّهَ حَقَّ قَدْرِهِۦٓ إِذْ قَالُوا۟ مَآ أَنزَلَ ٱللَّهُ عَلَىٰ بَشَرٍ مِّن شَىْءٍ ۗ قُلْ مَنْ أَنزَلَ ٱلْكِتَـٰبَ ٱلَّذِى جَآءَ بِهِۦ مُوسَىٰ نُورًا وَهُدًى لِّلنَّاسِ ۖ تَجْعَلُونَهُۥ قَرَاطِيسَ تُبْدُونَهَا وَتُخْفُونَ كَثِيرًا ۖ وَعُلِّمْتُم مَّا لَمْ تَعْلَمُوٓا۟ أَنتُمْ وَلَآ ءَابَآؤُكُمْ ۖ قُلِ ٱللَّهُ ۖ ثُمَّ ذَرْهُمْ فِى خَوْضِهِمْ يَلْعَبُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/6.mp3",
+  "words": [
+    {
+      "id": 68266,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_001.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 68267,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_002.mp3",
+      "text": "قَدَرُوا۟",
+      "translation": "mereka menghormati",
+      "transliteration": "qadarū"
+    },
+    {
+      "id": 68268,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_003.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 68269,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_004.mp3",
+      "text": "حَقَّ",
+      "translation": "sebenarnya/semestinya",
+      "transliteration": "ḥaqqa"
+    },
+    {
+      "id": 68270,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_005.mp3",
+      "text": "قَدْرِهِۦٓ",
+      "translation": "penghormatan",
+      "transliteration": "qadrihi"
+    },
+    {
+      "id": 68271,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_006.mp3",
+      "text": "إِذْ",
+      "translation": "ketika",
+      "transliteration": "idh"
+    },
+    {
+      "id": 68272,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_007.mp3",
+      "text": "قَالُوا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 68273,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_008.mp3",
+      "text": "مَآ",
+      "translation": "tidak",
+      "transliteration": "mā"
+    },
+    {
+      "id": 68274,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_009.mp3",
+      "text": "أَنزَلَ",
+      "translation": "menurunkan",
+      "transliteration": "anzala"
+    },
+    {
+      "id": 68275,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_010.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 68276,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_011.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 68277,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_012.mp3",
+      "text": "بَشَرٍۢ",
+      "translation": "manusia",
+      "transliteration": "basharin"
+    },
+    {
+      "id": 68278,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_013.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 68279,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_014.mp3",
+      "text": "شَىْءٍۢ ۗ",
+      "translation": "sesuatu",
+      "transliteration": "shayin"
+    },
+    {
+      "id": 68281,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_016.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 68282,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_017.mp3",
+      "text": "مَنْ",
+      "translation": "siapa",
+      "transliteration": "man"
+    },
+    {
+      "id": 68283,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_018.mp3",
+      "text": "أَنزَلَ",
+      "translation": "menurunkan",
+      "transliteration": "anzala"
+    },
+    {
+      "id": 68284,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_019.mp3",
+      "text": "ٱلْكِتَـٰبَ",
+      "translation": "kitab",
+      "transliteration": "l-kitāba"
+    },
+    {
+      "id": 68285,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_020.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 68286,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_021.mp3",
+      "text": "جَآءَ",
+      "translation": "datang (dibawa)",
+      "transliteration": "jāa"
+    },
+    {
+      "id": 68287,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_022.mp3",
+      "text": "بِهِۦ",
+      "translation": "dengannya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 68288,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_023.mp3",
+      "text": "مُوسَىٰ",
+      "translation": "Musa",
+      "transliteration": "mūsā"
+    },
+    {
+      "id": 68289,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_024.mp3",
+      "text": "نُورًۭا",
+      "translation": "cahaya",
+      "transliteration": "nūran"
+    },
+    {
+      "id": 68290,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_025.mp3",
+      "text": "وَهُدًۭى",
+      "translation": "dan petunjuk",
+      "transliteration": "wahudan"
+    },
+    {
+      "id": 68291,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_026.mp3",
+      "text": "لِّلنَّاسِ ۖ",
+      "translation": "bagi manusia",
+      "transliteration": "lilnnāsi"
+    },
+    {
+      "id": 68293,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_028.mp3",
+      "text": "تَجْعَلُونَهُۥ",
+      "translation": "kamu jadikannya (kitab itu)",
+      "transliteration": "tajʿalūnahu"
+    },
+    {
+      "id": 68294,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_029.mp3",
+      "text": "قَرَاطِيسَ",
+      "translation": "lembaran-lembaran kertas",
+      "transliteration": "qarāṭīsa"
+    },
+    {
+      "id": 68295,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_030.mp3",
+      "text": "تُبْدُونَهَا",
+      "translation": "kamu perlihatkannya",
+      "transliteration": "tub'dūnahā"
+    },
+    {
+      "id": 68296,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_031.mp3",
+      "text": "وَتُخْفُونَ",
+      "translation": "dan kamu sembunyikan",
+      "transliteration": "watukh'fūna"
+    },
+    {
+      "id": 68297,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_032.mp3",
+      "text": "كَثِيرًۭا ۖ",
+      "translation": "kebanyakan/sebagian besar",
+      "transliteration": "kathīran"
+    },
+    {
+      "id": 68299,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_034.mp3",
+      "text": "وَعُلِّمْتُم",
+      "translation": "dan kamu diajarkan",
+      "transliteration": "waʿullim'tum"
+    },
+    {
+      "id": 68300,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_035.mp3",
+      "text": "مَّا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 68301,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_036.mp3",
+      "text": "لَمْ",
+      "translation": "belum/tidak",
+      "transliteration": "lam"
+    },
+    {
+      "id": 68302,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_037.mp3",
+      "text": "تَعْلَمُوٓا۟",
+      "translation": "kamu ketahui",
+      "transliteration": "taʿlamū"
+    },
+    {
+      "id": 68303,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_038.mp3",
+      "text": "أَنتُمْ",
+      "translation": "kamu",
+      "transliteration": "antum"
+    },
+    {
+      "id": 68304,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_039.mp3",
+      "text": "وَلَآ",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 68305,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_040.mp3",
+      "text": "ءَابَآؤُكُمْ ۖ",
+      "translation": "bapak-bapak kamu",
+      "transliteration": "ābāukum"
+    },
+    {
+      "id": 68307,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_042.mp3",
+      "text": "قُلِ",
+      "translation": "katakanlah",
+      "transliteration": "quli"
+    },
+    {
+      "id": 68308,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_043.mp3",
+      "text": "ٱللَّهُ ۖ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 68310,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_045.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 68311,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_046.mp3",
+      "text": "ذَرْهُمْ",
+      "translation": "biarkanlah mereka",
+      "transliteration": "dharhum"
+    },
+    {
+      "id": 68312,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_047.mp3",
+      "text": "فِى",
+      "translation": "di dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 68313,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_048.mp3",
+      "text": "خَوْضِهِمْ",
+      "translation": "kesesatan mereka",
+      "transliteration": "khawḍihim"
+    },
+    {
+      "id": 68314,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_091_049.mp3",
+      "text": "يَلْعَبُونَ",
+      "translation": "mereka bermain-main",
+      "transliteration": "yalʿabūna"
+    },
+    {
+      "id": 68315,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٩١",
+      "translation": "(91)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan mereka tidak menghormati Allah dengan penghormatan yang semestinya di kala mereka berkata, \"Allah tidak menurunkan sesuatu pun kepada manusia\".  Katakanlah, \"Siapakah yang menurunkan kitab (Taurat) yang dibawa oleh Musa sebagai cahaya dan petunjuk bagi manusia; kamu jadikan kitab itu lembaran-lembaran kertas yang bercerai-berai, kamu perlihatkan (sebagiannya) dan kamu sembunyikan sebagian besarnya, padahal telah diajarkan kepadamu apa yang kamu dan bapak-bapak kamu tidak mengetahui(nya)?\" Katakanlah, \"Allah-lah (yang menurunkannya)\", kemudian (sesudah kamu menyampaikan Al-Qur`ān kepada mereka), biarkanlah mereka bermain-main dalam kesesatannya<sup foot_note_id=\"492\">35</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Wa mā qadarullāha ḥaqqa qadrihī iż qālū mā anzalallāhu ‘alā basyarim min syai'(in), qul man anzalal-kitābal-lażī jā'a bihī mūsā nūraw wa hudal lin-nāsi taj‘alūnahū qarāṭīsa tubdūnahā wa tukhfūna kaṡīrā(n), wa ‘ullimtum mā lam ta‘lamū antum wa lā ābā'ukum, qulillāh(u), ṡumma żarhum fī khauḍihim yal‘abūn(a)."
+}

@@ -1,0 +1,252 @@
+{
+  "id": 2668,
+  "chapter_id": 22,
+  "verse_key": "22:73",
+  "hizb_number": 34,
+  "rub_el_hizb_number": 136,
+  "ruku_number": 294,
+  "manzil_number": 4,
+  "page_number": 341,
+  "juz_number": 17,
+  "text_uthmani": "يَـٰٓأَيُّهَا ٱلنَّاسُ ضُرِبَ مَثَلٌ فَٱسْتَمِعُوا۟ لَهُۥٓ ۚ إِنَّ ٱلَّذِينَ تَدْعُونَ مِن دُونِ ٱللَّهِ لَن يَخْلُقُوا۟ ذُبَابًا وَلَوِ ٱجْتَمَعُوا۟ لَهُۥ ۖ وَإِن يَسْلُبْهُمُ ٱلذُّبَابُ شَيْـًٔا لَّا يَسْتَنقِذُوهُ مِنْهُ ۚ ضَعُفَ ٱلطَّالِبُ وَٱلْمَطْلُوبُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/22.mp3",
+  "words": [
+    {
+      "id": 61244,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_073_001.mp3",
+      "text": "يَـٰٓأَيُّهَا",
+      "translation": "wahai",
+      "transliteration": "yāayyuhā"
+    },
+    {
+      "id": 61245,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_073_002.mp3",
+      "text": "ٱلنَّاسُ",
+      "translation": "manusia",
+      "transliteration": "l-nāsu"
+    },
+    {
+      "id": 61246,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_073_003.mp3",
+      "text": "ضُرِبَ",
+      "translation": "telah dijadikan",
+      "transliteration": "ḍuriba"
+    },
+    {
+      "id": 61247,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_073_004.mp3",
+      "text": "مَثَلٌۭ",
+      "translation": "perumpamaan",
+      "transliteration": "mathalun"
+    },
+    {
+      "id": 61248,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_073_005.mp3",
+      "text": "فَٱسْتَمِعُوا۟",
+      "translation": "maka dengarkanlah",
+      "transliteration": "fa-is'tamiʿū"
+    },
+    {
+      "id": 61249,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_073_006.mp3",
+      "text": "لَهُۥٓ ۚ",
+      "translation": "padanya (perumpamaan itu)",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 61251,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_073_008.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 61252,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_073_009.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 61253,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_073_010.mp3",
+      "text": "تَدْعُونَ",
+      "translation": "kamu seru",
+      "transliteration": "tadʿūna"
+    },
+    {
+      "id": 61254,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_073_011.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 61255,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_073_012.mp3",
+      "text": "دُونِ",
+      "translation": "selain",
+      "transliteration": "dūni"
+    },
+    {
+      "id": 61256,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_073_013.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 61257,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_073_014.mp3",
+      "text": "لَن",
+      "translation": "mereka tidak",
+      "transliteration": "lan"
+    },
+    {
+      "id": 61258,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_073_015.mp3",
+      "text": "يَخْلُقُوا۟",
+      "translation": "dapat menciptakan",
+      "transliteration": "yakhluqū"
+    },
+    {
+      "id": 61259,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_073_016.mp3",
+      "text": "ذُبَابًۭا",
+      "translation": "seekor lalat",
+      "transliteration": "dhubāban"
+    },
+    {
+      "id": 61260,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_073_017.mp3",
+      "text": "وَلَوِ",
+      "translation": "walaupun",
+      "transliteration": "walawi"
+    },
+    {
+      "id": 61261,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_073_018.mp3",
+      "text": "ٱجْتَمَعُوا۟",
+      "translation": "mereka berkumpul",
+      "transliteration": "ij'tamaʿū"
+    },
+    {
+      "id": 61262,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_073_019.mp3",
+      "text": "لَهُۥ ۖ",
+      "translation": "untuknya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 61264,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_073_021.mp3",
+      "text": "وَإِن",
+      "translation": "dan jika",
+      "transliteration": "wa-in"
+    },
+    {
+      "id": 61265,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_073_022.mp3",
+      "text": "يَسْلُبْهُمُ",
+      "translation": "merampas mereka",
+      "transliteration": "yaslub'humu"
+    },
+    {
+      "id": 61266,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_073_023.mp3",
+      "text": "ٱلذُّبَابُ",
+      "translation": "lalat itu",
+      "transliteration": "l-dhubābu"
+    },
+    {
+      "id": 61267,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_073_024.mp3",
+      "text": "شَيْـًۭٔا",
+      "translation": "sesuatu",
+      "transliteration": "shayan"
+    },
+    {
+      "id": 61268,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_073_025.mp3",
+      "text": "لَّا",
+      "translation": "tidaklah",
+      "transliteration": "lā"
+    },
+    {
+      "id": 61269,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_073_026.mp3",
+      "text": "يَسْتَنقِذُوهُ",
+      "translation": "mereka mempertahankannya/merebutnya",
+      "transliteration": "yastanqidhūhu"
+    },
+    {
+      "id": 61270,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_073_027.mp3",
+      "text": "مِنْهُ ۚ",
+      "translation": "dari padanya",
+      "transliteration": "min'hu"
+    },
+    {
+      "id": 61272,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_073_029.mp3",
+      "text": "ضَعُفَ",
+      "translation": "lemah",
+      "transliteration": "ḍaʿufa"
+    },
+    {
+      "id": 61273,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_073_030.mp3",
+      "text": "ٱلطَّالِبُ",
+      "translation": "orang yang mencari/menyembah",
+      "transliteration": "l-ṭālibu"
+    },
+    {
+      "id": 61274,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_073_031.mp3",
+      "text": "وَٱلْمَطْلُوبُ",
+      "translation": "dan orang yang dicari/disembah",
+      "transliteration": "wal-maṭlūbu"
+    },
+    {
+      "id": 61275,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٧٣",
+      "translation": "(73)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Hai manusia, telah dibuat perumpamaan, maka dengarkanlah olehmu perumpamaan itu.  Sesungguhnya segala yang kamu seru selain Allah sekali-kali tidak dapat menciptakan seekor lalat pun, walaupun mereka bersatu menciptakannya.  Dan jika lalat itu merampas sesuatu dari mereka, tiadalah mereka dapat merebutnya kembali dari lalat itu.  Amat lemahlah yang menyembah dan amat lemah (pulalah) yang disembah.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Yā ayyuhan-nāsu ḍuriba maṡalum fastami‘ū lah(ū), innal-lażīna tad‘ūna min dūnillāhi lay yakhluqū żubābaw wa lawijtama‘ū lah(ū), wa iy yaslubhumuż-żubābu syai'al lā yastanqiżūhu minh(u), ḍa‘ufaṭ-ṭālibu wal-maṭlūb(u)."
+}

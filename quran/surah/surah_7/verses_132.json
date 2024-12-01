@@ -1,0 +1,124 @@
+{
+  "id": 1086,
+  "chapter_id": 7,
+  "verse_key": "7:132",
+  "hizb_number": 17,
+  "rub_el_hizb_number": 66,
+  "ruku_number": 137,
+  "manzil_number": 2,
+  "page_number": 166,
+  "juz_number": 9,
+  "text_uthmani": "وَقَالُوا۟ مَهْمَا تَأْتِنَا بِهِۦ مِنْ ءَايَةٍ لِّتَسْحَرَنَا بِهَا فَمَا نَحْنُ لَكَ بِمُؤْمِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 78220,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_132_001.mp3",
+      "text": "وَقَالُوا۟",
+      "translation": "dan mereka berkata",
+      "transliteration": "waqālū"
+    },
+    {
+      "id": 78221,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_132_002.mp3",
+      "text": "مَهْمَا",
+      "translation": "bagaimanapun",
+      "transliteration": "mahmā"
+    },
+    {
+      "id": 78222,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_132_003.mp3",
+      "text": "تَأْتِنَا",
+      "translation": "kamu mendatangkan kepada kami",
+      "transliteration": "tatinā"
+    },
+    {
+      "id": 78223,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_132_004.mp3",
+      "text": "بِهِۦ",
+      "translation": "dengannya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 78224,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_132_005.mp3",
+      "text": "مِنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 78225,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_132_006.mp3",
+      "text": "ءَايَةٍۢ",
+      "translation": "ayat/keterangan",
+      "transliteration": "āyatin"
+    },
+    {
+      "id": 78226,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_132_007.mp3",
+      "text": "لِّتَسْحَرَنَا",
+      "translation": "untuk menyihir kami",
+      "transliteration": "litasḥaranā"
+    },
+    {
+      "id": 78227,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_132_008.mp3",
+      "text": "بِهَا",
+      "translation": "dengannya",
+      "transliteration": "bihā"
+    },
+    {
+      "id": 78228,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_132_009.mp3",
+      "text": "فَمَا",
+      "translation": "maka tidaklah",
+      "transliteration": "famā"
+    },
+    {
+      "id": 78229,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_132_010.mp3",
+      "text": "نَحْنُ",
+      "translation": "kami",
+      "transliteration": "naḥnu"
+    },
+    {
+      "id": 78230,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_132_011.mp3",
+      "text": "لَكَ",
+      "translation": "kepadamu",
+      "transliteration": "laka"
+    },
+    {
+      "id": 78231,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_132_012.mp3",
+      "text": "بِمُؤْمِنِينَ",
+      "translation": "orang-orang yang beriman",
+      "transliteration": "bimu'minīna"
+    },
+    {
+      "id": 78232,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "١٣٢",
+      "translation": "(132)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka berkata, \"Bagaimanapun kamu mendatangkan keterangan kepada kami untuk menyihir kami dengan keterangan itu, maka kami sekali-kali tidak akan beriman kepadamu\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Wa qālū mahmā ta'tinā bihī min āyatil litasḥaranā bihā, famā naḥnu laka bimu'minīn(a)."
+}

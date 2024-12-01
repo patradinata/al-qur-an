@@ -1,0 +1,84 @@
+{
+  "id": 3686,
+  "chapter_id": 35,
+  "verse_key": "35:26",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 175,
+  "ruku_number": 380,
+  "manzil_number": 5,
+  "page_number": 437,
+  "juz_number": 22,
+  "text_uthmani": "ثُمَّ أَخَذْتُ ٱلَّذِينَ كَفَرُوا۟ ۖ فَكَيْفَ كَانَ نَكِيرِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/35.mp3",
+  "words": [
+    {
+      "id": 29363,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_026_001.mp3",
+      "text": "ثُمَّ",
+      "translation": "kemudian",
+      "transliteration": "thumma"
+    },
+    {
+      "id": 29364,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_026_002.mp3",
+      "text": "أَخَذْتُ",
+      "translation": "Aku ambil/azab",
+      "transliteration": "akhadhtu"
+    },
+    {
+      "id": 29365,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_026_003.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 29366,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_026_004.mp3",
+      "text": "كَفَرُوا۟ ۖ",
+      "translation": "kafir/ingkar",
+      "transliteration": "kafarū"
+    },
+    {
+      "id": 29368,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_026_006.mp3",
+      "text": "فَكَيْفَ",
+      "translation": "maka bagaimana",
+      "transliteration": "fakayfa"
+    },
+    {
+      "id": 29369,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_026_007.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 29370,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/035_026_008.mp3",
+      "text": "نَكِيرِ",
+      "translation": "kemurkaan-Ku/hukuman-Ku",
+      "transliteration": "nakīri"
+    },
+    {
+      "id": 29371,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٢٦",
+      "translation": "(26)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kemudian, Aku azab orang-orang yang kafir, maka (lihatlah) bagaimana (hebatnya) akibat kemurkaan-Ku.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Ṡumma akhażtul-lażīna kafarū fakaifa kāna nakīr(i)."
+}

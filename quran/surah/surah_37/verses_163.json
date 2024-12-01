@@ -1,0 +1,68 @@
+{
+  "id": 3951,
+  "chapter_id": 37,
+  "verse_key": "37:163",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "page_number": 452,
+  "juz_number": 23,
+  "text_uthmani": "إِلَّا مَنْ هُوَ صَالِ ٱلْجَحِيمِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 82100,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_163_001.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 82101,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_163_002.mp3",
+      "text": "مَنْ",
+      "translation": "orang",
+      "transliteration": "man"
+    },
+    {
+      "id": 82102,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_163_003.mp3",
+      "text": "هُوَ",
+      "translation": "dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 82103,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_163_004.mp3",
+      "text": "صَالِ",
+      "translation": "sampai/masuk",
+      "transliteration": "ṣāli"
+    },
+    {
+      "id": 82104,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_163_005.mp3",
+      "text": "ٱلْجَحِيمِ",
+      "translation": "neraka yang menyala",
+      "transliteration": "l-jaḥīmi"
+    },
+    {
+      "id": 82105,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "١٦٣",
+      "translation": "(163)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kecuali orang-orang yang akan masuk neraka yang menyala.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Illā man huwa ṣālil-jaḥīm(i)."
+}

@@ -1,0 +1,100 @@
+{
+  "id": 1909,
+  "chapter_id": 16,
+  "verse_key": "16:8",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 107,
+  "ruku_number": 224,
+  "manzil_number": 3,
+  "page_number": 268,
+  "juz_number": 14,
+  "text_uthmani": "وَٱلْخَيْلَ وَٱلْبِغَالَ وَٱلْحَمِيرَ لِتَرْكَبُوهَا وَزِينَةً ۚ وَيَخْلُقُ مَا لَا تَعْلَمُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/16.mp3",
+  "words": [
+    {
+      "id": 9587,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_008_001.mp3",
+      "text": "وَٱلْخَيْلَ",
+      "translation": "dan kuda",
+      "transliteration": "wal-khayla"
+    },
+    {
+      "id": 9588,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_008_002.mp3",
+      "text": "وَٱلْبِغَالَ",
+      "translation": "dan baghal",
+      "transliteration": "wal-bighāla"
+    },
+    {
+      "id": 9589,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_008_003.mp3",
+      "text": "وَٱلْحَمِيرَ",
+      "translation": "dan keledai",
+      "transliteration": "wal-ḥamīra"
+    },
+    {
+      "id": 9590,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_008_004.mp3",
+      "text": "لِتَرْكَبُوهَا",
+      "translation": "agar kamu menungganginya",
+      "transliteration": "litarkabūhā"
+    },
+    {
+      "id": 9591,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_008_005.mp3",
+      "text": "وَزِينَةًۭ ۚ",
+      "translation": "dan perhiasan",
+      "transliteration": "wazīnatan"
+    },
+    {
+      "id": 9593,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_008_007.mp3",
+      "text": "وَيَخْلُقُ",
+      "translation": "dan Dia menciptakan",
+      "transliteration": "wayakhluqu"
+    },
+    {
+      "id": 9594,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_008_008.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 9595,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_008_009.mp3",
+      "text": "لَا",
+      "translation": "yang tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 9596,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/016_008_010.mp3",
+      "text": "تَعْلَمُونَ",
+      "translation": "(kalian) mengetahui",
+      "transliteration": "taʿlamūna"
+    },
+    {
+      "id": 9597,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٨",
+      "translation": "(8)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan (Dia telah menciptakan) kuda, bagal <sup foot_note_id=\"820\">3</sup> dan keledai agar kamu menungganginya dan (menjadikannya) perhiasan.  Dan Allah menciptakan apa yang kamu tidak mengetahuinya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Wal-khaila wal-bigāla wal-ḥamīra litarkabūhā wa zīnah(tan), wa yakhluqu mā lā ta‘lamūn(a)."
+}

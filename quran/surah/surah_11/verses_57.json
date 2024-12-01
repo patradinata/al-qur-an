@@ -1,0 +1,196 @@
+{
+  "id": 1530,
+  "chapter_id": 11,
+  "verse_key": "11:57",
+  "hizb_number": 23,
+  "rub_el_hizb_number": 91,
+  "ruku_number": 187,
+  "manzil_number": 3,
+  "page_number": 228,
+  "juz_number": 12,
+  "text_uthmani": "فَإِن تَوَلَّوْا۟ فَقَدْ أَبْلَغْتُكُم مَّآ أُرْسِلْتُ بِهِۦٓ إِلَيْكُمْ ۚ وَيَسْتَخْلِفُ رَبِّى قَوْمًا غَيْرَكُمْ وَلَا تَضُرُّونَهُۥ شَيْـًٔا ۚ إِنَّ رَبِّى عَلَىٰ كُلِّ شَىْءٍ حَفِيظٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/11.mp3",
+  "words": [
+    {
+      "id": 52886,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_057_001.mp3",
+      "text": "فَإِن",
+      "translation": "maka jika",
+      "transliteration": "fa-in"
+    },
+    {
+      "id": 52887,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_057_002.mp3",
+      "text": "تَوَلَّوْا۟",
+      "translation": "kamu berpaling",
+      "transliteration": "tawallaw"
+    },
+    {
+      "id": 52888,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_057_003.mp3",
+      "text": "فَقَدْ",
+      "translation": "maka sesungguhnya",
+      "transliteration": "faqad"
+    },
+    {
+      "id": 52889,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_057_004.mp3",
+      "text": "أَبْلَغْتُكُم",
+      "translation": "aku telah menyampaikan kepadamu",
+      "transliteration": "ablaghtukum"
+    },
+    {
+      "id": 52890,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_057_005.mp3",
+      "text": "مَّآ",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 52891,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_057_006.mp3",
+      "text": "أُرْسِلْتُ",
+      "translation": "aku diutus",
+      "transliteration": "ur'sil'tu"
+    },
+    {
+      "id": 52892,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_057_007.mp3",
+      "text": "بِهِۦٓ",
+      "translation": "dengannya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 52893,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_057_008.mp3",
+      "text": "إِلَيْكُمْ ۚ",
+      "translation": "kepadamu",
+      "transliteration": "ilaykum"
+    },
+    {
+      "id": 52895,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_057_010.mp3",
+      "text": "وَيَسْتَخْلِفُ",
+      "translation": "dan akan mengganti",
+      "transliteration": "wayastakhlifu"
+    },
+    {
+      "id": 52896,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_057_011.mp3",
+      "text": "رَبِّى",
+      "translation": "Tuhanku",
+      "transliteration": "rabbī"
+    },
+    {
+      "id": 52897,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_057_012.mp3",
+      "text": "قَوْمًا",
+      "translation": "kaum",
+      "transliteration": "qawman"
+    },
+    {
+      "id": 52898,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_057_013.mp3",
+      "text": "غَيْرَكُمْ",
+      "translation": "selain kamu",
+      "transliteration": "ghayrakum"
+    },
+    {
+      "id": 52899,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_057_014.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak dapat",
+      "transliteration": "walā"
+    },
+    {
+      "id": 52900,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_057_015.mp3",
+      "text": "تَضُرُّونَهُۥ",
+      "translation": "kamu membuat mudharat kepada-Nya",
+      "transliteration": "taḍurrūnahu"
+    },
+    {
+      "id": 52901,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_057_016.mp3",
+      "text": "شَيْـًٔا ۚ",
+      "translation": "sesuatu/sedikitpun",
+      "transliteration": "shayan"
+    },
+    {
+      "id": 52903,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_057_018.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 52904,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_057_019.mp3",
+      "text": "رَبِّى",
+      "translation": "Tuhanku",
+      "transliteration": "rabbī"
+    },
+    {
+      "id": 52905,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_057_020.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 52906,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_057_021.mp3",
+      "text": "كُلِّ",
+      "translation": "segala",
+      "transliteration": "kulli"
+    },
+    {
+      "id": 52907,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_057_022.mp3",
+      "text": "شَىْءٍ",
+      "translation": "sesuatu",
+      "transliteration": "shayin"
+    },
+    {
+      "id": 52908,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_057_023.mp3",
+      "text": "حَفِيظٌۭ",
+      "translation": "Maha Pemelihara",
+      "transliteration": "ḥafīẓun"
+    },
+    {
+      "id": 52909,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٥٧",
+      "translation": "(57)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Jika kamu berpaling, maka sesungguhnya aku telah menyampaikan kepadamu apa (amanat) yang aku diutus (untuk menyampaikan)nya kepadamu.  Dan Tuhan-ku akan mengganti (kamu) dengan kaum yang lain (dari) kamu dan kamu tidak dapat membuat mudarat kepada-Nya sedikit pun.  Sesungguhnya Tuhan-ku adalah Maha Pemelihara segala sesuatu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Fa in tawallau faqad ablagtukum mā ursiltu bihī ilaikum, wa yastakhlifu rabbī qauman gairakum, wa lā taḍurrūnahū syai'ā(n), inna rabbī ‘alā kulli syai'in ḥafīẓ(un)."
+}

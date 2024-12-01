@@ -1,0 +1,116 @@
+{
+  "id": 4409,
+  "chapter_id": 43,
+  "verse_key": "43:84",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 432,
+  "manzil_number": 6,
+  "page_number": 495,
+  "juz_number": 25,
+  "text_uthmani": "وَهُوَ ٱلَّذِى فِى ٱلسَّمَآءِ إِلَـٰهٌ وَفِى ٱلْأَرْضِ إِلَـٰهٌ ۚ وَهُوَ ٱلْحَكِيمُ ٱلْعَلِيمُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/43.mp3",
+  "words": [
+    {
+      "id": 65656,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_084_001.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan Dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 65657,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_084_002.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 65658,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_084_003.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 65659,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_084_004.mp3",
+      "text": "ٱلسَّمَآءِ",
+      "translation": "langit",
+      "transliteration": "l-samāi"
+    },
+    {
+      "id": 65660,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_084_005.mp3",
+      "text": "إِلَـٰهٌۭ",
+      "translation": "Tuhan",
+      "transliteration": "ilāhun"
+    },
+    {
+      "id": 65661,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_084_006.mp3",
+      "text": "وَفِى",
+      "translation": "dan di",
+      "transliteration": "wafī"
+    },
+    {
+      "id": 65662,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_084_007.mp3",
+      "text": "ٱلْأَرْضِ",
+      "translation": "bumi",
+      "transliteration": "l-arḍi"
+    },
+    {
+      "id": 65663,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_084_008.mp3",
+      "text": "إِلَـٰهٌۭ ۚ",
+      "translation": "Tuhan",
+      "transliteration": "ilāhun"
+    },
+    {
+      "id": 65665,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_084_010.mp3",
+      "text": "وَهُوَ",
+      "translation": "dan Dia",
+      "transliteration": "wahuwa"
+    },
+    {
+      "id": 65666,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_084_011.mp3",
+      "text": "ٱلْحَكِيمُ",
+      "translation": "Maha Bijaksana",
+      "transliteration": "l-ḥakīmu"
+    },
+    {
+      "id": 65667,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/043_084_012.mp3",
+      "text": "ٱلْعَلِيمُ",
+      "translation": "Maha Mengetahui",
+      "transliteration": "l-ʿalīmu"
+    },
+    {
+      "id": 65668,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "٨٤",
+      "translation": "(84)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Dia-lah Tuhan (Yang disembah) di langit dan Tuhan (Yang disembah) di bumi dan Dia-lah Yang Maha Bijaksana lagi Maha Mengetahui.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Wa huwal-lażī fis-samā'i ilāhuw wa fil-arḍi ilāh(un), wa huwal-ḥakīmul-‘alīm(u)."
+}

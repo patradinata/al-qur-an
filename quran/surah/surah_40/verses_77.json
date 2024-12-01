@@ -1,0 +1,140 @@
+{
+  "id": 4210,
+  "chapter_id": 40,
+  "verse_key": "40:77",
+  "hizb_number": 48,
+  "rub_el_hizb_number": 190,
+  "ruku_number": 413,
+  "manzil_number": 6,
+  "page_number": 475,
+  "juz_number": 24,
+  "text_uthmani": "فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ ۚ فَإِمَّا نُرِيَنَّكَ بَعْضَ ٱلَّذِى نَعِدُهُمْ أَوْ نَتَوَفَّيَنَّكَ فَإِلَيْنَا يُرْجَعُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/40.mp3",
+  "words": [
+    {
+      "id": 62994,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_077_001.mp3",
+      "text": "فَٱصْبِرْ",
+      "translation": "maka bersabarlah kamu",
+      "transliteration": "fa-iṣ'bir"
+    },
+    {
+      "id": 62995,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_077_002.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 62996,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_077_003.mp3",
+      "text": "وَعْدَ",
+      "translation": "janji",
+      "transliteration": "waʿda"
+    },
+    {
+      "id": 62997,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_077_004.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 62998,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_077_005.mp3",
+      "text": "حَقٌّۭ ۚ",
+      "translation": "benar",
+      "transliteration": "ḥaqqun"
+    },
+    {
+      "id": 63000,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_077_007.mp3",
+      "text": "فَإِمَّا",
+      "translation": "maka adapun",
+      "transliteration": "fa-immā"
+    },
+    {
+      "id": 63001,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_077_008.mp3",
+      "text": "نُرِيَنَّكَ",
+      "translation": "Kami perlihatkan kepadamu",
+      "transliteration": "nuriyannaka"
+    },
+    {
+      "id": 63002,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_077_009.mp3",
+      "text": "بَعْضَ",
+      "translation": "sebagai",
+      "transliteration": "baʿḍa"
+    },
+    {
+      "id": 63003,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_077_010.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 63004,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_077_011.mp3",
+      "text": "نَعِدُهُمْ",
+      "translation": "Kami ancamkan pada mereka",
+      "transliteration": "naʿiduhum"
+    },
+    {
+      "id": 63005,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_077_012.mp3",
+      "text": "أَوْ",
+      "translation": "atau",
+      "transliteration": "aw"
+    },
+    {
+      "id": 63006,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_077_013.mp3",
+      "text": "نَتَوَفَّيَنَّكَ",
+      "translation": "Kami wafatkan kamu",
+      "transliteration": "natawaffayannaka"
+    },
+    {
+      "id": 63007,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_077_014.mp3",
+      "text": "فَإِلَيْنَا",
+      "translation": "maka kepada Kami",
+      "transliteration": "fa-ilaynā"
+    },
+    {
+      "id": 63008,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_077_015.mp3",
+      "text": "يُرْجَعُونَ",
+      "translation": "mereka dikembalikan",
+      "transliteration": "yur'jaʿūna"
+    },
+    {
+      "id": 63009,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٧٧",
+      "translation": "(77)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka bersabarlah kamu, sesungguhnya janji Allah adalah benar; maka meskipun Kami perlihatkan kepadamu sebagian siksa yang Kami ancamkan kepada mereka ataupun Kami wafatkan kamu (sebelum ajal menimpa mereka), namun kepada Kami sajalah mereka dikembalikan.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Faṣbir inna wa‘dallāhi ḥaqq(un), fa'immā nuriyannaka ba‘ḍal-lażī na‘iduhum au natawaffayannaka fa'ilainā yurja‘ūn(a)."
+}

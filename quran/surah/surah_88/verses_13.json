@@ -1,0 +1,52 @@
+{
+  "id": 5980,
+  "chapter_id": 88,
+  "verse_key": "88:13",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "page_number": 592,
+  "juz_number": 30,
+  "text_uthmani": "فِيهَا سُرُرٌ مَّرْفُوعَةٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/88.mp3",
+  "words": [
+    {
+      "id": 14875,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_013_001.mp3",
+      "text": "فِيهَا",
+      "translation": "di dalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 14876,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_013_002.mp3",
+      "text": "سُرُرٌۭ",
+      "translation": "tempat tempat duduk",
+      "transliteration": "sururun"
+    },
+    {
+      "id": 14877,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/088_013_003.mp3",
+      "text": "مَّرْفُوعَةٌۭ",
+      "translation": "yang tinggi",
+      "transliteration": "marfūʿatun"
+    },
+    {
+      "id": 14878,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٣",
+      "translation": "(13)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Di dalamnya ada takhta-takhta yang ditinggikan,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Fīhā sururum marfū‘ah(tun)."
+}

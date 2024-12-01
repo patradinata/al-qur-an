@@ -1,0 +1,60 @@
+{
+  "id": 3110,
+  "chapter_id": 26,
+  "verse_key": "26:178",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 325,
+  "manzil_number": 5,
+  "page_number": 374,
+  "juz_number": 19,
+  "text_uthmani": "إِنِّى لَكُمْ رَسُولٌ أَمِينٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 83600,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_178_001.mp3",
+      "text": "إِنِّى",
+      "translation": "sesungguhnya aku",
+      "transliteration": "innī"
+    },
+    {
+      "id": 83601,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_178_002.mp3",
+      "text": "لَكُمْ",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 83602,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_178_003.mp3",
+      "text": "رَسُولٌ",
+      "translation": "seorang Rasul",
+      "transliteration": "rasūlun"
+    },
+    {
+      "id": 83603,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_178_004.mp3",
+      "text": "أَمِينٌۭ",
+      "translation": "kepercayaan",
+      "transliteration": "amīnun"
+    },
+    {
+      "id": 83604,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "١٧٨",
+      "translation": "(178)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya aku adalah seorang rasul kepercayaan (yang diutus) kepadamu,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Innī lakum rasūlun amīn(un)."
+}

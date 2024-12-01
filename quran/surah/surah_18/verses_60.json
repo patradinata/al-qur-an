@@ -1,0 +1,132 @@
+{
+  "id": 2200,
+  "chapter_id": 18,
+  "verse_key": "18:60",
+  "hizb_number": 30,
+  "rub_el_hizb_number": 120,
+  "ruku_number": 260,
+  "manzil_number": 4,
+  "page_number": 300,
+  "juz_number": 15,
+  "text_uthmani": "وَإِذْ قَالَ مُوسَىٰ لِفَتَىٰهُ لَآ أَبْرَحُ حَتَّىٰٓ أَبْلُغَ مَجْمَعَ ٱلْبَحْرَيْنِ أَوْ أَمْضِىَ حُقُبًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/18.mp3",
+  "words": [
+    {
+      "id": 54357,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_060_001.mp3",
+      "text": "وَإِذْ",
+      "translation": "dan ketika",
+      "transliteration": "wa-idh"
+    },
+    {
+      "id": 54358,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_060_002.mp3",
+      "text": "قَالَ",
+      "translation": "berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 54359,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_060_003.mp3",
+      "text": "مُوسَىٰ",
+      "translation": "Musa",
+      "transliteration": "mūsā"
+    },
+    {
+      "id": 54360,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_060_004.mp3",
+      "text": "لِفَتَىٰهُ",
+      "translation": "kepada bujangnya",
+      "transliteration": "lifatāhu"
+    },
+    {
+      "id": 54361,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_060_005.mp3",
+      "text": "لَآ",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 54362,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_060_006.mp3",
+      "text": "أَبْرَحُ",
+      "translation": "aku berhenti",
+      "transliteration": "abraḥu"
+    },
+    {
+      "id": 54363,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_060_007.mp3",
+      "text": "حَتَّىٰٓ",
+      "translation": "sehingga",
+      "transliteration": "ḥattā"
+    },
+    {
+      "id": 54364,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_060_008.mp3",
+      "text": "أَبْلُغَ",
+      "translation": "aku sampai",
+      "transliteration": "ablugha"
+    },
+    {
+      "id": 54365,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_060_009.mp3",
+      "text": "مَجْمَعَ",
+      "translation": "pertemuan",
+      "transliteration": "majmaʿa"
+    },
+    {
+      "id": 54366,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_060_010.mp3",
+      "text": "ٱلْبَحْرَيْنِ",
+      "translation": "dua lautan",
+      "transliteration": "l-baḥrayni"
+    },
+    {
+      "id": 54367,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_060_011.mp3",
+      "text": "أَوْ",
+      "translation": "atau",
+      "transliteration": "aw"
+    },
+    {
+      "id": 54368,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_060_012.mp3",
+      "text": "أَمْضِىَ",
+      "translation": "aku berlalu/berjalan",
+      "transliteration": "amḍiya"
+    },
+    {
+      "id": 54369,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/018_060_013.mp3",
+      "text": "حُقُبًۭا",
+      "translation": "bertahun-tahun",
+      "transliteration": "ḥuquban"
+    },
+    {
+      "id": 54370,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٦٠",
+      "translation": "(60)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan (ingatlah) ketika Musa berkata kepada muridnya <sup foot_note_id=\"884\">15</sup>, \"Aku tidak akan berhenti (berjalan) sebelum sampai ke pertemuan dua buah lautan atau aku akan berjalan sampai bertahun-tahun\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Wa iż qāla mūsā lifatāhu lā abraḥu ḥattā abluga majma‘al-baḥraini au amḍiya ḥuqubā(n)."
+}

@@ -1,0 +1,76 @@
+{
+  "id": 4044,
+  "chapter_id": 38,
+  "verse_key": "38:74",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 397,
+  "manzil_number": 6,
+  "page_number": 457,
+  "juz_number": 23,
+  "text_uthmani": "إِلَّآ إِبْلِيسَ ٱسْتَكْبَرَ وَكَانَ مِنَ ٱلْكَـٰفِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/38.mp3",
+  "words": [
+    {
+      "id": 61831,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_074_001.mp3",
+      "text": "إِلَّآ",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 61832,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_074_002.mp3",
+      "text": "إِبْلِيسَ",
+      "translation": "iblis",
+      "transliteration": "ib'līsa"
+    },
+    {
+      "id": 61833,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_074_003.mp3",
+      "text": "ٱسْتَكْبَرَ",
+      "translation": "ia menyombongkan diri",
+      "transliteration": "is'takbara"
+    },
+    {
+      "id": 61834,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_074_004.mp3",
+      "text": "وَكَانَ",
+      "translation": "dan adalah ia",
+      "transliteration": "wakāna"
+    },
+    {
+      "id": 61835,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_074_005.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 61836,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/038_074_006.mp3",
+      "text": "ٱلْكَـٰفِرِينَ",
+      "translation": "orang-orang yang kafir",
+      "transliteration": "l-kāfirīna"
+    },
+    {
+      "id": 61837,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٧٤",
+      "translation": "(74)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kecuali iblis; dia menyombongkan diri dan adalah dia termasuk orang-orang yang kafir.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Illā iblīs(a), istakbara wa kāna minal-kafirīn(a)."
+}

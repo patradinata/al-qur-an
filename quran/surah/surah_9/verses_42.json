@@ -1,0 +1,212 @@
+{
+  "id": 1277,
+  "chapter_id": 9,
+  "verse_key": "9:42",
+  "hizb_number": 20,
+  "rub_el_hizb_number": 77,
+  "ruku_number": 161,
+  "manzil_number": 2,
+  "page_number": 194,
+  "juz_number": 10,
+  "text_uthmani": "لَوْ كَانَ عَرَضًا قَرِيبًا وَسَفَرًا قَاصِدًا لَّٱتَّبَعُوكَ وَلَـٰكِنۢ بَعُدَتْ عَلَيْهِمُ ٱلشُّقَّةُ ۚ وَسَيَحْلِفُونَ بِٱللَّهِ لَوِ ٱسْتَطَعْنَا لَخَرَجْنَا مَعَكُمْ يُهْلِكُونَ أَنفُسَهُمْ وَٱللَّهُ يَعْلَمُ إِنَّهُمْ لَكَـٰذِبُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/9.mp3",
+  "words": [
+    {
+      "id": 43081,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_042_001.mp3",
+      "text": "لَوْ",
+      "translation": "kalau",
+      "transliteration": "law"
+    },
+    {
+      "id": 43082,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_042_002.mp3",
+      "text": "كَانَ",
+      "translation": "ada",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 43083,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_042_003.mp3",
+      "text": "عَرَضًۭا",
+      "translation": "harta/keuntungan",
+      "transliteration": "ʿaraḍan"
+    },
+    {
+      "id": 43084,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_042_004.mp3",
+      "text": "قَرِيبًۭا",
+      "translation": "dekat/mudah diperoleh",
+      "transliteration": "qarīban"
+    },
+    {
+      "id": 43085,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_042_005.mp3",
+      "text": "وَسَفَرًۭا",
+      "translation": "dan perjalanan",
+      "transliteration": "wasafaran"
+    },
+    {
+      "id": 43086,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_042_006.mp3",
+      "text": "قَاصِدًۭا",
+      "translation": "sedang/tak berapa jauh",
+      "transliteration": "qāṣidan"
+    },
+    {
+      "id": 43087,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_042_007.mp3",
+      "text": "لَّٱتَّبَعُوكَ",
+      "translation": "tentu mereka mengikutimu",
+      "transliteration": "la-ittabaʿūka"
+    },
+    {
+      "id": 43088,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_042_008.mp3",
+      "text": "وَلَـٰكِنۢ",
+      "translation": "dan tetapi",
+      "transliteration": "walākin"
+    },
+    {
+      "id": 43089,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_042_009.mp3",
+      "text": "بَعُدَتْ",
+      "translation": "jauh",
+      "transliteration": "baʿudat"
+    },
+    {
+      "id": 43090,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_042_010.mp3",
+      "text": "عَلَيْهِمُ",
+      "translation": "atas mereka",
+      "transliteration": "ʿalayhimu"
+    },
+    {
+      "id": 43091,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_042_011.mp3",
+      "text": "ٱلشُّقَّةُ ۚ",
+      "translation": "jarak perjalanan yang dituju",
+      "transliteration": "l-shuqatu"
+    },
+    {
+      "id": 43093,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_042_013.mp3",
+      "text": "وَسَيَحْلِفُونَ",
+      "translation": "dan mereka akan bersumpah",
+      "transliteration": "wasayaḥlifūna"
+    },
+    {
+      "id": 43094,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_042_014.mp3",
+      "text": "بِٱللَّهِ",
+      "translation": "dengan Allah",
+      "transliteration": "bil-lahi"
+    },
+    {
+      "id": 43095,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_042_015.mp3",
+      "text": "لَوِ",
+      "translation": "kalau",
+      "transliteration": "lawi"
+    },
+    {
+      "id": 43096,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_042_016.mp3",
+      "text": "ٱسْتَطَعْنَا",
+      "translation": "kami sanggup",
+      "transliteration": "is'taṭaʿnā"
+    },
+    {
+      "id": 43097,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_042_017.mp3",
+      "text": "لَخَرَجْنَا",
+      "translation": "tentu kami keluar/berangkat",
+      "transliteration": "lakharajnā"
+    },
+    {
+      "id": 43098,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_042_018.mp3",
+      "text": "مَعَكُمْ",
+      "translation": "bersama kamu",
+      "transliteration": "maʿakum"
+    },
+    {
+      "id": 43099,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_042_019.mp3",
+      "text": "يُهْلِكُونَ",
+      "translation": "mereka membinasakan",
+      "transliteration": "yuh'likūna"
+    },
+    {
+      "id": 43100,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_042_020.mp3",
+      "text": "أَنفُسَهُمْ",
+      "translation": "diri mereka",
+      "transliteration": "anfusahum"
+    },
+    {
+      "id": 43101,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_042_021.mp3",
+      "text": "وَٱللَّهُ",
+      "translation": "dan Allah",
+      "transliteration": "wal-lahu"
+    },
+    {
+      "id": 43102,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_042_022.mp3",
+      "text": "يَعْلَمُ",
+      "translation": "Dia mengetahui",
+      "transliteration": "yaʿlamu"
+    },
+    {
+      "id": 43103,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_042_023.mp3",
+      "text": "إِنَّهُمْ",
+      "translation": "bahwasanya mereka",
+      "transliteration": "innahum"
+    },
+    {
+      "id": 43104,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_042_024.mp3",
+      "text": "لَكَـٰذِبُونَ",
+      "translation": "sungguh orang-orang yang dusta",
+      "transliteration": "lakādhibūna"
+    },
+    {
+      "id": 43105,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٤٢",
+      "translation": "(42)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Kalau yang kamu serukan kepada mereka itu keuntungan yang mudah diperoleh dan perjalanan yang tidak berapa jauh, pastilah mereka mengikutimu, tetapi tempat yang dituju itu amat jauh terasa oleh mereka.  Mereka akan bersumpah dengan (nama) Allah, \"Jikalau kami sanggup tentulah kami berangkat bersama-samamu\".  Mereka membinasakan diri mereka sendiri<sup foot_note_id=\"644\">18</sup> dan Allah mengetahui bahwa sesungguhnya mereka benar-benar orang-orang yang berdusta.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Lau kāna ‘araḍan qarībaw wa safaran qāṣidal lattaba‘ūka wa lākim ba‘udat ‘alaihimusy-syuqqah(tu), wa sayaḥlifūna billāhi lawistaṭa‘nā lakharajnā ma‘akum, yuhlikūna anfusahum, wallāhu ya‘lamu innahum lakāżibūn(a)."
+}

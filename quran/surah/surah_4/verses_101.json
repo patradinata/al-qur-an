@@ -1,0 +1,212 @@
+{
+  "id": 594,
+  "chapter_id": 4,
+  "verse_key": "4:101",
+  "hizb_number": 10,
+  "rub_el_hizb_number": 38,
+  "ruku_number": 76,
+  "manzil_number": 1,
+  "page_number": 94,
+  "juz_number": 5,
+  "text_uthmani": "وَإِذَا ضَرَبْتُمْ فِى ٱلْأَرْضِ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَقْصُرُوا۟ مِنَ ٱلصَّلَوٰةِ إِنْ خِفْتُمْ أَن يَفْتِنَكُمُ ٱلَّذِينَ كَفَرُوٓا۟ ۚ إِنَّ ٱلْكَـٰفِرِينَ كَانُوا۟ لَكُمْ عَدُوًّا مُّبِينًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/4.mp3",
+  "words": [
+    {
+      "id": 71726,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_101_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 71727,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_101_002.mp3",
+      "text": "ضَرَبْتُمْ",
+      "translation": "kamu bepergian",
+      "transliteration": "ḍarabtum"
+    },
+    {
+      "id": 71728,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_101_003.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 71729,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_101_004.mp3",
+      "text": "ٱلْأَرْضِ",
+      "translation": "muka bumi",
+      "transliteration": "l-arḍi"
+    },
+    {
+      "id": 71730,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_101_005.mp3",
+      "text": "فَلَيْسَ",
+      "translation": "maka tidak",
+      "transliteration": "falaysa"
+    },
+    {
+      "id": 71731,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_101_006.mp3",
+      "text": "عَلَيْكُمْ",
+      "translation": "atas kalian",
+      "transliteration": "ʿalaykum"
+    },
+    {
+      "id": 71732,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_101_007.mp3",
+      "text": "جُنَاحٌ",
+      "translation": "berdosa",
+      "transliteration": "junāḥun"
+    },
+    {
+      "id": 71733,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_101_008.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 71734,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_101_009.mp3",
+      "text": "تَقْصُرُوا۟",
+      "translation": "kamu mengqasar",
+      "transliteration": "taqṣurū"
+    },
+    {
+      "id": 71735,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_101_010.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 71736,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_101_011.mp3",
+      "text": "ٱلصَّلَوٰةِ",
+      "translation": "sholat",
+      "transliteration": "l-ṣalati"
+    },
+    {
+      "id": 71737,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_101_012.mp3",
+      "text": "إِنْ",
+      "translation": "jika",
+      "transliteration": "in"
+    },
+    {
+      "id": 71738,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_101_013.mp3",
+      "text": "خِفْتُمْ",
+      "translation": "kamu takut",
+      "transliteration": "khif'tum"
+    },
+    {
+      "id": 71739,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_101_014.mp3",
+      "text": "أَن",
+      "translation": "akan",
+      "transliteration": "an"
+    },
+    {
+      "id": 71740,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_101_015.mp3",
+      "text": "يَفْتِنَكُمُ",
+      "translation": "memfitnah/menyerang",
+      "transliteration": "yaftinakumu"
+    },
+    {
+      "id": 71741,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_101_016.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 71742,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_101_017.mp3",
+      "text": "كَفَرُوٓا۟ ۚ",
+      "translation": "kafir/ingkar",
+      "transliteration": "kafarū"
+    },
+    {
+      "id": 71744,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_101_019.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 71745,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_101_020.mp3",
+      "text": "ٱلْكَـٰفِرِينَ",
+      "translation": "orang-orang kafir",
+      "transliteration": "l-kāfirīna"
+    },
+    {
+      "id": 71746,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_101_021.mp3",
+      "text": "كَانُوا۟",
+      "translation": "adalah mereka",
+      "transliteration": "kānū"
+    },
+    {
+      "id": 71747,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_101_022.mp3",
+      "text": "لَكُمْ",
+      "translation": "bagi kalian",
+      "transliteration": "lakum"
+    },
+    {
+      "id": 71748,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_101_023.mp3",
+      "text": "عَدُوًّۭا",
+      "translation": "musuh",
+      "transliteration": "ʿaduwwan"
+    },
+    {
+      "id": 71749,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_101_024.mp3",
+      "text": "مُّبِينًۭا",
+      "translation": "nyata",
+      "transliteration": "mubīnan"
+    },
+    {
+      "id": 71750,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "١٠١",
+      "translation": "(101)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan apabila kamu bepergian di muka bumi, maka tidaklah mengapa kamu men-qaṣhar <sup foot_note_id=\"343\">80</sup>salat(mu), jika kamu takut diserang orang-orang kafir. Sesungguhnya orang-orang kafir itu adalah musuh yang nyata bagimu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Wa iżā ḍarabtum fil-arḍi fa laisa ‘alaikum junāḥun an taqṣurū minaṣ-ṣalāh(ti), in khiftum ay yaftinakumul-lażīna kafarū, innal-kāfirīna kānū lakum ‘aduwwam mubīnā(n)."
+}

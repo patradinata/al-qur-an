@@ -1,0 +1,68 @@
+{
+  "id": 6211,
+  "chapter_id": 109,
+  "verse_key": "109:4",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 553,
+  "manzil_number": 7,
+  "page_number": 603,
+  "juz_number": 30,
+  "text_uthmani": "وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/109.mp3",
+  "words": [
+    {
+      "id": 3992,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/109_004_001.mp3",
+      "text": "وَلَآ",
+      "translation": "dan bukanlah",
+      "transliteration": "walā"
+    },
+    {
+      "id": 3993,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/109_004_002.mp3",
+      "text": "أَنَا۠",
+      "translation": "aku",
+      "transliteration": "anā"
+    },
+    {
+      "id": 3994,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/109_004_003.mp3",
+      "text": "عَابِدٌۭ",
+      "translation": "menjadi penyembah",
+      "transliteration": "ʿābidun"
+    },
+    {
+      "id": 3995,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/109_004_004.mp3",
+      "text": "مَّا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 3996,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/109_004_005.mp3",
+      "text": "عَبَدتُّمْ",
+      "translation": "kamu sembah",
+      "transliteration": "ʿabadttum"
+    },
+    {
+      "id": 3997,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٤",
+      "translation": "(4)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan aku tidak pernah menjadi penyembah apa yang kamu sembah,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Wa lā ana ‘ābidum mā ‘abattum."
+}

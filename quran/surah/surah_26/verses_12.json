@@ -1,0 +1,76 @@
+{
+  "id": 2944,
+  "chapter_id": 26,
+  "verse_key": "26:12",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 317,
+  "manzil_number": 5,
+  "page_number": 367,
+  "juz_number": 19,
+  "text_uthmani": "قَالَ رَبِّ إِنِّىٓ أَخَافُ أَن يُكَذِّبُونِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/26.mp3",
+  "words": [
+    {
+      "id": 14287,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_012_001.mp3",
+      "text": "قَالَ",
+      "translation": "(Musa) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 14288,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_012_002.mp3",
+      "text": "رَبِّ",
+      "translation": "ya Tuhanku",
+      "transliteration": "rabbi"
+    },
+    {
+      "id": 14289,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_012_003.mp3",
+      "text": "إِنِّىٓ",
+      "translation": "sesungguhnya aku",
+      "transliteration": "innī"
+    },
+    {
+      "id": 14290,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_012_004.mp3",
+      "text": "أَخَافُ",
+      "translation": "takut",
+      "transliteration": "akhāfu"
+    },
+    {
+      "id": 14291,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_012_005.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 14292,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/026_012_006.mp3",
+      "text": "يُكَذِّبُونِ",
+      "translation": "mereka akan mendustakan aku",
+      "transliteration": "yukadhibūni"
+    },
+    {
+      "id": 14293,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٢",
+      "translation": "(12)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Berkata Musa, \"Ya Tuhan-ku, sesungguhnya aku takut bahwa mereka akan mendustakan aku.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Qāla rabbi innī akhāfu ay yukażżibūn(i)."
+}

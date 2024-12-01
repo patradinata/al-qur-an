@@ -1,0 +1,52 @@
+{
+  "id": 6000,
+  "chapter_id": 89,
+  "verse_key": "89:7",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "page_number": 593,
+  "juz_number": 30,
+  "text_uthmani": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/89.mp3",
+  "words": [
+    {
+      "id": 7765,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_007_001.mp3",
+      "text": "إِرَمَ",
+      "translation": "kaum Iram",
+      "transliteration": "irama"
+    },
+    {
+      "id": 7766,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_007_002.mp3",
+      "text": "ذَاتِ",
+      "translation": "memiliki",
+      "transliteration": "dhāti"
+    },
+    {
+      "id": 7767,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/089_007_003.mp3",
+      "text": "ٱلْعِمَادِ",
+      "translation": "tiang/bangunan tinggi",
+      "transliteration": "l-ʿimādi"
+    },
+    {
+      "id": 7768,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(yaitu) penduduk Iram<sup foot_note_id=\"1574\">2</sup> yang mempunyai bangunan-bangunan yang tinggi,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Irama żātil-‘imād(i)."
+}

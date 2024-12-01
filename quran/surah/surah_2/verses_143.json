@@ -1,0 +1,388 @@
+{
+  "id": 150,
+  "chapter_id": 2,
+  "verse_key": "2:143",
+  "hizb_number": 3,
+  "rub_el_hizb_number": 9,
+  "ruku_number": 18,
+  "manzil_number": 1,
+  "page_number": 22,
+  "juz_number": 2,
+  "text_uthmani": "وَكَذَٰلِكَ جَعَلْنَـٰكُمْ أُمَّةً وَسَطًا لِّتَكُونُوا۟ شُهَدَآءَ عَلَى ٱلنَّاسِ وَيَكُونَ ٱلرَّسُولُ عَلَيْكُمْ شَهِيدًا ۗ وَمَا جَعَلْنَا ٱلْقِبْلَةَ ٱلَّتِى كُنتَ عَلَيْهَآ إِلَّا لِنَعْلَمَ مَن يَتَّبِعُ ٱلرَّسُولَ مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيْهِ ۚ وَإِن كَانَتْ لَكَبِيرَةً إِلَّا عَلَى ٱلَّذِينَ هَدَى ٱللَّهُ ۗ وَمَا كَانَ ٱللَّهُ لِيُضِيعَ إِيمَـٰنَكُمْ ۚ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٌ رَّحِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 79459,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_001.mp3",
+      "text": "وَكَذَٰلِكَ",
+      "translation": "dan demikian itu",
+      "transliteration": "wakadhālika"
+    },
+    {
+      "id": 79460,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_002.mp3",
+      "text": "جَعَلْنَـٰكُمْ",
+      "translation": "Kami telah menjadikan kamu",
+      "transliteration": "jaʿalnākum"
+    },
+    {
+      "id": 79461,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_003.mp3",
+      "text": "أُمَّةًۭ",
+      "translation": "umat",
+      "transliteration": "ummatan"
+    },
+    {
+      "id": 79462,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_004.mp3",
+      "text": "وَسَطًۭا",
+      "translation": "pertengahan",
+      "transliteration": "wasaṭan"
+    },
+    {
+      "id": 79463,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_005.mp3",
+      "text": "لِّتَكُونُوا۟",
+      "translation": "agar kamu menjadi",
+      "transliteration": "litakūnū"
+    },
+    {
+      "id": 79464,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_006.mp3",
+      "text": "شُهَدَآءَ",
+      "translation": "saksi-saksi",
+      "transliteration": "shuhadāa"
+    },
+    {
+      "id": 79465,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_007.mp3",
+      "text": "عَلَى",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 79466,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_008.mp3",
+      "text": "ٱلنَّاسِ",
+      "translation": "manusia",
+      "transliteration": "l-nāsi"
+    },
+    {
+      "id": 79467,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_009.mp3",
+      "text": "وَيَكُونَ",
+      "translation": "dan adalah",
+      "transliteration": "wayakūna"
+    },
+    {
+      "id": 79468,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_010.mp3",
+      "text": "ٱلرَّسُولُ",
+      "translation": "Rasul",
+      "transliteration": "l-rasūlu"
+    },
+    {
+      "id": 79469,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_011.mp3",
+      "text": "عَلَيْكُمْ",
+      "translation": "atas kalian",
+      "transliteration": "ʿalaykum"
+    },
+    {
+      "id": 79470,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_012.mp3",
+      "text": "شَهِيدًۭا ۗ",
+      "translation": "saksi",
+      "transliteration": "shahīdan"
+    },
+    {
+      "id": 79472,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_014.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 79473,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_015.mp3",
+      "text": "جَعَلْنَا",
+      "translation": "Kami jadikan",
+      "transliteration": "jaʿalnā"
+    },
+    {
+      "id": 79474,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_016.mp3",
+      "text": "ٱلْقِبْلَةَ",
+      "translation": "kiblat",
+      "transliteration": "l-qib'lata"
+    },
+    {
+      "id": 79475,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_017.mp3",
+      "text": "ٱلَّتِى",
+      "translation": "yang",
+      "transliteration": "allatī"
+    },
+    {
+      "id": 79476,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_018.mp3",
+      "text": "كُنتَ",
+      "translation": "adalah kamu",
+      "transliteration": "kunta"
+    },
+    {
+      "id": 79477,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_019.mp3",
+      "text": "عَلَيْهَآ",
+      "translation": "kepadanya (Baitul Maqdis)",
+      "transliteration": "ʿalayhā"
+    },
+    {
+      "id": 79478,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_020.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali/melainkan",
+      "transliteration": "illā"
+    },
+    {
+      "id": 79479,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_021.mp3",
+      "text": "لِنَعْلَمَ",
+      "translation": "agar Kami mengetahui",
+      "transliteration": "linaʿlama"
+    },
+    {
+      "id": 79480,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_022.mp3",
+      "text": "مَن",
+      "translation": "orang/siapa",
+      "transliteration": "man"
+    },
+    {
+      "id": 79481,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_023.mp3",
+      "text": "يَتَّبِعُ",
+      "translation": "ia mengikuti",
+      "transliteration": "yattabiʿu"
+    },
+    {
+      "id": 79482,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_024.mp3",
+      "text": "ٱلرَّسُولَ",
+      "translation": "Rasul",
+      "transliteration": "l-rasūla"
+    },
+    {
+      "id": 79483,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_025.mp3",
+      "text": "مِمَّن",
+      "translation": "daripada orang/siapa",
+      "transliteration": "mimman"
+    },
+    {
+      "id": 79484,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_026.mp3",
+      "text": "يَنقَلِبُ",
+      "translation": "ia berbalik",
+      "transliteration": "yanqalibu"
+    },
+    {
+      "id": 79485,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_027.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 79486,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_028.mp3",
+      "text": "عَقِبَيْهِ ۚ",
+      "translation": "dua tumitnya",
+      "transliteration": "ʿaqibayhi"
+    },
+    {
+      "id": 79488,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_030.mp3",
+      "text": "وَإِن",
+      "translation": "dan sebenarnya",
+      "transliteration": "wa-in"
+    },
+    {
+      "id": 79489,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_031.mp3",
+      "text": "كَانَتْ",
+      "translation": "adalah",
+      "transliteration": "kānat"
+    },
+    {
+      "id": 79490,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_032.mp3",
+      "text": "لَكَبِيرَةً",
+      "translation": "sungguh berat",
+      "transliteration": "lakabīratan"
+    },
+    {
+      "id": 79491,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_033.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 79492,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_034.mp3",
+      "text": "عَلَى",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 79493,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_035.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 79494,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_036.mp3",
+      "text": "هَدَى",
+      "translation": "memberi petunjuk",
+      "transliteration": "hadā"
+    },
+    {
+      "id": 79495,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_037.mp3",
+      "text": "ٱللَّهُ ۗ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 79497,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_039.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidak",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 79498,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_040.mp3",
+      "text": "كَانَ",
+      "translation": "ada",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 79499,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_041.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 79500,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_042.mp3",
+      "text": "لِيُضِيعَ",
+      "translation": "hendak menyia-nyiakan",
+      "transliteration": "liyuḍīʿa"
+    },
+    {
+      "id": 79501,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_043.mp3",
+      "text": "إِيمَـٰنَكُمْ ۚ",
+      "translation": "iman kamu",
+      "transliteration": "īmānakum"
+    },
+    {
+      "id": 79503,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_045.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 79504,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_046.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 79505,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_047.mp3",
+      "text": "بِٱلنَّاسِ",
+      "translation": "dengan/kepada manusia",
+      "transliteration": "bil-nāsi"
+    },
+    {
+      "id": 79506,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_048.mp3",
+      "text": "لَرَءُوفٌۭ",
+      "translation": "amat Pengasih",
+      "transliteration": "laraūfun"
+    },
+    {
+      "id": 79507,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_143_049.mp3",
+      "text": "رَّحِيمٌۭ",
+      "translation": "Maha Penyayang",
+      "transliteration": "raḥīmun"
+    },
+    {
+      "id": 79508,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١٤٣",
+      "translation": "(143)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan demikian (pula) Kami telah menjadikan kamu (umat Islam), umat yang adil dan pilihan<sup foot_note_id=\"95\">86</sup> agar kamu menjadi saksi atas (perbuatan) manusia dan agar rasul (Muhammad) menjadi saksi atas (perbuatan) kamu.  Dan Kami tidak menetapkan kiblat yang menjadi kiblatmu (sekarang) melainkan agar Kami mengetahui (supaya nyata) siapa yang mengikuti rasul dan siapa yang membelot.  Dan sungguh (pemindahan kiblat) itu terasa amat berat, kecuali bagi orang-orang yang telah diberi petunjuk oleh Allah; dan Allah tidak akan menyia-nyiakan imanmu.  Sesungguhnya Allah Maha Pengasih lagi Maha Penyayang kepada manusia.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Wa każālika ja‘alnākum ummataw wasaṭal litakūnū syuhadā'a ‘alan-nāsi wa yakūnar-rasūlu ‘alaikum syahīdā(n), wa mā ja‘alnal-qiblatal-latī kunta ‘alaihā illā lina‘lama may yattabi‘ur-rasūla mimmay yanqalibu ‘alā ‘aqibaih(i), wa in kānat lakabīratan illā ‘alal-lażīna hadallāh(u), wa mā kānallāhu liyuḍī‘a īmānakum, innallāha bin-nāsi lara'ūfur raḥīm(un)."
+}

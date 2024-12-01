@@ -1,0 +1,268 @@
+{
+  "id": 3588,
+  "chapter_id": 33,
+  "verse_key": "33:55",
+  "hizb_number": 43,
+  "rub_el_hizb_number": 170,
+  "ruku_number": 369,
+  "manzil_number": 5,
+  "page_number": 426,
+  "juz_number": 22,
+  "text_uthmani": "لَّا جُنَاحَ عَلَيْهِنَّ فِىٓ ءَابَآئِهِنَّ وَلَآ أَبْنَآئِهِنَّ وَلَآ إِخْوَٰنِهِنَّ وَلَآ أَبْنَآءِ إِخْوَٰنِهِنَّ وَلَآ أَبْنَآءِ أَخَوَٰتِهِنَّ وَلَا نِسَآئِهِنَّ وَلَا مَا مَلَكَتْ أَيْمَـٰنُهُنَّ ۗ وَٱتَّقِينَ ٱللَّهَ ۚ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَىْءٍ شَهِيدًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/33.mp3",
+  "words": [
+    {
+      "id": 51938,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_055_001.mp3",
+      "text": "لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 51939,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_055_002.mp3",
+      "text": "جُنَاحَ",
+      "translation": "berdosa",
+      "transliteration": "junāḥa"
+    },
+    {
+      "id": 51940,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_055_003.mp3",
+      "text": "عَلَيْهِنَّ",
+      "translation": "atas mereka",
+      "transliteration": "ʿalayhinna"
+    },
+    {
+      "id": 51941,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_055_004.mp3",
+      "text": "فِىٓ",
+      "translation": "pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 51942,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_055_005.mp3",
+      "text": "ءَابَآئِهِنَّ",
+      "translation": "bapak-bapak mereka",
+      "transliteration": "ābāihinna"
+    },
+    {
+      "id": 51943,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_055_006.mp3",
+      "text": "وَلَآ",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 51944,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_055_007.mp3",
+      "text": "أَبْنَآئِهِنَّ",
+      "translation": "anak-anak laki mereka",
+      "transliteration": "abnāihinna"
+    },
+    {
+      "id": 51945,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_055_008.mp3",
+      "text": "وَلَآ",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 51946,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_055_009.mp3",
+      "text": "إِخْوَٰنِهِنَّ",
+      "translation": "saudara laki-laki mereka",
+      "transliteration": "ikh'wānihinna"
+    },
+    {
+      "id": 51947,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_055_010.mp3",
+      "text": "وَلَآ",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 51948,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_055_011.mp3",
+      "text": "أَبْنَآءِ",
+      "translation": "anak-anak laki-laki mereka",
+      "transliteration": "abnāi"
+    },
+    {
+      "id": 51949,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_055_012.mp3",
+      "text": "إِخْوَٰنِهِنَّ",
+      "translation": "saudara laki-laki mereka",
+      "transliteration": "ikh'wānihinna"
+    },
+    {
+      "id": 51950,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_055_013.mp3",
+      "text": "وَلَآ",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 51951,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_055_014.mp3",
+      "text": "أَبْنَآءِ",
+      "translation": "anak laki-laki",
+      "transliteration": "abnāi"
+    },
+    {
+      "id": 51952,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_055_015.mp3",
+      "text": "أَخَوَٰتِهِنَّ",
+      "translation": "saudara perempuan mereka",
+      "transliteration": "akhawātihinna"
+    },
+    {
+      "id": 51953,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_055_016.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 51954,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_055_017.mp3",
+      "text": "نِسَآئِهِنَّ",
+      "translation": "saudara perempuan mereka",
+      "transliteration": "nisāihinna"
+    },
+    {
+      "id": 51955,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_055_018.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 51956,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_055_019.mp3",
+      "text": "مَا",
+      "translation": "apa-apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 51957,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_055_020.mp3",
+      "text": "مَلَكَتْ",
+      "translation": "yang dimiliki",
+      "transliteration": "malakat"
+    },
+    {
+      "id": 51958,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_055_021.mp3",
+      "text": "أَيْمَـٰنُهُنَّ ۗ",
+      "translation": "tangan kanan mereka (hamba sahaya)",
+      "transliteration": "aymānuhunna"
+    },
+    {
+      "id": 51960,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_055_023.mp3",
+      "text": "وَٱتَّقِينَ",
+      "translation": "dan bertakwalah kamu",
+      "transliteration": "wa-ittaqīna"
+    },
+    {
+      "id": 51961,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_055_024.mp3",
+      "text": "ٱللَّهَ ۚ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 51963,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_055_026.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 51964,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_055_027.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 51965,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_055_028.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 51966,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_055_029.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 51967,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_055_030.mp3",
+      "text": "كُلِّ",
+      "translation": "segala",
+      "transliteration": "kulli"
+    },
+    {
+      "id": 51968,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_055_031.mp3",
+      "text": "شَىْءٍۢ",
+      "translation": "sesuatu",
+      "transliteration": "shayin"
+    },
+    {
+      "id": 51969,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/033_055_032.mp3",
+      "text": "شَهِيدًا",
+      "translation": "Maha Menyaksikan",
+      "transliteration": "shahīdan"
+    },
+    {
+      "id": 51970,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٥٥",
+      "translation": "(55)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tidak ada dosa atas istri-istri nabi (untuk berjumpa tanpa tabir) dengan bapak-bapak mereka, anak-anak laki-laki mereka, saudara laki-laki mereka, anak laki-laki dari saudara laki-laki mereka, anak laki-laki dari saudara mereka yang perempuan, perempuan-perempuan yang beriman, dan hamba sahaya yang mereka miliki, dan bertakwalah kamu (hai istri-istri nabi) kepada Allah.  Sesungguhnya Allah Maha Menyaksikan segala sesuatu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Lā junāḥa ‘alaihinna fī ābā'ihinna wa lā abnā'ihinna wa lā ikhwānihinna wa lā abnā'i ikhwānihinna wa lā abnā'i akhawātihinna wa lā nisā'ihinna wa lā mā malakat aimānuhunn(a), wattaqīnallāh(a), innallāha kāna ‘alā kulli syai'in syahīdā(n)."
+}

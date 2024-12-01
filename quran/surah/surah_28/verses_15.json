@@ -1,0 +1,332 @@
+{
+  "id": 3267,
+  "chapter_id": 28,
+  "verse_key": "28:15",
+  "hizb_number": 39,
+  "rub_el_hizb_number": 155,
+  "ruku_number": 335,
+  "manzil_number": 5,
+  "page_number": 387,
+  "juz_number": 20,
+  "text_uthmani": "وَدَخَلَ ٱلْمَدِينَةَ عَلَىٰ حِينِ غَفْلَةٍ مِّنْ أَهْلِهَا فَوَجَدَ فِيهَا رَجُلَيْنِ يَقْتَتِلَانِ هَـٰذَا مِن شِيعَتِهِۦ وَهَـٰذَا مِنْ عَدُوِّهِۦ ۖ فَٱسْتَغَـٰثَهُ ٱلَّذِى مِن شِيعَتِهِۦ عَلَى ٱلَّذِى مِنْ عَدُوِّهِۦ فَوَكَزَهُۥ مُوسَىٰ فَقَضَىٰ عَلَيْهِ ۖ قَالَ هَـٰذَا مِنْ عَمَلِ ٱلشَّيْطَـٰنِ ۖ إِنَّهُۥ عَدُوٌّ مُّضِلٌّ مُّبِينٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/28.mp3",
+  "words": [
+    {
+      "id": 17673,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_001.mp3",
+      "text": "وَدَخَلَ",
+      "translation": "dan (Musa) masuk",
+      "transliteration": "wadakhala"
+    },
+    {
+      "id": 17674,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_002.mp3",
+      "text": "ٱلْمَدِينَةَ",
+      "translation": "kota",
+      "transliteration": "l-madīnata"
+    },
+    {
+      "id": 17675,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_003.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 17676,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_004.mp3",
+      "text": "حِينِ",
+      "translation": "sewaktu",
+      "transliteration": "ḥīni"
+    },
+    {
+      "id": 17677,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_005.mp3",
+      "text": "غَفْلَةٍۢ",
+      "translation": "lalai/lengah",
+      "transliteration": "ghaflatin"
+    },
+    {
+      "id": 17678,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_006.mp3",
+      "text": "مِّنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 17679,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_007.mp3",
+      "text": "أَهْلِهَا",
+      "translation": "penduduknya",
+      "transliteration": "ahlihā"
+    },
+    {
+      "id": 17680,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_008.mp3",
+      "text": "فَوَجَدَ",
+      "translation": "maka dia mendapatkan",
+      "transliteration": "fawajada"
+    },
+    {
+      "id": 17681,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_009.mp3",
+      "text": "فِيهَا",
+      "translation": "di dalamnya (kota)",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 17682,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_010.mp3",
+      "text": "رَجُلَيْنِ",
+      "translation": "dua orang laki-laki",
+      "transliteration": "rajulayni"
+    },
+    {
+      "id": 17683,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_011.mp3",
+      "text": "يَقْتَتِلَانِ",
+      "translation": "keduanya perang/berkelahi",
+      "transliteration": "yaqtatilāni"
+    },
+    {
+      "id": 17684,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_012.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini (orang)",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 17685,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_013.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 17686,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_014.mp3",
+      "text": "شِيعَتِهِۦ",
+      "translation": "golongannya",
+      "transliteration": "shīʿatihi"
+    },
+    {
+      "id": 17687,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_015.mp3",
+      "text": "وَهَـٰذَا",
+      "translation": "dan ini (orang)",
+      "transliteration": "wahādhā"
+    },
+    {
+      "id": 17688,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_016.mp3",
+      "text": "مِنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 17689,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_017.mp3",
+      "text": "عَدُوِّهِۦ ۖ",
+      "translation": "musuhnya",
+      "transliteration": "ʿaduwwihi"
+    },
+    {
+      "id": 17691,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_019.mp3",
+      "text": "فَٱسْتَغَـٰثَهُ",
+      "translation": "maka meminta tolong kepadanya",
+      "transliteration": "fa-is'taghāthahu"
+    },
+    {
+      "id": 17692,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_020.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 17693,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_021.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 17694,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_022.mp3",
+      "text": "شِيعَتِهِۦ",
+      "translation": "golongannya",
+      "transliteration": "shīʿatihi"
+    },
+    {
+      "id": 17695,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_023.mp3",
+      "text": "عَلَى",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 17696,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_024.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "(orang) yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 17697,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_025.mp3",
+      "text": "مِنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 17698,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_026.mp3",
+      "text": "عَدُوِّهِۦ",
+      "translation": "musuhnya",
+      "transliteration": "ʿaduwwihi"
+    },
+    {
+      "id": 17699,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_027.mp3",
+      "text": "فَوَكَزَهُۥ",
+      "translation": "maka meninjunya",
+      "transliteration": "fawakazahu"
+    },
+    {
+      "id": 17700,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_028.mp3",
+      "text": "مُوسَىٰ",
+      "translation": "Musa",
+      "transliteration": "mūsā"
+    },
+    {
+      "id": 17701,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_029.mp3",
+      "text": "فَقَضَىٰ",
+      "translation": "lalu menentukan/mati",
+      "transliteration": "faqaḍā"
+    },
+    {
+      "id": 17702,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_030.mp3",
+      "text": "عَلَيْهِ ۖ",
+      "translation": "atasnya (musuhnya)",
+      "transliteration": "ʿalayhi"
+    },
+    {
+      "id": 17704,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_032.mp3",
+      "text": "قَالَ",
+      "translation": "(Musa) berkata",
+      "transliteration": "qāla"
+    },
+    {
+      "id": 17705,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_033.mp3",
+      "text": "هَـٰذَا",
+      "translation": "ini",
+      "transliteration": "hādhā"
+    },
+    {
+      "id": 17706,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_034.mp3",
+      "text": "مِنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 17707,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_035.mp3",
+      "text": "عَمَلِ",
+      "translation": "perbuatan",
+      "transliteration": "ʿamali"
+    },
+    {
+      "id": 17708,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_036.mp3",
+      "text": "ٱلشَّيْطَـٰنِ ۖ",
+      "translation": "syaitan",
+      "transliteration": "l-shayṭāni"
+    },
+    {
+      "id": 17710,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_038.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya ia/syaitan",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 17711,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_039.mp3",
+      "text": "عَدُوٌّۭ",
+      "translation": "musuh",
+      "transliteration": "ʿaduwwun"
+    },
+    {
+      "id": 17712,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_040.mp3",
+      "text": "مُّضِلٌّۭ",
+      "translation": "menyesatkan",
+      "transliteration": "muḍillun"
+    },
+    {
+      "id": 17713,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_015_041.mp3",
+      "text": "مُّبِينٌۭ",
+      "translation": "yang nyata",
+      "transliteration": "mubīnun"
+    },
+    {
+      "id": 17714,
+      "line_number": 6,
+      "audio_url": null,
+      "text": "١٥",
+      "translation": "(15)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan Musa masuk ke kota (Memphis) ketika penduduknya sedang lengah <sup foot_note_id=\"1115\">6</sup>, maka didapatinya di dalam kota itu dua orang laki-laki yang berkelahi; yang seorang dari golongannya (Bani Isrā`īl) dan seorang (lagi) dari musuhnya (kaum Firʻawn ).  Maka orang yang dari golongannya meminta pertolongan kepadanya untuk mengalahkan orang yang dari musuhnya, lalu Musa meninjunya dan matilah musuhnya itu.  Musa berkata, \"Ini adalah perbuatan setan <sup foot_note_id=\"1116\">7</sup>, sesungguhnya setan itu adalah musuh yang menyesatkan lagi nyata (permusuhannya).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Wa dakhalal-madīnata ‘alā ḥīni gaflatim min ahlihā fawajada fīhā rajulaini yaqtatilān(i), hāżā min syī‘atihī wa hāżā min ‘aduwwih(ī), fastagāṡahul-lażī min syī‘atihī ‘alal-lażī min ‘aduwwih(ī), fawakazahū mūsā faqaḍā ‘alaih(i), qāla hāżā min ‘amalisy-syaiṭān(i), innahū ‘aduwwum muḍillum mubīn(un)."
+}

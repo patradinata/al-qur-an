@@ -1,0 +1,236 @@
+{
+  "id": 1468,
+  "chapter_id": 10,
+  "verse_key": "10:104",
+  "hizb_number": 22,
+  "rub_el_hizb_number": 88,
+  "ruku_number": 182,
+  "manzil_number": 3,
+  "page_number": 220,
+  "juz_number": 11,
+  "text_uthmani": "قُلْ يَـٰٓأَيُّهَا ٱلنَّاسُ إِن كُنتُمْ فِى شَكٍّ مِّن دِينِى فَلَآ أَعْبُدُ ٱلَّذِينَ تَعْبُدُونَ مِن دُونِ ٱللَّهِ وَلَـٰكِنْ أَعْبُدُ ٱللَّهَ ٱلَّذِى يَتَوَفَّىٰكُمْ ۖ وَأُمِرْتُ أَنْ أَكُونَ مِنَ ٱلْمُؤْمِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/10.mp3",
+  "words": [
+    {
+      "id": 72577,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_104_001.mp3",
+      "text": "قُلْ",
+      "translation": "katakanlah",
+      "transliteration": "qul"
+    },
+    {
+      "id": 72578,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_104_002.mp3",
+      "text": "يَـٰٓأَيُّهَا",
+      "translation": "wahai",
+      "transliteration": "yāayyuhā"
+    },
+    {
+      "id": 72579,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_104_003.mp3",
+      "text": "ٱلنَّاسُ",
+      "translation": "manusia",
+      "transliteration": "l-nāsu"
+    },
+    {
+      "id": 72580,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_104_004.mp3",
+      "text": "إِن",
+      "translation": "jika",
+      "transliteration": "in"
+    },
+    {
+      "id": 72581,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_104_005.mp3",
+      "text": "كُنتُمْ",
+      "translation": "kalian adalah",
+      "transliteration": "kuntum"
+    },
+    {
+      "id": 72582,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_104_006.mp3",
+      "text": "فِى",
+      "translation": "didalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 72583,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_104_007.mp3",
+      "text": "شَكٍّۢ",
+      "translation": "keraguan",
+      "transliteration": "shakkin"
+    },
+    {
+      "id": 72584,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_104_008.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 72585,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_104_009.mp3",
+      "text": "دِينِى",
+      "translation": "agamaku",
+      "transliteration": "dīnī"
+    },
+    {
+      "id": 72586,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_104_010.mp3",
+      "text": "فَلَآ",
+      "translation": "maka tidak",
+      "transliteration": "falā"
+    },
+    {
+      "id": 72587,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_104_011.mp3",
+      "text": "أَعْبُدُ",
+      "translation": "aku menyembah",
+      "transliteration": "aʿbudu"
+    },
+    {
+      "id": 72588,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_104_012.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 72589,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_104_013.mp3",
+      "text": "تَعْبُدُونَ",
+      "translation": "kamu menyembah",
+      "transliteration": "taʿbudūna"
+    },
+    {
+      "id": 72590,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_104_014.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 72591,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_104_015.mp3",
+      "text": "دُونِ",
+      "translation": "selain",
+      "transliteration": "dūni"
+    },
+    {
+      "id": 72592,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_104_016.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 72593,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_104_017.mp3",
+      "text": "وَلَـٰكِنْ",
+      "translation": "tetapi",
+      "transliteration": "walākin"
+    },
+    {
+      "id": 72594,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_104_018.mp3",
+      "text": "أَعْبُدُ",
+      "translation": "aku menyembah",
+      "transliteration": "aʿbudu"
+    },
+    {
+      "id": 72595,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_104_019.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 72596,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_104_020.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 72597,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_104_021.mp3",
+      "text": "يَتَوَفَّىٰكُمْ ۖ",
+      "translation": "Dia mewafatkan kamu",
+      "transliteration": "yatawaffākum"
+    },
+    {
+      "id": 72599,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_104_023.mp3",
+      "text": "وَأُمِرْتُ",
+      "translation": "dan aku diperintahkan",
+      "transliteration": "wa-umir'tu"
+    },
+    {
+      "id": 72600,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_104_024.mp3",
+      "text": "أَنْ",
+      "translation": "supaya",
+      "transliteration": "an"
+    },
+    {
+      "id": 72601,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_104_025.mp3",
+      "text": "أَكُونَ",
+      "translation": "aku menjadi",
+      "transliteration": "akūna"
+    },
+    {
+      "id": 72602,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_104_026.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 72603,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_104_027.mp3",
+      "text": "ٱلْمُؤْمِنِينَ",
+      "translation": "orang-orang yang beriman",
+      "transliteration": "l-mu'minīna"
+    },
+    {
+      "id": 72604,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١٠٤",
+      "translation": "(104)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Hai manusia, jika kamu masih dalam keragu-raguan tentang agamaku, maka (ketahuilah) aku tidak menyembah yang kamu sembah selain Allah, tetapi aku menyembah Allah yang akan mematikan kamu dan aku telah diperintah supaya termasuk orang-orang yang beriman\",",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Qul yā ayyuhan nāsu in kuntum fī syakkim min dīnī falā a‘budul-lażīna ta‘budūna min dūnillāhi wa lākin a‘budullāhal-lażī yatawaffākum, wa umirtu an akūna minal-mu'minīn(a)."
+}

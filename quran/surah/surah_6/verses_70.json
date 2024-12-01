@@ -1,0 +1,388 @@
+{
+  "id": 859,
+  "chapter_id": 6,
+  "verse_key": "6:70",
+  "hizb_number": 14,
+  "rub_el_hizb_number": 54,
+  "ruku_number": 109,
+  "manzil_number": 2,
+  "page_number": 136,
+  "juz_number": 7,
+  "text_uthmani": "وَذَرِ ٱلَّذِينَ ٱتَّخَذُوا۟ دِينَهُمْ لَعِبًا وَلَهْوًا وَغَرَّتْهُمُ ٱلْحَيَوٰةُ ٱلدُّنْيَا ۚ وَذَكِّرْ بِهِۦٓ أَن تُبْسَلَ نَفْسٌۢ بِمَا كَسَبَتْ لَيْسَ لَهَا مِن دُونِ ٱللَّهِ وَلِىٌّ وَلَا شَفِيعٌ وَإِن تَعْدِلْ كُلَّ عَدْلٍ لَّا يُؤْخَذْ مِنْهَآ ۗ أُو۟لَـٰٓئِكَ ٱلَّذِينَ أُبْسِلُوا۟ بِمَا كَسَبُوا۟ ۖ لَهُمْ شَرَابٌ مِّنْ حَمِيمٍ وَعَذَابٌ أَلِيمٌۢ بِمَا كَانُوا۟ يَكْفُرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/6.mp3",
+  "words": [
+    {
+      "id": 59469,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_001.mp3",
+      "text": "وَذَرِ",
+      "translation": "dan tinggalkanlah",
+      "transliteration": "wadhari"
+    },
+    {
+      "id": 59470,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 59471,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_003.mp3",
+      "text": "ٱتَّخَذُوا۟",
+      "translation": "(mereka)mengambil/menjadikan",
+      "transliteration": "ittakhadhū"
+    },
+    {
+      "id": 59472,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_004.mp3",
+      "text": "دِينَهُمْ",
+      "translation": "agama mereka",
+      "transliteration": "dīnahum"
+    },
+    {
+      "id": 59473,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_005.mp3",
+      "text": "لَعِبًۭا",
+      "translation": "permainan",
+      "transliteration": "laʿiban"
+    },
+    {
+      "id": 59474,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_006.mp3",
+      "text": "وَلَهْوًۭا",
+      "translation": "dan senda gurau",
+      "transliteration": "walahwan"
+    },
+    {
+      "id": 59475,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_007.mp3",
+      "text": "وَغَرَّتْهُمُ",
+      "translation": "dan menipu mereka",
+      "transliteration": "wagharrathumu"
+    },
+    {
+      "id": 59476,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_008.mp3",
+      "text": "ٱلْحَيَوٰةُ",
+      "translation": "kehidupan",
+      "transliteration": "l-ḥayatu"
+    },
+    {
+      "id": 59477,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_009.mp3",
+      "text": "ٱلدُّنْيَا ۚ",
+      "translation": "dunia",
+      "transliteration": "l-dun'yā"
+    },
+    {
+      "id": 59479,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_011.mp3",
+      "text": "وَذَكِّرْ",
+      "translation": "dan peringatkanlah",
+      "transliteration": "wadhakkir"
+    },
+    {
+      "id": 59480,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_012.mp3",
+      "text": "بِهِۦٓ",
+      "translation": "dengannya (Al Qur'an)",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 59481,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_013.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 59482,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_014.mp3",
+      "text": "تُبْسَلَ",
+      "translation": "dibinasakan/dijerumuskan",
+      "transliteration": "tub'sala"
+    },
+    {
+      "id": 59483,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_015.mp3",
+      "text": "نَفْسٌۢ",
+      "translation": "(setiap) jiwa/diri",
+      "transliteration": "nafsun"
+    },
+    {
+      "id": 59484,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_016.mp3",
+      "text": "بِمَا",
+      "translation": "disebabkan apa",
+      "transliteration": "bimā"
+    },
+    {
+      "id": 59485,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_017.mp3",
+      "text": "كَسَبَتْ",
+      "translation": "ia kerjakan",
+      "transliteration": "kasabat"
+    },
+    {
+      "id": 59486,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_018.mp3",
+      "text": "لَيْسَ",
+      "translation": "tidak ada",
+      "transliteration": "laysa"
+    },
+    {
+      "id": 59487,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_019.mp3",
+      "text": "لَهَا",
+      "translation": "baginya",
+      "transliteration": "lahā"
+    },
+    {
+      "id": 59488,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_020.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 59489,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_021.mp3",
+      "text": "دُونِ",
+      "translation": "selain",
+      "transliteration": "dūni"
+    },
+    {
+      "id": 59490,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_022.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 59491,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_023.mp3",
+      "text": "وَلِىٌّۭ",
+      "translation": "pelindung",
+      "transliteration": "waliyyun"
+    },
+    {
+      "id": 59492,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_024.mp3",
+      "text": "وَلَا",
+      "translation": "dan tidak",
+      "transliteration": "walā"
+    },
+    {
+      "id": 59493,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_025.mp3",
+      "text": "شَفِيعٌۭ",
+      "translation": "penolong",
+      "transliteration": "shafīʿun"
+    },
+    {
+      "id": 59494,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_026.mp3",
+      "text": "وَإِن",
+      "translation": "dan jika",
+      "transliteration": "wa-in"
+    },
+    {
+      "id": 59495,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_027.mp3",
+      "text": "تَعْدِلْ",
+      "translation": "ia menebus",
+      "transliteration": "taʿdil"
+    },
+    {
+      "id": 59496,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_028.mp3",
+      "text": "كُلَّ",
+      "translation": "segala",
+      "transliteration": "kulla"
+    },
+    {
+      "id": 59497,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_029.mp3",
+      "text": "عَدْلٍۢ",
+      "translation": "tebusan",
+      "transliteration": "ʿadlin"
+    },
+    {
+      "id": 59498,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_030.mp3",
+      "text": "لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 59499,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_031.mp3",
+      "text": "يُؤْخَذْ",
+      "translation": "diambil/diterima",
+      "transliteration": "yu'khadh"
+    },
+    {
+      "id": 59500,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_032.mp3",
+      "text": "مِنْهَآ ۗ",
+      "translation": "dari padanya",
+      "transliteration": "min'hā"
+    },
+    {
+      "id": 59502,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_034.mp3",
+      "text": "أُو۟لَـٰٓئِكَ",
+      "translation": "mereka itulah",
+      "transliteration": "ulāika"
+    },
+    {
+      "id": 59503,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_035.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 59504,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_036.mp3",
+      "text": "أُبْسِلُوا۟",
+      "translation": "(mereka) dibinasakan/dijerumuskan",
+      "transliteration": "ub'silū"
+    },
+    {
+      "id": 59505,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_037.mp3",
+      "text": "بِمَا",
+      "translation": "disebabkan apa",
+      "transliteration": "bimā"
+    },
+    {
+      "id": 59506,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_038.mp3",
+      "text": "كَسَبُوا۟ ۖ",
+      "translation": "mereka kerjakan",
+      "transliteration": "kasabū"
+    },
+    {
+      "id": 59508,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_040.mp3",
+      "text": "لَهُمْ",
+      "translation": "bagi mereka",
+      "transliteration": "lahum"
+    },
+    {
+      "id": 59509,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_041.mp3",
+      "text": "شَرَابٌۭ",
+      "translation": "minuman",
+      "transliteration": "sharābun"
+    },
+    {
+      "id": 59510,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_042.mp3",
+      "text": "مِّنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 59511,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_043.mp3",
+      "text": "حَمِيمٍۢ",
+      "translation": "air yang mendidih",
+      "transliteration": "ḥamīmin"
+    },
+    {
+      "id": 59512,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_044.mp3",
+      "text": "وَعَذَابٌ",
+      "translation": "dan azab",
+      "transliteration": "waʿadhābun"
+    },
+    {
+      "id": 59513,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_045.mp3",
+      "text": "أَلِيمٌۢ",
+      "translation": "sangat pedih",
+      "transliteration": "alīmun"
+    },
+    {
+      "id": 59514,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_046.mp3",
+      "text": "بِمَا",
+      "translation": "disebabkan apa",
+      "transliteration": "bimā"
+    },
+    {
+      "id": 59515,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_047.mp3",
+      "text": "كَانُوا۟",
+      "translation": "mereka adalah",
+      "transliteration": "kānū"
+    },
+    {
+      "id": 59516,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/006_070_048.mp3",
+      "text": "يَكْفُرُونَ",
+      "translation": "mereka kafir/ingkar",
+      "transliteration": "yakfurūna"
+    },
+    {
+      "id": 59517,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٧٠",
+      "translation": "(70)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tinggalkanlah orang-orang yang menjadikan agama<sup foot_note_id=\"485\">28</sup> mereka sebagai main-main dan senda gurau<sup foot_note_id=\"486\">29</sup>, dan mereka telah ditipu oleh kehidupan dunia.  Peringatkanlah (mereka) dengan Al-Qur`ān itu agar masing-masing diri tidak dijerumuskan ke dalam neraka karena perbuatannya sendiri.  Tidak akan ada baginya pelindung dan tidak (pula) pemberi syafaat<sup foot_note_id=\"487\">30</sup> selain dari Allah.  Dan jika ia menebus dengan segala macam tebusan pun, niscaya tidak akan diterima itu darinya.  Mereka itulah orang-orang yang dijerumuskan ke dalam neraka disebabkan perbuatan mereka sendiri.  Bagi mereka (disediakan) minuman dari air yang sedang mendidih dan azab yang pedih disebabkan kekafiran mereka dahulu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Wa żaril-lażīnattakhażū dīnahum la‘ibaw wa lahwaw wa garrathumul-ḥayātud-dun-yā wa żakkir bihī an tubsala nafsum bimā kasabat, laisa lahā min dūnillāhi waliyyuw wa lā syafī‘(un), wa in ta‘dil kulla ‘adlil lā yu'khaż minhā, ulā'ikal-lażīna ubsilū bimā kasabū lahum syarābum min ḥamīmiw wa ‘ażābun alīmum bimā kānū yakfurūn(a)."
+}

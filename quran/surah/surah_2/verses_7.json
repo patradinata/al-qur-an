@@ -1,0 +1,124 @@
+{
+  "id": 14,
+  "chapter_id": 2,
+  "verse_key": "2:7",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "ruku_number": 2,
+  "manzil_number": 1,
+  "page_number": 3,
+  "juz_number": 1,
+  "text_uthmani": "خَتَمَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ وَعَلَىٰ سَمْعِهِمْ ۖ وَعَلَىٰٓ أَبْصَـٰرِهِمْ غِشَـٰوَةٌ ۖ وَلَهُمْ عَذَابٌ عَظِيمٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 8309,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_007_001.mp3",
+      "text": "خَتَمَ",
+      "translation": "menutup/mengunci",
+      "transliteration": "khatama"
+    },
+    {
+      "id": 8310,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_007_002.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 8311,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_007_003.mp3",
+      "text": "عَلَىٰ",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 8312,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_007_004.mp3",
+      "text": "قُلُوبِهِمْ",
+      "translation": "hati mereka",
+      "transliteration": "qulūbihim"
+    },
+    {
+      "id": 8313,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_007_005.mp3",
+      "text": "وَعَلَىٰ",
+      "translation": "dan atas",
+      "transliteration": "waʿalā"
+    },
+    {
+      "id": 8314,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_007_006.mp3",
+      "text": "سَمْعِهِمْ ۖ",
+      "translation": "pendengaran mereka",
+      "transliteration": "samʿihim"
+    },
+    {
+      "id": 8316,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_007_008.mp3",
+      "text": "وَعَلَىٰٓ",
+      "translation": "dan atas",
+      "transliteration": "waʿalā"
+    },
+    {
+      "id": 8317,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_007_009.mp3",
+      "text": "أَبْصَـٰرِهِمْ",
+      "translation": "penglihatan mereka",
+      "transliteration": "abṣārihim"
+    },
+    {
+      "id": 8318,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_007_010.mp3",
+      "text": "غِشَـٰوَةٌۭ ۖ",
+      "translation": "tutup/tabir",
+      "transliteration": "ghishāwatun"
+    },
+    {
+      "id": 8320,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_007_012.mp3",
+      "text": "وَلَهُمْ",
+      "translation": "dan bagi mereka",
+      "transliteration": "walahum"
+    },
+    {
+      "id": 8321,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_007_013.mp3",
+      "text": "عَذَابٌ",
+      "translation": "siksaan",
+      "transliteration": "ʿadhābun"
+    },
+    {
+      "id": 8322,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_007_014.mp3",
+      "text": "عَظِيمٌۭ",
+      "translation": "besar/berat",
+      "transliteration": "ʿaẓīmun"
+    },
+    {
+      "id": 8323,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٧",
+      "translation": "(7)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Allah telah mengunci mati hati dan pendengaran mereka<sup foot_note_id=\"20\">11</sup>, dan penglihatan mereka ditutup<sup foot_note_id=\"21\">12</sup>.  Dan bagi mereka siksa yang amat berat.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Khatamallāhu ‘alā qulūbihim wa ‘alā sam‘ihim wa ‘alā abṣārihim gisyāwatuw wa lahum ‘ażābun ‘aẓīm(un)."
+}

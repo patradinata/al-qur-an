@@ -1,0 +1,108 @@
+{
+  "id": 416,
+  "chapter_id": 3,
+  "verse_key": "3:123",
+  "hizb_number": 7,
+  "rub_el_hizb_number": 26,
+  "ruku_number": 54,
+  "manzil_number": 1,
+  "page_number": 66,
+  "juz_number": 4,
+  "text_uthmani": "وَلَقَدْ نَصَرَكُمُ ٱللَّهُ بِبَدْرٍ وَأَنتُمْ أَذِلَّةٌ ۖ فَٱتَّقُوا۟ ٱللَّهَ لَعَلَّكُمْ تَشْكُرُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/3.mp3",
+  "words": [
+    {
+      "id": 76863,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_123_001.mp3",
+      "text": "وَلَقَدْ",
+      "translation": "dan sesungguhnya",
+      "transliteration": "walaqad"
+    },
+    {
+      "id": 76864,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_123_002.mp3",
+      "text": "نَصَرَكُمُ",
+      "translation": "telah menolong kamu",
+      "transliteration": "naṣarakumu"
+    },
+    {
+      "id": 76865,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_123_003.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 76866,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_123_004.mp3",
+      "text": "بِبَدْرٍۢ",
+      "translation": "dengan/dalam (perang) Badar",
+      "transliteration": "bibadrin"
+    },
+    {
+      "id": 76867,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_123_005.mp3",
+      "text": "وَأَنتُمْ",
+      "translation": "dan kalian",
+      "transliteration": "wa-antum"
+    },
+    {
+      "id": 76868,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_123_006.mp3",
+      "text": "أَذِلَّةٌۭ ۖ",
+      "translation": "hina/lemah",
+      "transliteration": "adhillatun"
+    },
+    {
+      "id": 76870,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_123_008.mp3",
+      "text": "فَٱتَّقُوا۟",
+      "translation": "maka bertakwalah",
+      "transliteration": "fa-ittaqū"
+    },
+    {
+      "id": 76871,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_123_009.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 76872,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_123_010.mp3",
+      "text": "لَعَلَّكُمْ",
+      "translation": "agar kalian",
+      "transliteration": "laʿallakum"
+    },
+    {
+      "id": 76873,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/003_123_011.mp3",
+      "text": "تَشْكُرُونَ",
+      "translation": "kalian bersyukur",
+      "transliteration": "tashkurūna"
+    },
+    {
+      "id": 76874,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٢٣",
+      "translation": "(123)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sungguh Allah telah menolong kamu dalam peperangan Badar<sup foot_note_id=\"225\">44</sup>, padahal kamu adalah (ketika itu) orang-orang yang lemah<sup foot_note_id=\"226\">45</sup>.  Karena itu bertakwalah kepada Allah, supaya kamu mensyukuri-Nya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Wa laqad naṣarakumullāhu bibadriw wa antum ażillah(tun), fattaqullāha la‘allakum tasykurūn(a)."
+}

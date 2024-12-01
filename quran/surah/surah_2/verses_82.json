@@ -1,0 +1,108 @@
+{
+  "id": 89,
+  "chapter_id": 2,
+  "verse_key": "2:82",
+  "hizb_number": 2,
+  "rub_el_hizb_number": 5,
+  "ruku_number": 10,
+  "manzil_number": 1,
+  "page_number": 12,
+  "juz_number": 1,
+  "text_uthmani": "وَٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْجَنَّةِ ۖ هُمْ فِيهَا خَـٰلِدُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 65106,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_082_001.mp3",
+      "text": "وَٱلَّذِينَ",
+      "translation": "dan orang-orang yang",
+      "transliteration": "wa-alladhīna"
+    },
+    {
+      "id": 65107,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_082_002.mp3",
+      "text": "ءَامَنُوا۟",
+      "translation": "beriman",
+      "transliteration": "āmanū"
+    },
+    {
+      "id": 65108,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_082_003.mp3",
+      "text": "وَعَمِلُوا۟",
+      "translation": "dan mereka mengerjakan",
+      "transliteration": "waʿamilū"
+    },
+    {
+      "id": 65109,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_082_004.mp3",
+      "text": "ٱلصَّـٰلِحَـٰتِ",
+      "translation": "kebajikan",
+      "transliteration": "l-ṣāliḥāti"
+    },
+    {
+      "id": 65110,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_082_005.mp3",
+      "text": "أُو۟لَـٰٓئِكَ",
+      "translation": "mereka itu",
+      "transliteration": "ulāika"
+    },
+    {
+      "id": 65111,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_082_006.mp3",
+      "text": "أَصْحَـٰبُ",
+      "translation": "penghuni",
+      "transliteration": "aṣḥābu"
+    },
+    {
+      "id": 65112,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_082_007.mp3",
+      "text": "ٱلْجَنَّةِ ۖ",
+      "translation": "surga",
+      "transliteration": "l-janati"
+    },
+    {
+      "id": 65114,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_082_009.mp3",
+      "text": "هُمْ",
+      "translation": "mereka",
+      "transliteration": "hum"
+    },
+    {
+      "id": 65115,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_082_010.mp3",
+      "text": "فِيهَا",
+      "translation": "didalamnya",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 65116,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_082_011.mp3",
+      "text": "خَـٰلِدُونَ",
+      "translation": "mereka kekal",
+      "transliteration": "khālidūna"
+    },
+    {
+      "id": 65117,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٨٢",
+      "translation": "(82)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan orang-orang yang beriman serta beramal saleh, mereka itu penghuni surga; mereka kekal di dalamnya.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Wal-lażīna āmanū wa ‘amiluṣ-ṣāliḥāti ulā'ika aṣḥābul-jannah(ti), hum fīhā khālidūn(a)."
+}

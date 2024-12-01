@@ -1,0 +1,124 @@
+{
+  "id": 3464,
+  "chapter_id": 30,
+  "verse_key": "30:55",
+  "hizb_number": 41,
+  "rub_el_hizb_number": 164,
+  "ruku_number": 355,
+  "manzil_number": 5,
+  "page_number": 410,
+  "juz_number": 21,
+  "text_uthmani": "وَيَوْمَ تَقُومُ ٱلسَّاعَةُ يُقْسِمُ ٱلْمُجْرِمُونَ مَا لَبِثُوا۟ غَيْرَ سَاعَةٍ ۚ كَذَٰلِكَ كَانُوا۟ يُؤْفَكُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/30.mp3",
+  "words": [
+    {
+      "id": 51905,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_055_001.mp3",
+      "text": "وَيَوْمَ",
+      "translation": "dan pada hari",
+      "transliteration": "wayawma"
+    },
+    {
+      "id": 51906,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_055_002.mp3",
+      "text": "تَقُومُ",
+      "translation": "terjadi",
+      "transliteration": "taqūmu"
+    },
+    {
+      "id": 51907,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_055_003.mp3",
+      "text": "ٱلسَّاعَةُ",
+      "translation": "kiamat",
+      "transliteration": "l-sāʿatu"
+    },
+    {
+      "id": 51908,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_055_004.mp3",
+      "text": "يُقْسِمُ",
+      "translation": "bersumpah",
+      "transliteration": "yuq'simu"
+    },
+    {
+      "id": 51909,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_055_005.mp3",
+      "text": "ٱلْمُجْرِمُونَ",
+      "translation": "orang-orang yang berdosa",
+      "transliteration": "l-muj'rimūna"
+    },
+    {
+      "id": 51910,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_055_006.mp3",
+      "text": "مَا",
+      "translation": "tidaklah",
+      "transliteration": "mā"
+    },
+    {
+      "id": 51911,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_055_007.mp3",
+      "text": "لَبِثُوا۟",
+      "translation": "mereka tinggal",
+      "transliteration": "labithū"
+    },
+    {
+      "id": 51912,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_055_008.mp3",
+      "text": "غَيْرَ",
+      "translation": "melainkan",
+      "transliteration": "ghayra"
+    },
+    {
+      "id": 51913,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_055_009.mp3",
+      "text": "سَاعَةٍۢ ۚ",
+      "translation": "sesaat",
+      "transliteration": "sāʿatin"
+    },
+    {
+      "id": 51915,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_055_011.mp3",
+      "text": "كَذَٰلِكَ",
+      "translation": "seperti demikianlah",
+      "transliteration": "kadhālika"
+    },
+    {
+      "id": 51916,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_055_012.mp3",
+      "text": "كَانُوا۟",
+      "translation": "adalah mereka",
+      "transliteration": "kānū"
+    },
+    {
+      "id": 51917,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_055_013.mp3",
+      "text": "يُؤْفَكُونَ",
+      "translation": "mereka dipalingkan",
+      "transliteration": "yu'fakūna"
+    },
+    {
+      "id": 51918,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٥٥",
+      "translation": "(55)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan pada hari terjadinya kiamat, bersumpahlah orang-orang yang berdosa, \"Mereka tidak berdiam (dalam kubur), melainkan sesaat (saja)\".  Seperti demikianlah, mereka selalu dipalingkan (dari kebenaran) <sup foot_note_id=\"1177\">18</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Wa yauma taqūmus-sā‘atu yuqsimul-mujrimūn(a), mā labiṡū gaira sā‘ah(tin), każālika kānū yu'fakūn(a)."
+}

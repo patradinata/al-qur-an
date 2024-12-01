@@ -1,0 +1,204 @@
+{
+  "id": 1458,
+  "chapter_id": 10,
+  "verse_key": "10:94",
+  "hizb_number": 22,
+  "rub_el_hizb_number": 88,
+  "ruku_number": 181,
+  "manzil_number": 3,
+  "page_number": 219,
+  "juz_number": 11,
+  "text_uthmani": "فَإِن كُنتَ فِى شَكٍّ مِّمَّآ أَنزَلْنَآ إِلَيْكَ فَسْـَٔلِ ٱلَّذِينَ يَقْرَءُونَ ٱلْكِتَـٰبَ مِن قَبْلِكَ ۚ لَقَدْ جَآءَكَ ٱلْحَقُّ مِن رَّبِّكَ فَلَا تَكُونَنَّ مِنَ ٱلْمُمْتَرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/10.mp3",
+  "words": [
+    {
+      "id": 69514,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_094_001.mp3",
+      "text": "فَإِن",
+      "translation": "maka jika",
+      "transliteration": "fa-in"
+    },
+    {
+      "id": 69515,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_094_002.mp3",
+      "text": "كُنتَ",
+      "translation": "adalah kamu",
+      "transliteration": "kunta"
+    },
+    {
+      "id": 69516,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_094_003.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 69517,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_094_004.mp3",
+      "text": "شَكٍّۢ",
+      "translation": "keraguan",
+      "transliteration": "shakkin"
+    },
+    {
+      "id": 69518,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_094_005.mp3",
+      "text": "مِّمَّآ",
+      "translation": "dari apa yang",
+      "transliteration": "mimmā"
+    },
+    {
+      "id": 69519,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_094_006.mp3",
+      "text": "أَنزَلْنَآ",
+      "translation": "Kami turunkan",
+      "transliteration": "anzalnā"
+    },
+    {
+      "id": 69520,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_094_007.mp3",
+      "text": "إِلَيْكَ",
+      "translation": "kepadamu",
+      "transliteration": "ilayka"
+    },
+    {
+      "id": 69521,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_094_008.mp3",
+      "text": "فَسْـَٔلِ",
+      "translation": "maka tanyakanlah",
+      "transliteration": "fasali"
+    },
+    {
+      "id": 69522,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_094_009.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 69523,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_094_010.mp3",
+      "text": "يَقْرَءُونَ",
+      "translation": "(mereka) membaca",
+      "transliteration": "yaqraūna"
+    },
+    {
+      "id": 69524,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_094_011.mp3",
+      "text": "ٱلْكِتَـٰبَ",
+      "translation": "Kitab",
+      "transliteration": "l-kitāba"
+    },
+    {
+      "id": 69525,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_094_012.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 69526,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_094_013.mp3",
+      "text": "قَبْلِكَ ۚ",
+      "translation": "sebelum kamu",
+      "transliteration": "qablika"
+    },
+    {
+      "id": 69528,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_094_015.mp3",
+      "text": "لَقَدْ",
+      "translation": "sesungguhnya",
+      "transliteration": "laqad"
+    },
+    {
+      "id": 69529,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_094_016.mp3",
+      "text": "جَآءَكَ",
+      "translation": "telah datang kepadamu",
+      "transliteration": "jāaka"
+    },
+    {
+      "id": 69530,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_094_017.mp3",
+      "text": "ٱلْحَقُّ",
+      "translation": "kebenaran",
+      "transliteration": "l-ḥaqu"
+    },
+    {
+      "id": 69531,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_094_018.mp3",
+      "text": "مِن",
+      "translation": "dari/termasuk",
+      "transliteration": "min"
+    },
+    {
+      "id": 69532,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_094_019.mp3",
+      "text": "رَّبِّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbika"
+    },
+    {
+      "id": 69533,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_094_020.mp3",
+      "text": "فَلَا",
+      "translation": "maka jangan",
+      "transliteration": "falā"
+    },
+    {
+      "id": 69534,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_094_021.mp3",
+      "text": "تَكُونَنَّ",
+      "translation": "sekali-kali kamu adalah",
+      "transliteration": "takūnanna"
+    },
+    {
+      "id": 69535,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_094_022.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 69536,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/010_094_023.mp3",
+      "text": "ٱلْمُمْتَرِينَ",
+      "translation": "orang-orang yang ragu-ragu",
+      "transliteration": "l-mum'tarīna"
+    },
+    {
+      "id": 69537,
+      "line_number": 12,
+      "audio_url": null,
+      "text": "٩٤",
+      "translation": "(94)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Maka jika kamu (Muhammad) berada dalam keragu-raguan tentang apa yang Kami turunkan kepadamu, maka tanyakanlah kepada orang-orang yang membaca kitab sebelum kamu.  Sesungguhnya telah datang kebenaran kepadamu dari Tuhan-mu, sebab itu janganlah sekali-kali kamu temasuk orang-orang yang ragu-ragu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Fa in kunta fī syakkim mimmā anzalnā ilaika fas'alil-lażīna yaqra'ūnal-kitāba min qablik(a), laqad jā'akal-ḥaqqu mir rabbika falā takūnanna minal-mumtarīn(a)."
+}

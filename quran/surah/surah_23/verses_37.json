@@ -1,0 +1,108 @@
+{
+  "id": 2710,
+  "chapter_id": 23,
+  "verse_key": "23:37",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "ruku_number": 297,
+  "manzil_number": 4,
+  "page_number": 344,
+  "juz_number": 18,
+  "text_uthmani": "إِنْ هِىَ إِلَّا حَيَاتُنَا ٱلدُّنْيَا نَمُوتُ وَنَحْيَا وَمَا نَحْنُ بِمَبْعُوثِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/23.mp3",
+  "words": [
+    {
+      "id": 38960,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_037_001.mp3",
+      "text": "إِنْ",
+      "translation": "jika/tidaklah",
+      "transliteration": "in"
+    },
+    {
+      "id": 38961,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_037_002.mp3",
+      "text": "هِىَ",
+      "translation": "ia",
+      "transliteration": "hiya"
+    },
+    {
+      "id": 38962,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_037_003.mp3",
+      "text": "إِلَّا",
+      "translation": "melainkan",
+      "transliteration": "illā"
+    },
+    {
+      "id": 38963,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_037_004.mp3",
+      "text": "حَيَاتُنَا",
+      "translation": "kehidupan kita",
+      "transliteration": "ḥayātunā"
+    },
+    {
+      "id": 38964,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_037_005.mp3",
+      "text": "ٱلدُّنْيَا",
+      "translation": "di dunia",
+      "transliteration": "l-dun'yā"
+    },
+    {
+      "id": 38965,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_037_006.mp3",
+      "text": "نَمُوتُ",
+      "translation": "kita mati",
+      "transliteration": "namūtu"
+    },
+    {
+      "id": 38966,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_037_007.mp3",
+      "text": "وَنَحْيَا",
+      "translation": "dan kita hidup",
+      "transliteration": "wanaḥyā"
+    },
+    {
+      "id": 38967,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_037_008.mp3",
+      "text": "وَمَا",
+      "translation": "dan tidaklah",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 38968,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_037_009.mp3",
+      "text": "نَحْنُ",
+      "translation": "kami/kita",
+      "transliteration": "naḥnu"
+    },
+    {
+      "id": 38969,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/023_037_010.mp3",
+      "text": "بِمَبْعُوثِينَ",
+      "translation": "dengan dibangkitkan",
+      "transliteration": "bimabʿūthīna"
+    },
+    {
+      "id": 38970,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "٣٧",
+      "translation": "(37)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "kehidupan itu tidak lain hanyalah kehidupan kita di dunia ini; kita mati dan kita hidup <sup foot_note_id=\"1000\">7</sup> dan sekali-kali tidak akan dibangkitkan lagi,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "In hiya illā ḥayātunad-dun-yā namūtu wa naḥyā wa mā naḥnu bimab‘ūṡīn(a)."
+}

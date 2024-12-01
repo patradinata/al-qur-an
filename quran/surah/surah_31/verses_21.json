@@ -1,0 +1,196 @@
+{
+  "id": 3490,
+  "chapter_id": 31,
+  "verse_key": "31:21",
+  "hizb_number": 41,
+  "rub_el_hizb_number": 164,
+  "ruku_number": 358,
+  "manzil_number": 5,
+  "page_number": 413,
+  "juz_number": 21,
+  "text_uthmani": "وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُوا۟ مَآ أَنزَلَ ٱللَّهُ قَالُوا۟ بَلْ نَتَّبِعُ مَا وَجَدْنَا عَلَيْهِ ءَابَآءَنَآ ۚ أَوَلَوْ كَانَ ٱلشَّيْطَـٰنُ يَدْعُوهُمْ إِلَىٰ عَذَابِ ٱلسَّعِيرِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/31.mp3",
+  "words": [
+    {
+      "id": 24145,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_021_001.mp3",
+      "text": "وَإِذَا",
+      "translation": "dan apabila",
+      "transliteration": "wa-idhā"
+    },
+    {
+      "id": 24146,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_021_002.mp3",
+      "text": "قِيلَ",
+      "translation": "dikatakan",
+      "transliteration": "qīla"
+    },
+    {
+      "id": 24147,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_021_003.mp3",
+      "text": "لَهُمُ",
+      "translation": "kepada mereka",
+      "transliteration": "lahumu"
+    },
+    {
+      "id": 24148,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_021_004.mp3",
+      "text": "ٱتَّبِعُوا۟",
+      "translation": "ikutilah",
+      "transliteration": "ittabiʿū"
+    },
+    {
+      "id": 24149,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_021_005.mp3",
+      "text": "مَآ",
+      "translation": "apa yang",
+      "transliteration": "mā"
+    },
+    {
+      "id": 24150,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_021_006.mp3",
+      "text": "أَنزَلَ",
+      "translation": "menurunkan",
+      "transliteration": "anzala"
+    },
+    {
+      "id": 24151,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_021_007.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 24152,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_021_008.mp3",
+      "text": "قَالُوا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 24153,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_021_009.mp3",
+      "text": "بَلْ",
+      "translation": "bahkan",
+      "transliteration": "bal"
+    },
+    {
+      "id": 24154,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_021_010.mp3",
+      "text": "نَتَّبِعُ",
+      "translation": "kami mengikuti",
+      "transliteration": "nattabiʿu"
+    },
+    {
+      "id": 24155,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_021_011.mp3",
+      "text": "مَا",
+      "translation": "apa yang",
+      "transliteration": "mā"
+    },
+    {
+      "id": 24156,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_021_012.mp3",
+      "text": "وَجَدْنَا",
+      "translation": "kami dapati",
+      "transliteration": "wajadnā"
+    },
+    {
+      "id": 24157,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_021_013.mp3",
+      "text": "عَلَيْهِ",
+      "translation": "atasnya",
+      "transliteration": "ʿalayhi"
+    },
+    {
+      "id": 24158,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_021_014.mp3",
+      "text": "ءَابَآءَنَآ ۚ",
+      "translation": "bapak-bapak kami",
+      "transliteration": "ābāanā"
+    },
+    {
+      "id": 24160,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_021_016.mp3",
+      "text": "أَوَلَوْ",
+      "translation": "apakah walaupun",
+      "transliteration": "awalaw"
+    },
+    {
+      "id": 24161,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_021_017.mp3",
+      "text": "كَانَ",
+      "translation": "adalah",
+      "transliteration": "kāna"
+    },
+    {
+      "id": 24162,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_021_018.mp3",
+      "text": "ٱلشَّيْطَـٰنُ",
+      "translation": "syaitan",
+      "transliteration": "l-shayṭānu"
+    },
+    {
+      "id": 24163,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_021_019.mp3",
+      "text": "يَدْعُوهُمْ",
+      "translation": "menyeru mereka",
+      "transliteration": "yadʿūhum"
+    },
+    {
+      "id": 24164,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_021_020.mp3",
+      "text": "إِلَىٰ",
+      "translation": "kepada",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 24165,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_021_021.mp3",
+      "text": "عَذَابِ",
+      "translation": "azab",
+      "transliteration": "ʿadhābi"
+    },
+    {
+      "id": 24166,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/031_021_022.mp3",
+      "text": "ٱلسَّعِيرِ",
+      "translation": "menyala-nyala",
+      "transliteration": "l-saʿīri"
+    },
+    {
+      "id": 24167,
+      "line_number": 5,
+      "audio_url": null,
+      "text": "٢١",
+      "translation": "(21)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan apabila dikatakan kepada mereka, \"Ikutilah apa yang diturunkan Allah\".  Mereka menjawab, \"(Tidak), tapi kami (hanya) mengikuti apa yang kami dapati bapak-bapak kami mengerjakannya\".  Dan apakah mereka (akan mengikuti bapak-bapak mereka), walaupun setan itu menyeru mereka ke dalam siksa api yang menyala-nyala (neraka)?",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Wa iżā qīla lahumuttabi‘ū mā anzalallāhu qālū bal nattabi‘u mā wajadnā ‘alaihi ābā'anā, awalau kānasy-syaiṭānu yad‘ūhum ilā ‘ażābis-sa‘īr(i)."
+}

@@ -1,0 +1,116 @@
+{
+  "id": 1678,
+  "chapter_id": 12,
+  "verse_key": "12:82",
+  "hizb_number": 25,
+  "rub_el_hizb_number": 98,
+  "ruku_number": 202,
+  "manzil_number": 3,
+  "page_number": 245,
+  "juz_number": 13,
+  "text_uthmani": "وَسْـَٔلِ ٱلْقَرْيَةَ ٱلَّتِى كُنَّا فِيهَا وَٱلْعِيرَ ٱلَّتِىٓ أَقْبَلْنَا فِيهَا ۖ وَإِنَّا لَصَـٰدِقُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/12.mp3",
+  "words": [
+    {
+      "id": 64964,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_082_001.mp3",
+      "text": "وَسْـَٔلِ",
+      "translation": "dan tanyakanlah",
+      "transliteration": "wasali"
+    },
+    {
+      "id": 64965,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_082_002.mp3",
+      "text": "ٱلْقَرْيَةَ",
+      "translation": "negeri",
+      "transliteration": "l-qaryata"
+    },
+    {
+      "id": 64966,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_082_003.mp3",
+      "text": "ٱلَّتِى",
+      "translation": "yang",
+      "transliteration": "allatī"
+    },
+    {
+      "id": 64967,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_082_004.mp3",
+      "text": "كُنَّا",
+      "translation": "adalah kami/kami berada",
+      "transliteration": "kunnā"
+    },
+    {
+      "id": 64968,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_082_005.mp3",
+      "text": "فِيهَا",
+      "translation": "didalamnya/disana",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 64969,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_082_006.mp3",
+      "text": "وَٱلْعِيرَ",
+      "translation": "dan kafilah",
+      "transliteration": "wal-ʿīra"
+    },
+    {
+      "id": 64970,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_082_007.mp3",
+      "text": "ٱلَّتِىٓ",
+      "translation": "yang",
+      "transliteration": "allatī"
+    },
+    {
+      "id": 64971,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_082_008.mp3",
+      "text": "أَقْبَلْنَا",
+      "translation": "kami datang bersama",
+      "transliteration": "aqbalnā"
+    },
+    {
+      "id": 64972,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_082_009.mp3",
+      "text": "فِيهَا ۖ",
+      "translation": "didalamnya/disana",
+      "transliteration": "fīhā"
+    },
+    {
+      "id": 64974,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_082_011.mp3",
+      "text": "وَإِنَّا",
+      "translation": "dan sesungguhnya",
+      "transliteration": "wa-innā"
+    },
+    {
+      "id": 64975,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_082_012.mp3",
+      "text": "لَصَـٰدِقُونَ",
+      "translation": "orang-orang yang benar",
+      "transliteration": "laṣādiqūna"
+    },
+    {
+      "id": 64976,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٨٢",
+      "translation": "(82)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan tanyalah (penduduk) negeri yang kami berada di situ dan kafilah yang kami datang bersamanya dan sesungguhnya kami adalah orang-orang yang benar\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Was'alil-qaryatal-latī kunnā fīhā wal-‘īral-latī aqbalnā fīhā, wa innā laṣādiqūn(a)."
+}

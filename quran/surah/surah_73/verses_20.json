@@ -1,0 +1,652 @@
+{
+  "id": 5495,
+  "chapter_id": 73,
+  "verse_key": "73:20",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 511,
+  "manzil_number": 7,
+  "page_number": 575,
+  "juz_number": 29,
+  "text_uthmani": "۞ إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٌ مِّنَ ٱلَّذِينَ مَعَكَ ۚ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ ۚ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ ۖ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ ۚ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ ۙ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ ۙ وَءَاخَرُونَ يُقَـٰتِلُونَ فِى سَبِيلِ ٱللَّهِ ۖ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنْهُ ۚ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا ۚ وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا ۚ وَٱسْتَغْفِرُوا۟ ٱللَّهَ ۖ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌۢ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/73.mp3",
+  "words": [
+    {
+      "id": 22776,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_002.mp3",
+      "text": "۞ إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 22777,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_003.mp3",
+      "text": "رَبَّكَ",
+      "translation": "Tuhanmu",
+      "transliteration": "rabbaka"
+    },
+    {
+      "id": 22778,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_004.mp3",
+      "text": "يَعْلَمُ",
+      "translation": "mengetahui",
+      "transliteration": "yaʿlamu"
+    },
+    {
+      "id": 22779,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_005.mp3",
+      "text": "أَنَّكَ",
+      "translation": "bahwa kamu",
+      "transliteration": "annaka"
+    },
+    {
+      "id": 22780,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_006.mp3",
+      "text": "تَقُومُ",
+      "translation": "kamu berdiri",
+      "transliteration": "taqūmu"
+    },
+    {
+      "id": 22781,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_007.mp3",
+      "text": "أَدْنَىٰ",
+      "translation": "kurang",
+      "transliteration": "adnā"
+    },
+    {
+      "id": 22782,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_008.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 22783,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_009.mp3",
+      "text": "ثُلُثَىِ",
+      "translation": "dua pertiga",
+      "transliteration": "thuluthayi"
+    },
+    {
+      "id": 22784,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_010.mp3",
+      "text": "ٱلَّيْلِ",
+      "translation": "malam",
+      "transliteration": "al-layli"
+    },
+    {
+      "id": 22785,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_011.mp3",
+      "text": "وَنِصْفَهُۥ",
+      "translation": "dan/atau separuhnya",
+      "transliteration": "waniṣ'fahu"
+    },
+    {
+      "id": 22786,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_012.mp3",
+      "text": "وَثُلُثَهُۥ",
+      "translation": "dan/atau sepertiganya",
+      "transliteration": "wathuluthahu"
+    },
+    {
+      "id": 22787,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_013.mp3",
+      "text": "وَطَآئِفَةٌۭ",
+      "translation": "dan segolongan",
+      "transliteration": "waṭāifatun"
+    },
+    {
+      "id": 22788,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_014.mp3",
+      "text": "مِّنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 22789,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_015.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 22790,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_016.mp3",
+      "text": "مَعَكَ ۚ",
+      "translation": "bersama kamu",
+      "transliteration": "maʿaka"
+    },
+    {
+      "id": 22792,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_018.mp3",
+      "text": "وَٱللَّهُ",
+      "translation": "dan Allah",
+      "transliteration": "wal-lahu"
+    },
+    {
+      "id": 22793,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_019.mp3",
+      "text": "يُقَدِّرُ",
+      "translation": "menetapkan",
+      "transliteration": "yuqaddiru"
+    },
+    {
+      "id": 22794,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_020.mp3",
+      "text": "ٱلَّيْلَ",
+      "translation": "malam",
+      "transliteration": "al-layla"
+    },
+    {
+      "id": 22795,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_021.mp3",
+      "text": "وَٱلنَّهَارَ ۚ",
+      "translation": "dan siang",
+      "transliteration": "wal-nahāra"
+    },
+    {
+      "id": 22797,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_023.mp3",
+      "text": "عَلِمَ",
+      "translation": "Dia mengetahui",
+      "transliteration": "ʿalima"
+    },
+    {
+      "id": 22798,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_024.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 22799,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_025.mp3",
+      "text": "لَّن",
+      "translation": "tidak dapat",
+      "transliteration": "lan"
+    },
+    {
+      "id": 22800,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_026.mp3",
+      "text": "تُحْصُوهُ",
+      "translation": "menentukannya",
+      "transliteration": "tuḥ'ṣūhu"
+    },
+    {
+      "id": 22801,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_027.mp3",
+      "text": "فَتَابَ",
+      "translation": "maka Dia menerima taubat",
+      "transliteration": "fatāba"
+    },
+    {
+      "id": 22802,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_028.mp3",
+      "text": "عَلَيْكُمْ ۖ",
+      "translation": "atas kalian",
+      "transliteration": "ʿalaykum"
+    },
+    {
+      "id": 22804,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_030.mp3",
+      "text": "فَٱقْرَءُوا۟",
+      "translation": "maka bacalah",
+      "transliteration": "fa-iq'raū"
+    },
+    {
+      "id": 22805,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_031.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 22806,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_032.mp3",
+      "text": "تَيَسَّرَ",
+      "translation": "kamu mudah",
+      "transliteration": "tayassara"
+    },
+    {
+      "id": 22807,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_033.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 22808,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_034.mp3",
+      "text": "ٱلْقُرْءَانِ ۚ",
+      "translation": "Al Qur'an ini",
+      "transliteration": "l-qur'āni"
+    },
+    {
+      "id": 22810,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_036.mp3",
+      "text": "عَلِمَ",
+      "translation": "Dia mengetahui",
+      "transliteration": "ʿalima"
+    },
+    {
+      "id": 22811,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_037.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 22812,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_038.mp3",
+      "text": "سَيَكُونُ",
+      "translation": "akan ada",
+      "transliteration": "sayakūnu"
+    },
+    {
+      "id": 22813,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_039.mp3",
+      "text": "مِنكُم",
+      "translation": "diantara kamu",
+      "transliteration": "minkum"
+    },
+    {
+      "id": 22814,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_040.mp3",
+      "text": "مَّرْضَىٰ ۙ",
+      "translation": "orang-orang yang sakit",
+      "transliteration": "marḍā"
+    },
+    {
+      "id": 22816,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_042.mp3",
+      "text": "وَءَاخَرُونَ",
+      "translation": "dan yang lain",
+      "transliteration": "waākharūna"
+    },
+    {
+      "id": 22817,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_043.mp3",
+      "text": "يَضْرِبُونَ",
+      "translation": "mereka berjalan",
+      "transliteration": "yaḍribūna"
+    },
+    {
+      "id": 22818,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_044.mp3",
+      "text": "فِى",
+      "translation": "di",
+      "transliteration": "fī"
+    },
+    {
+      "id": 22819,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_045.mp3",
+      "text": "ٱلْأَرْضِ",
+      "translation": "bumi",
+      "transliteration": "l-arḍi"
+    },
+    {
+      "id": 22820,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_046.mp3",
+      "text": "يَبْتَغُونَ",
+      "translation": "mereka mencari",
+      "transliteration": "yabtaghūna"
+    },
+    {
+      "id": 22821,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_047.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 22822,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_048.mp3",
+      "text": "فَضْلِ",
+      "translation": "karunia",
+      "transliteration": "faḍli"
+    },
+    {
+      "id": 22823,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_049.mp3",
+      "text": "ٱللَّهِ ۙ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 22825,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_051.mp3",
+      "text": "وَءَاخَرُونَ",
+      "translation": "dan yang lain",
+      "transliteration": "waākharūna"
+    },
+    {
+      "id": 22826,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_052.mp3",
+      "text": "يُقَـٰتِلُونَ",
+      "translation": "mereka berperang",
+      "transliteration": "yuqātilūna"
+    },
+    {
+      "id": 22827,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_053.mp3",
+      "text": "فِى",
+      "translation": "di/pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 22828,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_054.mp3",
+      "text": "سَبِيلِ",
+      "translation": "jalan",
+      "transliteration": "sabīli"
+    },
+    {
+      "id": 22829,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_055.mp3",
+      "text": "ٱللَّهِ ۖ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 22831,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_057.mp3",
+      "text": "فَٱقْرَءُوا۟",
+      "translation": "maka bacalah",
+      "transliteration": "fa-iq'raū"
+    },
+    {
+      "id": 22832,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_058.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 22833,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_059.mp3",
+      "text": "تَيَسَّرَ",
+      "translation": "kamu mudah",
+      "transliteration": "tayassara"
+    },
+    {
+      "id": 22834,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_060.mp3",
+      "text": "مِنْهُ ۚ",
+      "translation": "daripadanya",
+      "transliteration": "min'hu"
+    },
+    {
+      "id": 22836,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_062.mp3",
+      "text": "وَأَقِيمُوا۟",
+      "translation": "dan dirikanlah",
+      "transliteration": "wa-aqīmū"
+    },
+    {
+      "id": 22837,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_063.mp3",
+      "text": "ٱلصَّلَوٰةَ",
+      "translation": "sholat",
+      "transliteration": "l-ṣalata"
+    },
+    {
+      "id": 22838,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_064.mp3",
+      "text": "وَءَاتُوا۟",
+      "translation": "dan tunaikan",
+      "transliteration": "waātū"
+    },
+    {
+      "id": 22839,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_065.mp3",
+      "text": "ٱلزَّكَوٰةَ",
+      "translation": "zakat",
+      "transliteration": "l-zakata"
+    },
+    {
+      "id": 22840,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_066.mp3",
+      "text": "وَأَقْرِضُوا۟",
+      "translation": "dan berikan pinjaman",
+      "transliteration": "wa-aqriḍū"
+    },
+    {
+      "id": 22841,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_067.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 22842,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_068.mp3",
+      "text": "قَرْضًا",
+      "translation": "pinjaman",
+      "transliteration": "qarḍan"
+    },
+    {
+      "id": 22843,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_069.mp3",
+      "text": "حَسَنًۭا ۚ",
+      "translation": "yang baik",
+      "transliteration": "ḥasanan"
+    },
+    {
+      "id": 22845,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_071.mp3",
+      "text": "وَمَا",
+      "translation": "dan apa",
+      "transliteration": "wamā"
+    },
+    {
+      "id": 22846,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_072.mp3",
+      "text": "تُقَدِّمُوا۟",
+      "translation": "kamu kerjakan",
+      "transliteration": "tuqaddimū"
+    },
+    {
+      "id": 22847,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_073.mp3",
+      "text": "لِأَنفُسِكُم",
+      "translation": "untuk dirimu",
+      "transliteration": "li-anfusikum"
+    },
+    {
+      "id": 22848,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_074.mp3",
+      "text": "مِّنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 22849,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_075.mp3",
+      "text": "خَيْرٍۢ",
+      "translation": "kebaikan",
+      "transliteration": "khayrin"
+    },
+    {
+      "id": 22850,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_076.mp3",
+      "text": "تَجِدُوهُ",
+      "translation": "kamu perolehnya",
+      "transliteration": "tajidūhu"
+    },
+    {
+      "id": 22851,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_077.mp3",
+      "text": "عِندَ",
+      "translation": "di sisi",
+      "transliteration": "ʿinda"
+    },
+    {
+      "id": 22852,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_078.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 22853,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_079.mp3",
+      "text": "هُوَ",
+      "translation": "Dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 22854,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_080.mp3",
+      "text": "خَيْرًۭا",
+      "translation": "baik",
+      "transliteration": "khayran"
+    },
+    {
+      "id": 22855,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_081.mp3",
+      "text": "وَأَعْظَمَ",
+      "translation": "dan lebih besar",
+      "transliteration": "wa-aʿẓama"
+    },
+    {
+      "id": 22856,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_082.mp3",
+      "text": "أَجْرًۭا ۚ",
+      "translation": "pahala",
+      "transliteration": "ajran"
+    },
+    {
+      "id": 22858,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_084.mp3",
+      "text": "وَٱسْتَغْفِرُوا۟",
+      "translation": "dan mohon ampunlah",
+      "transliteration": "wa-is'taghfirū"
+    },
+    {
+      "id": 22859,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_085.mp3",
+      "text": "ٱللَّهَ ۖ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 22861,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_087.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 22862,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_088.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 22863,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_089.mp3",
+      "text": "غَفُورٌۭ",
+      "translation": "Maha Pengampun",
+      "transliteration": "ghafūrun"
+    },
+    {
+      "id": 22864,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/073_020_090.mp3",
+      "text": "رَّحِيمٌۢ",
+      "translation": "Maha penyayang",
+      "transliteration": "raḥīmun"
+    },
+    {
+      "id": 22865,
+      "line_number": 7,
+      "audio_url": null,
+      "text": "٢٠",
+      "translation": "(20)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya Tuhan-mu mengetahui bahwasanya kamu berdiri (salat) kurang dari dua pertiga malam, atau seperdua malam, atau sepertiganya, dan (demikian pula) segolongan dari orang-orang yang bersama kamu.  Dan Allah menetapkan ukuran malam dan siang.  Allah mengetahui bahwa kamu sekali-kali tidak dapat menentukan batas-batas waktu-waktu itu, maka Dia memberi keringanan kepadamu, karena itu bacalah apa yang mudah (bagimu) dari Al-Qur`ān.  Dia mengetahui bahwa akan ada di antara kamu orang-orang yang sakit dan orang-orang yang berjalan di muka bumi mencari sebagian karunia Allah; dan orang-orang yang lain lagi berperang di jalan Allah, maka bacalah apa yang mudah (bagimu) dari Al-Qur`ān dan dirikanlah sembahyang, tunaikanlah zakat, dan berikanlah pinjaman kepada Allah pinjaman yang baik.  Dan kebaikan apa saja yang kamu perbuat untuk dirimu, niscaya kamu memperoleh (balasan)nya di sisi Allah sebagai balasan yang paling baik dan yang paling besar pahalanya.  Dan mohonlah ampunan kepada Allah; sesungguhnya Allah Maha Pengampun lagi Maha Penyayang.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Inna rabbaka ya‘lamu annaka taqūmu adnā min ṡuluṡayil-laili wa niṣfahū wa ṡuluṡahū wa ṭā'ifatum minal-lażīna ma‘ak(a), wallāhu yuqaddirul-laila wan-nahār(a), ‘alima allan tuḥṣūhu fa tāba ‘alaikum faqra'ū mā tayassara minal-qur'ān(i), ‘alima an sayakūnu minkum marḍā, wa ākharūna yaḍribūna fil-arḍi yabtagūna min faḍlillāh(i), wa ākharūna yuqātilūna fī sabīlillāh(i), faqra'ū mā tayassara minh(u), wa aqīmuṣ-ṣalāta wa ātuz-zakāta wa aqriḍullāha qarḍan ḥasanā(n), wa mā tuqaddimū li'anfusikum min khairin tajidūhu ‘indallāh(i), huwa khairaw wa a‘ẓama ajrā(n), wastagfirullāh(a), innallāha gafūrur raḥīm(un)."
+}

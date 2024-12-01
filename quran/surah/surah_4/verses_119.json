@@ -1,0 +1,196 @@
+{
+  "id": 612,
+  "chapter_id": 4,
+  "verse_key": "4:119",
+  "hizb_number": 10,
+  "rub_el_hizb_number": 39,
+  "ruku_number": 79,
+  "manzil_number": 1,
+  "page_number": 97,
+  "juz_number": 5,
+  "text_uthmani": "وَلَأُضِلَّنَّهُمْ وَلَأُمَنِّيَنَّهُمْ وَلَـَٔامُرَنَّهُمْ فَلَيُبَتِّكُنَّ ءَاذَانَ ٱلْأَنْعَـٰمِ وَلَـَٔامُرَنَّهُمْ فَلَيُغَيِّرُنَّ خَلْقَ ٱللَّهِ ۚ وَمَن يَتَّخِذِ ٱلشَّيْطَـٰنَ وَلِيًّا مِّن دُونِ ٱللَّهِ فَقَدْ خَسِرَ خُسْرَانًا مُّبِينًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/4.mp3",
+  "words": [
+    {
+      "id": 76180,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_119_001.mp3",
+      "text": "وَلَأُضِلَّنَّهُمْ",
+      "translation": "dan sungguh saya akan menyesatkan mereka",
+      "transliteration": "wala-uḍillannahum"
+    },
+    {
+      "id": 76181,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_119_002.mp3",
+      "text": "وَلَأُمَنِّيَنَّهُمْ",
+      "translation": "dan sungguh saya akan membangkitkan angan-angan kosong mereka",
+      "transliteration": "wala-umanniyannahum"
+    },
+    {
+      "id": 76182,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_119_003.mp3",
+      "text": "وَلَـَٔامُرَنَّهُمْ",
+      "translation": "dan sungguh saya akan menyuruh mereka",
+      "transliteration": "walaāmurannahum"
+    },
+    {
+      "id": 76183,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_119_004.mp3",
+      "text": "فَلَيُبَتِّكُنَّ",
+      "translation": "dan sungguh mereka akan memotong",
+      "transliteration": "falayubattikunna"
+    },
+    {
+      "id": 76184,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_119_005.mp3",
+      "text": "ءَاذَانَ",
+      "translation": "telinga",
+      "transliteration": "ādhāna"
+    },
+    {
+      "id": 76185,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_119_006.mp3",
+      "text": "ٱلْأَنْعَـٰمِ",
+      "translation": "binatang ternak",
+      "transliteration": "l-anʿāmi"
+    },
+    {
+      "id": 76186,
+      "line_number": 11,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_119_007.mp3",
+      "text": "وَلَـَٔامُرَنَّهُمْ",
+      "translation": "dan sungguh saya akan menyuruh mereka",
+      "transliteration": "walaāmurannahum"
+    },
+    {
+      "id": 76187,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_119_008.mp3",
+      "text": "فَلَيُغَيِّرُنَّ",
+      "translation": "dan sungguh mereka akan merubah",
+      "transliteration": "falayughayyirunna"
+    },
+    {
+      "id": 76188,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_119_009.mp3",
+      "text": "خَلْقَ",
+      "translation": "ciptaan",
+      "transliteration": "khalqa"
+    },
+    {
+      "id": 76189,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_119_010.mp3",
+      "text": "ٱللَّهِ ۚ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 76191,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_119_012.mp3",
+      "text": "وَمَن",
+      "translation": "dan barang siapa",
+      "transliteration": "waman"
+    },
+    {
+      "id": 76192,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_119_013.mp3",
+      "text": "يَتَّخِذِ",
+      "translation": "mengambil/menjadikan",
+      "transliteration": "yattakhidhi"
+    },
+    {
+      "id": 76193,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_119_014.mp3",
+      "text": "ٱلشَّيْطَـٰنَ",
+      "translation": "syaitan",
+      "transliteration": "l-shayṭāna"
+    },
+    {
+      "id": 76194,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_119_015.mp3",
+      "text": "وَلِيًّۭا",
+      "translation": "pelindung",
+      "transliteration": "waliyyan"
+    },
+    {
+      "id": 76195,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_119_016.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 76196,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_119_017.mp3",
+      "text": "دُونِ",
+      "translation": "selain",
+      "transliteration": "dūni"
+    },
+    {
+      "id": 76197,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_119_018.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 76198,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_119_019.mp3",
+      "text": "فَقَدْ",
+      "translation": "maka sesungguhnya",
+      "transliteration": "faqad"
+    },
+    {
+      "id": 76199,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_119_020.mp3",
+      "text": "خَسِرَ",
+      "translation": "ia menderita rugi",
+      "transliteration": "khasira"
+    },
+    {
+      "id": 76200,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_119_021.mp3",
+      "text": "خُسْرَانًۭا",
+      "translation": "kerugian",
+      "transliteration": "khus'rānan"
+    },
+    {
+      "id": 76201,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_119_022.mp3",
+      "text": "مُّبِينًۭا",
+      "translation": "nyata",
+      "transliteration": "mubīnan"
+    },
+    {
+      "id": 76202,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "١١٩",
+      "translation": "(119)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan aku benar-benar akan menyesatkan mereka, dan akan membangkitkan angan-angan kosong pada mereka dan menyuruh mereka (memotong telinga-telinga binatang ternak), lalu mereka benar-benar memotongnya<sup foot_note_id=\"351\">88</sup>, dan akan aku suruh mereka (mengubah ciptaan Allah), lalu benar-benar mereka mengubahnya<sup foot_note_id=\"352\">89</sup>\".  Barang siapa yang menjadikan setan menjadi pelindung selain Allah, maka sesungguhnya ia menderita kerugian yang nyata.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Wa la'uḍillannahum wa la'umanniyannahum wa la'āmurannahum fa layubattikunna āżānal-an‘āmi wa la'āmurannahum fa layugayyirunna khalqallāh(i), wa may yattakhiżisy-syaiṭāna waliyyam min dūnillāhi faqad khasira khusrānam mubīnā(n)."
+}

@@ -1,0 +1,76 @@
+{
+  "id": 4849,
+  "chapter_id": 54,
+  "verse_key": "54:3",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 465,
+  "manzil_number": 7,
+  "page_number": 528,
+  "juz_number": 27,
+  "text_uthmani": "وَكَذَّبُوا۟ وَٱتَّبَعُوٓا۟ أَهْوَآءَهُمْ ۚ وَكُلُّ أَمْرٍ مُّسْتَقِرٌّ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/54.mp3",
+  "words": [
+    {
+      "id": 2226,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_003_001.mp3",
+      "text": "وَكَذَّبُوا۟",
+      "translation": "Dan mereka mendustakan",
+      "transliteration": "wakadhabū"
+    },
+    {
+      "id": 2227,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_003_002.mp3",
+      "text": "وَٱتَّبَعُوٓا۟",
+      "translation": "dan mengikuti",
+      "transliteration": "wa-ittabaʿū"
+    },
+    {
+      "id": 2228,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_003_003.mp3",
+      "text": "أَهْوَآءَهُمْ ۚ",
+      "translation": "nafsu mereka",
+      "transliteration": "ahwāahum"
+    },
+    {
+      "id": 2230,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_003_005.mp3",
+      "text": "وَكُلُّ",
+      "translation": "sedang tiap-tiap",
+      "transliteration": "wakullu"
+    },
+    {
+      "id": 2231,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_003_006.mp3",
+      "text": "أَمْرٍۢ",
+      "translation": "urusan",
+      "transliteration": "amrin"
+    },
+    {
+      "id": 2232,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/054_003_007.mp3",
+      "text": "مُّسْتَقِرٌّۭ",
+      "translation": "ada ketetapannya",
+      "transliteration": "mus'taqirrun"
+    },
+    {
+      "id": 2233,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٣",
+      "translation": "(3)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan mereka mendustakan (Nabi) dan mengikuti hawa nafsu mereka, sedang tiap-tiap urusan telah ada ketetapannya<sup foot_note_id=\"1436\">2</sup>.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Wa każżabū wattaba‘ū ahwā'ahum wa kullu amrim mustaqirr(un)."
+}

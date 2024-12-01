@@ -1,0 +1,204 @@
+{
+  "id": 2139,
+  "chapter_id": 17,
+  "verse_key": "17:110",
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "ruku_number": 251,
+  "manzil_number": 4,
+  "page_number": 293,
+  "juz_number": 15,
+  "text_uthmani": "قُلِ ٱدْعُوا۟ ٱللَّهَ أَوِ ٱدْعُوا۟ ٱلرَّحْمَـٰنَ ۖ أَيًّا مَّا تَدْعُوا۟ فَلَهُ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ ۚ وَلَا تَجْهَرْ بِصَلَاتِكَ وَلَا تُخَافِتْ بِهَا وَٱبْتَغِ بَيْنَ ذَٰلِكَ سَبِيلًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/17.mp3",
+  "words": [
+    {
+      "id": 74325,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_110_001.mp3",
+      "text": "قُلِ",
+      "translation": "katakanlah",
+      "transliteration": "quli"
+    },
+    {
+      "id": 74326,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_110_002.mp3",
+      "text": "ٱدْعُوا۟",
+      "translation": "serulah",
+      "transliteration": "id'ʿū"
+    },
+    {
+      "id": 74327,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_110_003.mp3",
+      "text": "ٱللَّهَ",
+      "translation": "Allah",
+      "transliteration": "l-laha"
+    },
+    {
+      "id": 74328,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_110_004.mp3",
+      "text": "أَوِ",
+      "translation": "atau",
+      "transliteration": "awi"
+    },
+    {
+      "id": 74329,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_110_005.mp3",
+      "text": "ٱدْعُوا۟",
+      "translation": "serulah",
+      "transliteration": "id'ʿū"
+    },
+    {
+      "id": 74330,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_110_006.mp3",
+      "text": "ٱلرَّحْمَـٰنَ ۖ",
+      "translation": "ar-rahman",
+      "transliteration": "l-raḥmāna"
+    },
+    {
+      "id": 74332,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_110_008.mp3",
+      "text": "أَيًّۭا",
+      "translation": "mana saja",
+      "transliteration": "ayyan"
+    },
+    {
+      "id": 74333,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_110_009.mp3",
+      "text": "مَّا",
+      "translation": "apa (nama)",
+      "transliteration": "mā"
+    },
+    {
+      "id": 74334,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_110_010.mp3",
+      "text": "تَدْعُوا۟",
+      "translation": "kamu seru",
+      "transliteration": "tadʿū"
+    },
+    {
+      "id": 74335,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_110_011.mp3",
+      "text": "فَلَهُ",
+      "translation": "maka bagi-Nya",
+      "transliteration": "falahu"
+    },
+    {
+      "id": 74336,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_110_012.mp3",
+      "text": "ٱلْأَسْمَآءُ",
+      "translation": "nama-nama",
+      "transliteration": "l-asmāu"
+    },
+    {
+      "id": 74337,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_110_013.mp3",
+      "text": "ٱلْحُسْنَىٰ ۚ",
+      "translation": "yang baik",
+      "transliteration": "l-ḥus'nā"
+    },
+    {
+      "id": 74339,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_110_015.mp3",
+      "text": "وَلَا",
+      "translation": "dan jangan",
+      "transliteration": "walā"
+    },
+    {
+      "id": 74340,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_110_016.mp3",
+      "text": "تَجْهَرْ",
+      "translation": "kamu mengeraskan",
+      "transliteration": "tajhar"
+    },
+    {
+      "id": 74341,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_110_017.mp3",
+      "text": "بِصَلَاتِكَ",
+      "translation": "dengan sholatmu",
+      "transliteration": "biṣalātika"
+    },
+    {
+      "id": 74342,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_110_018.mp3",
+      "text": "وَلَا",
+      "translation": "dan jangan",
+      "transliteration": "walā"
+    },
+    {
+      "id": 74343,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_110_019.mp3",
+      "text": "تُخَافِتْ",
+      "translation": "kamu merendahkan",
+      "transliteration": "tukhāfit"
+    },
+    {
+      "id": 74344,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_110_020.mp3",
+      "text": "بِهَا",
+      "translation": "dengannya",
+      "transliteration": "bihā"
+    },
+    {
+      "id": 74345,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_110_021.mp3",
+      "text": "وَٱبْتَغِ",
+      "translation": "dan carilah olehmu",
+      "transliteration": "wa-ib'taghi"
+    },
+    {
+      "id": 74346,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_110_022.mp3",
+      "text": "بَيْنَ",
+      "translation": "antara",
+      "transliteration": "bayna"
+    },
+    {
+      "id": 74347,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_110_023.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 74348,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/017_110_024.mp3",
+      "text": "سَبِيلًۭا",
+      "translation": "jalan",
+      "transliteration": "sabīlan"
+    },
+    {
+      "id": 74349,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١١٠",
+      "translation": "(110)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Katakanlah, \"Serulah Allah atau serulah Ar-Raḥman.  Dengan nama yang mana saja kamu seru, Dia mempunyai Al -‘Asmā ‘ul ῌusnā  (nama-nama yang terbaik) dan janganlah kamu mengeraskan suaramu dalam salatmu, dan janganlah pula merendahkannya <sup foot_note_id=\"869\">24</sup>, dan carilah jalan tengah di antara kedua itu\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Qulid‘ullāha awid‘ur-raḥmān(a), ayyam mā tad‘ū fa lahul-asmā'ul-ḥusnā, wa lā tajhar biṣalātika wa lā tukhāfit bihā wabtagi baina żālika sabīlā(n)."
+}

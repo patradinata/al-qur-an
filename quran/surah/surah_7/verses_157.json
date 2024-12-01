@@ -1,0 +1,372 @@
+{
+  "id": 1111,
+  "chapter_id": 7,
+  "verse_key": "7:157",
+  "hizb_number": 17,
+  "rub_el_hizb_number": 68,
+  "ruku_number": 140,
+  "manzil_number": 2,
+  "page_number": 170,
+  "juz_number": 9,
+  "text_uthmani": "ٱلَّذِينَ يَتَّبِعُونَ ٱلرَّسُولَ ٱلنَّبِىَّ ٱلْأُمِّىَّ ٱلَّذِى يَجِدُونَهُۥ مَكْتُوبًا عِندَهُمْ فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ يَأْمُرُهُم بِٱلْمَعْرُوفِ وَيَنْهَىٰهُمْ عَنِ ٱلْمُنكَرِ وَيُحِلُّ لَهُمُ ٱلطَّيِّبَـٰتِ وَيُحَرِّمُ عَلَيْهِمُ ٱلْخَبَـٰٓئِثَ وَيَضَعُ عَنْهُمْ إِصْرَهُمْ وَٱلْأَغْلَـٰلَ ٱلَّتِى كَانَتْ عَلَيْهِمْ ۚ فَٱلَّذِينَ ءَامَنُوا۟ بِهِۦ وَعَزَّرُوهُ وَنَصَرُوهُ وَٱتَّبَعُوا۟ ٱلنُّورَ ٱلَّذِىٓ أُنزِلَ مَعَهُۥٓ ۙ أُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/7.mp3",
+  "words": [
+    {
+      "id": 81392,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_001.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 81393,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_002.mp3",
+      "text": "يَتَّبِعُونَ",
+      "translation": "(mereka) mengikuti",
+      "transliteration": "yattabiʿūna"
+    },
+    {
+      "id": 81394,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_003.mp3",
+      "text": "ٱلرَّسُولَ",
+      "translation": "Rasul",
+      "transliteration": "l-rasūla"
+    },
+    {
+      "id": 81395,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_004.mp3",
+      "text": "ٱلنَّبِىَّ",
+      "translation": "Nabi",
+      "transliteration": "l-nabiya"
+    },
+    {
+      "id": 81396,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_005.mp3",
+      "text": "ٱلْأُمِّىَّ",
+      "translation": "ummi",
+      "transliteration": "l-umiya"
+    },
+    {
+      "id": 81397,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_006.mp3",
+      "text": "ٱلَّذِى",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 81398,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_007.mp3",
+      "text": "يَجِدُونَهُۥ",
+      "translation": "mereka mendapatkannya",
+      "transliteration": "yajidūnahu"
+    },
+    {
+      "id": 81399,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_008.mp3",
+      "text": "مَكْتُوبًا",
+      "translation": "tertulis",
+      "transliteration": "maktūban"
+    },
+    {
+      "id": 81400,
+      "line_number": 5,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_009.mp3",
+      "text": "عِندَهُمْ",
+      "translation": "disisi mereka",
+      "transliteration": "ʿindahum"
+    },
+    {
+      "id": 81401,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_010.mp3",
+      "text": "فِى",
+      "translation": "di dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 81402,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_011.mp3",
+      "text": "ٱلتَّوْرَىٰةِ",
+      "translation": "Taurat",
+      "transliteration": "l-tawrāti"
+    },
+    {
+      "id": 81403,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_012.mp3",
+      "text": "وَٱلْإِنجِيلِ",
+      "translation": "dan Injil",
+      "transliteration": "wal-injīli"
+    },
+    {
+      "id": 81404,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_013.mp3",
+      "text": "يَأْمُرُهُم",
+      "translation": "(Nabi) menyuruh mereka",
+      "transliteration": "yamuruhum"
+    },
+    {
+      "id": 81405,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_014.mp3",
+      "text": "بِٱلْمَعْرُوفِ",
+      "translation": "dengan yang ma'ruf",
+      "transliteration": "bil-maʿrūfi"
+    },
+    {
+      "id": 81406,
+      "line_number": 6,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_015.mp3",
+      "text": "وَيَنْهَىٰهُمْ",
+      "translation": "dan melarang mereka",
+      "transliteration": "wayanhāhum"
+    },
+    {
+      "id": 81407,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_016.mp3",
+      "text": "عَنِ",
+      "translation": "dari",
+      "transliteration": "ʿani"
+    },
+    {
+      "id": 81408,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_017.mp3",
+      "text": "ٱلْمُنكَرِ",
+      "translation": "yang mungkar",
+      "transliteration": "l-munkari"
+    },
+    {
+      "id": 81409,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_018.mp3",
+      "text": "وَيُحِلُّ",
+      "translation": "dan menghalalkan",
+      "transliteration": "wayuḥillu"
+    },
+    {
+      "id": 81410,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_019.mp3",
+      "text": "لَهُمُ",
+      "translation": "bagi mereka",
+      "transliteration": "lahumu"
+    },
+    {
+      "id": 81411,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_020.mp3",
+      "text": "ٱلطَّيِّبَـٰتِ",
+      "translation": "yang baik-baik",
+      "transliteration": "l-ṭayibāti"
+    },
+    {
+      "id": 81412,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_021.mp3",
+      "text": "وَيُحَرِّمُ",
+      "translation": "dan mengharamkan",
+      "transliteration": "wayuḥarrimu"
+    },
+    {
+      "id": 81413,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_022.mp3",
+      "text": "عَلَيْهِمُ",
+      "translation": "atas mereka",
+      "transliteration": "ʿalayhimu"
+    },
+    {
+      "id": 81414,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_023.mp3",
+      "text": "ٱلْخَبَـٰٓئِثَ",
+      "translation": "yang buruk-buruk",
+      "transliteration": "l-khabāitha"
+    },
+    {
+      "id": 81415,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_024.mp3",
+      "text": "وَيَضَعُ",
+      "translation": "dan meletakkan/membuang",
+      "transliteration": "wayaḍaʿu"
+    },
+    {
+      "id": 81416,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_025.mp3",
+      "text": "عَنْهُمْ",
+      "translation": "dari mereka",
+      "transliteration": "ʿanhum"
+    },
+    {
+      "id": 81417,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_026.mp3",
+      "text": "إِصْرَهُمْ",
+      "translation": "beban-beban mereka",
+      "transliteration": "iṣ'rahum"
+    },
+    {
+      "id": 81418,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_027.mp3",
+      "text": "وَٱلْأَغْلَـٰلَ",
+      "translation": "dan belenggu-belenggu",
+      "transliteration": "wal-aghlāla"
+    },
+    {
+      "id": 81419,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_028.mp3",
+      "text": "ٱلَّتِى",
+      "translation": "yang",
+      "transliteration": "allatī"
+    },
+    {
+      "id": 81420,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_029.mp3",
+      "text": "كَانَتْ",
+      "translation": "adalah",
+      "transliteration": "kānat"
+    },
+    {
+      "id": 81421,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_030.mp3",
+      "text": "عَلَيْهِمْ ۚ",
+      "translation": "atas mereka",
+      "transliteration": "ʿalayhim"
+    },
+    {
+      "id": 81423,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_032.mp3",
+      "text": "فَٱلَّذِينَ",
+      "translation": "maka orang-orang yang",
+      "transliteration": "fa-alladhīna"
+    },
+    {
+      "id": 81424,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_033.mp3",
+      "text": "ءَامَنُوا۟",
+      "translation": "beriman",
+      "transliteration": "āmanū"
+    },
+    {
+      "id": 81425,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_034.mp3",
+      "text": "بِهِۦ",
+      "translation": "dengannya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 81426,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_035.mp3",
+      "text": "وَعَزَّرُوهُ",
+      "translation": "dan mereka memuliakannya",
+      "transliteration": "waʿazzarūhu"
+    },
+    {
+      "id": 81427,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_036.mp3",
+      "text": "وَنَصَرُوهُ",
+      "translation": "dan mereka menolongnya",
+      "transliteration": "wanaṣarūhu"
+    },
+    {
+      "id": 81428,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_037.mp3",
+      "text": "وَٱتَّبَعُوا۟",
+      "translation": "dan mereka mengikuti",
+      "transliteration": "wa-ittabaʿū"
+    },
+    {
+      "id": 81429,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_038.mp3",
+      "text": "ٱلنُّورَ",
+      "translation": "cahaya terang",
+      "transliteration": "l-nūra"
+    },
+    {
+      "id": 81430,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_039.mp3",
+      "text": "ٱلَّذِىٓ",
+      "translation": "yang",
+      "transliteration": "alladhī"
+    },
+    {
+      "id": 81431,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_040.mp3",
+      "text": "أُنزِلَ",
+      "translation": "diturunkan",
+      "transliteration": "unzila"
+    },
+    {
+      "id": 81432,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_041.mp3",
+      "text": "مَعَهُۥٓ ۙ",
+      "translation": "kepadanya",
+      "transliteration": "maʿahu"
+    },
+    {
+      "id": 81434,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_043.mp3",
+      "text": "أُو۟لَـٰٓئِكَ",
+      "translation": "mereka itulah",
+      "transliteration": "ulāika"
+    },
+    {
+      "id": 81435,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_044.mp3",
+      "text": "هُمُ",
+      "translation": "mereka",
+      "transliteration": "humu"
+    },
+    {
+      "id": 81436,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/007_157_045.mp3",
+      "text": "ٱلْمُفْلِحُونَ",
+      "translation": "orang-orang yang beruntung",
+      "transliteration": "l-muf'liḥūna"
+    },
+    {
+      "id": 81437,
+      "line_number": 10,
+      "audio_url": null,
+      "text": "١٥٧",
+      "translation": "(157)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "(Yaitu) orang-orang yang mengikut rasul, nabi yang umi yang (namanya) mereka dapati tertulis di dalam Taurat dan Injil yang ada di sisi mereka, yang menyuruh mereka mengerjakan yang makruf dan melarang mereka dari mengerjakan yang mungkar, dan menghalalkan bagi mereka segala yang baik dan mengharamkan bagi mereka segala yang buruk, dan membuang dari mereka beban-beban dan belenggu-belenggu yang ada pada mereka<sup foot_note_id=\"575\">48</sup>.  Maka orang-orang yang beriman kepadanya, memuliakannya, menolongnya, dan mengikuti cahaya yang terang yang diturunkan kepadanya (Al-Qur`ān); mereka itulah orang-orang yang beruntung.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Al-lażīna yattabi‘ūnar-rasūlan nabiyyal-ummiyyal-lażī yajidūnahū maktūban ‘indahum fit-taurāti wal-injīli ya'muruhum bil-ma‘rūfi wa yanhāhum ‘anil-munkari wa yuḥillu lahumuṭ-ṭayyibāti wa yuḥarrimu ‘alaihimul-khabā'iṡa wa yaḍa‘u ‘anhum iṣrahum wal-aglālal-latī kānat ‘alaihim, fal-lażīna āmanū bihī wa ‘azzarūhu wa naṣarūhu wattaba‘un nūral-lażī unzila ma‘ah(ū), ulā'ika humul-mufliḥūn(a)."
+}

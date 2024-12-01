@@ -1,0 +1,60 @@
+{
+  "id": 3920,
+  "chapter_id": 37,
+  "verse_key": "37:132",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 391,
+  "manzil_number": 6,
+  "page_number": 451,
+  "juz_number": 23,
+  "text_uthmani": "إِنَّهُۥ مِنْ عِبَادِنَا ٱلْمُؤْمِنِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/37.mp3",
+  "words": [
+    {
+      "id": 78164,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_132_001.mp3",
+      "text": "إِنَّهُۥ",
+      "translation": "sesungguhnya dia",
+      "transliteration": "innahu"
+    },
+    {
+      "id": 78165,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_132_002.mp3",
+      "text": "مِنْ",
+      "translation": "dari/termasuk",
+      "transliteration": "min"
+    },
+    {
+      "id": 78166,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_132_003.mp3",
+      "text": "عِبَادِنَا",
+      "translation": "hamba-hamba Kami",
+      "transliteration": "ʿibādinā"
+    },
+    {
+      "id": 78167,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/037_132_004.mp3",
+      "text": "ٱلْمُؤْمِنِينَ",
+      "translation": "orang-orang yang beriman",
+      "transliteration": "l-mu'minīna"
+    },
+    {
+      "id": 78168,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "١٣٢",
+      "translation": "(132)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya dia termasuk hamba-hamba Kami yang beriman.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Innahū min ‘ibādinal-mu'minīn(a)."
+}

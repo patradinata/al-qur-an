@@ -1,0 +1,140 @@
+{
+  "id": 641,
+  "chapter_id": 4,
+  "verse_key": "4:148",
+  "hizb_number": 11,
+  "rub_el_hizb_number": 41,
+  "ruku_number": 82,
+  "manzil_number": 1,
+  "page_number": 102,
+  "juz_number": 6,
+  "text_uthmani": "۞ لَّا يُحِبُّ ٱللَّهُ ٱلْجَهْرَ بِٱلسُّوٓءِ مِنَ ٱلْقَوْلِ إِلَّا مَن ظُلِمَ ۚ وَكَانَ ٱللَّهُ سَمِيعًا عَلِيمًا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/4.mp3",
+  "words": [
+    {
+      "id": 80185,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_148_002.mp3",
+      "text": "۞ لَّا",
+      "translation": "tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 80186,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_148_003.mp3",
+      "text": "يُحِبُّ",
+      "translation": "menyukai",
+      "transliteration": "yuḥibbu"
+    },
+    {
+      "id": 80187,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_148_004.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 80188,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_148_005.mp3",
+      "text": "ٱلْجَهْرَ",
+      "translation": "terus terang",
+      "transliteration": "l-jahra"
+    },
+    {
+      "id": 80189,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_148_006.mp3",
+      "text": "بِٱلسُّوٓءِ",
+      "translation": "dengan/pada yang buruk",
+      "transliteration": "bil-sūi"
+    },
+    {
+      "id": 80190,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_148_007.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 80191,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_148_008.mp3",
+      "text": "ٱلْقَوْلِ",
+      "translation": "ucapan",
+      "transliteration": "l-qawli"
+    },
+    {
+      "id": 80192,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_148_009.mp3",
+      "text": "إِلَّا",
+      "translation": "kecuali",
+      "transliteration": "illā"
+    },
+    {
+      "id": 80193,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_148_010.mp3",
+      "text": "مَن",
+      "translation": "orang",
+      "transliteration": "man"
+    },
+    {
+      "id": 80194,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_148_011.mp3",
+      "text": "ظُلِمَ ۚ",
+      "translation": "teraniaya",
+      "transliteration": "ẓulima"
+    },
+    {
+      "id": 80196,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_148_013.mp3",
+      "text": "وَكَانَ",
+      "translation": "dan adalah",
+      "transliteration": "wakāna"
+    },
+    {
+      "id": 80197,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_148_014.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 80198,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_148_015.mp3",
+      "text": "سَمِيعًا",
+      "translation": "Maha Mendengar",
+      "transliteration": "samīʿan"
+    },
+    {
+      "id": 80199,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/004_148_016.mp3",
+      "text": "عَلِيمًا",
+      "translation": "Maha Mengetahui",
+      "transliteration": "ʿalīman"
+    },
+    {
+      "id": 80200,
+      "line_number": 2,
+      "audio_url": null,
+      "text": "١٤٨",
+      "translation": "(148)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Allah tidak menyukai ucapan buruk<sup foot_note_id=\"371\">108</sup> (yang diucapkan) dengan terus terang kecuali oleh orang yang dianiaya<sup foot_note_id=\"372\">109</sup>.  Allah adalah Maha Mendengar lagi Maha Mengetahui.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Lā yuḥibbullāhul-jahra bis-sū'i minal-qauli illā man ẓulim(a), wa kānallāhu samī‘an ‘alīmā(n)."
+}

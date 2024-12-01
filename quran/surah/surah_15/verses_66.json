@@ -1,0 +1,100 @@
+{
+  "id": 1868,
+  "chapter_id": 15,
+  "verse_key": "15:66",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 222,
+  "manzil_number": 3,
+  "page_number": 265,
+  "juz_number": 14,
+  "text_uthmani": "وَقَضَيْنَآ إِلَيْهِ ذَٰلِكَ ٱلْأَمْرَ أَنَّ دَابِرَ هَـٰٓؤُلَآءِ مَقْطُوعٌ مُّصْبِحِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/15.mp3",
+  "words": [
+    {
+      "id": 57884,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_066_001.mp3",
+      "text": "وَقَضَيْنَآ",
+      "translation": "dan telah Kami selesaikan",
+      "transliteration": "waqaḍaynā"
+    },
+    {
+      "id": 57885,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_066_002.mp3",
+      "text": "إِلَيْهِ",
+      "translation": "kepadanya",
+      "transliteration": "ilayhi"
+    },
+    {
+      "id": 57886,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_066_003.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 57887,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_066_004.mp3",
+      "text": "ٱلْأَمْرَ",
+      "translation": "perkara/urusan",
+      "transliteration": "l-amra"
+    },
+    {
+      "id": 57888,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_066_005.mp3",
+      "text": "أَنَّ",
+      "translation": "bahwasanya",
+      "transliteration": "anna"
+    },
+    {
+      "id": 57889,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_066_006.mp3",
+      "text": "دَابِرَ",
+      "translation": "akar-akar",
+      "transliteration": "dābira"
+    },
+    {
+      "id": 57890,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_066_007.mp3",
+      "text": "هَـٰٓؤُلَآءِ",
+      "translation": "mereka itu",
+      "transliteration": "hāulāi"
+    },
+    {
+      "id": 57891,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_066_008.mp3",
+      "text": "مَقْطُوعٌۭ",
+      "translation": "dipotong/ditumpas",
+      "transliteration": "maqṭūʿun"
+    },
+    {
+      "id": 57892,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/015_066_009.mp3",
+      "text": "مُّصْبِحِينَ",
+      "translation": "diwaktu subuh",
+      "transliteration": "muṣ'biḥīna"
+    },
+    {
+      "id": 57893,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٦٦",
+      "translation": "(66)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan telah Kami wahyukan kepadanya (Lūṭ) perkara itu, yaitu bahwa mereka akan ditumpas habis pada waktu subuh.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Wa qaḍainā ilaihi żālikal-amra anna dābira hā'ulā'i maqṭū‘um muṣbiḥīn(a)."
+}

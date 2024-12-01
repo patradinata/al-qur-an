@@ -1,0 +1,116 @@
+{
+  "id": 2281,
+  "chapter_id": 19,
+  "verse_key": "19:31",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "ruku_number": 265,
+  "manzil_number": 4,
+  "page_number": 307,
+  "juz_number": 16,
+  "text_uthmani": "وَجَعَلَنِى مُبَارَكًا أَيْنَ مَا كُنتُ وَأَوْصَـٰنِى بِٱلصَّلَوٰةِ وَٱلزَّكَوٰةِ مَا دُمْتُ حَيًّا",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/19.mp3",
+  "words": [
+    {
+      "id": 33467,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_031_001.mp3",
+      "text": "وَجَعَلَنِى",
+      "translation": "dan Dia menjadikan aku",
+      "transliteration": "wajaʿalanī"
+    },
+    {
+      "id": 33468,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_031_002.mp3",
+      "text": "مُبَارَكًا",
+      "translation": "seorang yang diberkati",
+      "transliteration": "mubārakan"
+    },
+    {
+      "id": 33469,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_031_003.mp3",
+      "text": "أَيْنَ",
+      "translation": "dimana",
+      "transliteration": "ayna"
+    },
+    {
+      "id": 33470,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_031_004.mp3",
+      "text": "مَا",
+      "translation": "apa/saja",
+      "transliteration": "mā"
+    },
+    {
+      "id": 33471,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_031_005.mp3",
+      "text": "كُنتُ",
+      "translation": "adalah aku/berada",
+      "transliteration": "kuntu"
+    },
+    {
+      "id": 33472,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_031_006.mp3",
+      "text": "وَأَوْصَـٰنِى",
+      "translation": "dan Dia memerintahkan aku",
+      "transliteration": "wa-awṣānī"
+    },
+    {
+      "id": 33473,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_031_007.mp3",
+      "text": "بِٱلصَّلَوٰةِ",
+      "translation": "dengan sholat",
+      "transliteration": "bil-ṣalati"
+    },
+    {
+      "id": 33474,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_031_008.mp3",
+      "text": "وَٱلزَّكَوٰةِ",
+      "translation": "dan zakat",
+      "transliteration": "wal-zakati"
+    },
+    {
+      "id": 33475,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_031_009.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 33476,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_031_010.mp3",
+      "text": "دُمْتُ",
+      "translation": "selama aku",
+      "transliteration": "dum'tu"
+    },
+    {
+      "id": 33477,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/019_031_011.mp3",
+      "text": "حَيًّۭا",
+      "translation": "hidup",
+      "transliteration": "ḥayyan"
+    },
+    {
+      "id": 33478,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "٣١",
+      "translation": "(31)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "dan Dia menjadikan aku seorang yang diberkati di mana saja aku berada, dan Dia memerintahkan kepadaku (mendirikan) salat dan (menunaikan) zakat selama aku hidup;",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Wa ja‘alanī mubārakan aina mā kunt(u), wa auṣānī biṣ-ṣalāti waz-zakāti mā dumtu ḥayyā(n)."
+}

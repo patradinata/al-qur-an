@@ -1,0 +1,140 @@
+{
+  "id": 3286,
+  "chapter_id": 28,
+  "verse_key": "28:34",
+  "hizb_number": 39,
+  "rub_el_hizb_number": 156,
+  "ruku_number": 337,
+  "manzil_number": 5,
+  "page_number": 389,
+  "juz_number": 20,
+  "text_uthmani": "وَأَخِى هَـٰرُونُ هُوَ أَفْصَحُ مِنِّى لِسَانًا فَأَرْسِلْهُ مَعِىَ رِدْءًا يُصَدِّقُنِىٓ ۖ إِنِّىٓ أَخَافُ أَن يُكَذِّبُونِ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/28.mp3",
+  "words": [
+    {
+      "id": 36589,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_034_001.mp3",
+      "text": "وَأَخِى",
+      "translation": "dan saudaraku",
+      "transliteration": "wa-akhī"
+    },
+    {
+      "id": 36590,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_034_002.mp3",
+      "text": "هَـٰرُونُ",
+      "translation": "Harun",
+      "transliteration": "hārūnu"
+    },
+    {
+      "id": 36591,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_034_003.mp3",
+      "text": "هُوَ",
+      "translation": "dia",
+      "transliteration": "huwa"
+    },
+    {
+      "id": 36592,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_034_004.mp3",
+      "text": "أَفْصَحُ",
+      "translation": "lebih fasih",
+      "transliteration": "afṣaḥu"
+    },
+    {
+      "id": 36593,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_034_005.mp3",
+      "text": "مِنِّى",
+      "translation": "daripada aku",
+      "transliteration": "minnī"
+    },
+    {
+      "id": 36594,
+      "line_number": 12,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_034_006.mp3",
+      "text": "لِسَانًۭا",
+      "translation": "lisan",
+      "transliteration": "lisānan"
+    },
+    {
+      "id": 36595,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_034_007.mp3",
+      "text": "فَأَرْسِلْهُ",
+      "translation": "maka utuslah dia",
+      "transliteration": "fa-arsil'hu"
+    },
+    {
+      "id": 36596,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_034_008.mp3",
+      "text": "مَعِىَ",
+      "translation": "bersamaku",
+      "transliteration": "maʿiya"
+    },
+    {
+      "id": 36597,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_034_009.mp3",
+      "text": "رِدْءًۭا",
+      "translation": "pembantu",
+      "transliteration": "rid'an"
+    },
+    {
+      "id": 36598,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_034_010.mp3",
+      "text": "يُصَدِّقُنِىٓ ۖ",
+      "translation": "dia membenarkan aku",
+      "transliteration": "yuṣaddiqunī"
+    },
+    {
+      "id": 36600,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_034_012.mp3",
+      "text": "إِنِّىٓ",
+      "translation": "sesungguhnya aku",
+      "transliteration": "innī"
+    },
+    {
+      "id": 36601,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_034_013.mp3",
+      "text": "أَخَافُ",
+      "translation": "aku takut",
+      "transliteration": "akhāfu"
+    },
+    {
+      "id": 36602,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_034_014.mp3",
+      "text": "أَن",
+      "translation": "bahwa",
+      "transliteration": "an"
+    },
+    {
+      "id": 36603,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/028_034_015.mp3",
+      "text": "يُكَذِّبُونِ",
+      "translation": "mereka mendustakan aku",
+      "transliteration": "yukadhibūni"
+    },
+    {
+      "id": 36604,
+      "line_number": 13,
+      "audio_url": null,
+      "text": "٣٤",
+      "translation": "(34)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan saudaraku Hārūn dia lebih fasih lidahnya daripadaku <sup foot_note_id=\"1123\">14</sup>, maka utuslah dia bersamaku sebagai pembantuku untuk membenarkan (perkataan)ku; sesungguhnya aku khawatir mereka akan mendustakanku\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Wa akhī hārūnu huwa afṣaḥu minnī lisānan fa'arsilhu ma‘iya rid'ay yuṣaddiqunī, innī akhāfu ay yukażżibūn(i)."
+}

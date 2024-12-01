@@ -1,0 +1,140 @@
+{
+  "id": 1323,
+  "chapter_id": 9,
+  "verse_key": "9:88",
+  "hizb_number": 20,
+  "rub_el_hizb_number": 80,
+  "ruku_number": 166,
+  "manzil_number": 2,
+  "page_number": 201,
+  "juz_number": 10,
+  "text_uthmani": "لَـٰكِنِ ٱلرَّسُولُ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ جَـٰهَدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ ۚ وَأُو۟لَـٰٓئِكَ لَهُمُ ٱلْخَيْرَٰتُ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/9.mp3",
+  "words": [
+    {
+      "id": 67093,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_088_001.mp3",
+      "text": "لَـٰكِنِ",
+      "translation": "tetapi",
+      "transliteration": "lākini"
+    },
+    {
+      "id": 67094,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_088_002.mp3",
+      "text": "ٱلرَّسُولُ",
+      "translation": "Rasul",
+      "transliteration": "l-rasūlu"
+    },
+    {
+      "id": 67095,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_088_003.mp3",
+      "text": "وَٱلَّذِينَ",
+      "translation": "dan orang-orang yang",
+      "transliteration": "wa-alladhīna"
+    },
+    {
+      "id": 67096,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_088_004.mp3",
+      "text": "ءَامَنُوا۟",
+      "translation": "beriman",
+      "transliteration": "āmanū"
+    },
+    {
+      "id": 67097,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_088_005.mp3",
+      "text": "مَعَهُۥ",
+      "translation": "bersama dia",
+      "transliteration": "maʿahu"
+    },
+    {
+      "id": 67098,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_088_006.mp3",
+      "text": "جَـٰهَدُوا۟",
+      "translation": "mereka berjihad",
+      "transliteration": "jāhadū"
+    },
+    {
+      "id": 67099,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_088_007.mp3",
+      "text": "بِأَمْوَٰلِهِمْ",
+      "translation": "dengan harta mereka",
+      "transliteration": "bi-amwālihim"
+    },
+    {
+      "id": 67100,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_088_008.mp3",
+      "text": "وَأَنفُسِهِمْ ۚ",
+      "translation": "dan diri/jiwa mereka",
+      "transliteration": "wa-anfusihim"
+    },
+    {
+      "id": 67102,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_088_010.mp3",
+      "text": "وَأُو۟لَـٰٓئِكَ",
+      "translation": "dan mereka itu",
+      "transliteration": "wa-ulāika"
+    },
+    {
+      "id": 67103,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_088_011.mp3",
+      "text": "لَهُمُ",
+      "translation": "bagi mereka",
+      "transliteration": "lahumu"
+    },
+    {
+      "id": 67104,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_088_012.mp3",
+      "text": "ٱلْخَيْرَٰتُ ۖ",
+      "translation": "kebaikan",
+      "transliteration": "l-khayrātu"
+    },
+    {
+      "id": 67106,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_088_014.mp3",
+      "text": "وَأُو۟لَـٰٓئِكَ",
+      "translation": "dan mereka itu",
+      "transliteration": "wa-ulāika"
+    },
+    {
+      "id": 67107,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_088_015.mp3",
+      "text": "هُمُ",
+      "translation": "mereka",
+      "transliteration": "humu"
+    },
+    {
+      "id": 67108,
+      "line_number": 4,
+      "audio_url": "https://audio.qurancdn.com/wbw/009_088_016.mp3",
+      "text": "ٱلْمُفْلِحُونَ",
+      "translation": "orang-orang yang beruntung",
+      "transliteration": "l-muf'liḥūna"
+    },
+    {
+      "id": 67109,
+      "line_number": 4,
+      "audio_url": null,
+      "text": "٨٨",
+      "translation": "(88)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Tetapi rasul dan orang-orang yang beriman bersama dia, mereka berjihad dengan harta dan diri mereka.  Dan mereka itulah orang-orang yang memperoleh kebaikan; dan mereka itulah (pula) orang-orang yang beruntung.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Lākinir-rasūlu wal-lażīna āmanū ma‘ahū jāhadū bi'amwālihim wa anfusihim, wa ulā'ika lahumul-khairāt(u), wa ulā'ika humul-mufliḥūn(a)."
+}

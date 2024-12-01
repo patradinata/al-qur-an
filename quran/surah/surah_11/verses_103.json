@@ -1,0 +1,156 @@
+{
+  "id": 1576,
+  "chapter_id": 11,
+  "verse_key": "11:103",
+  "hizb_number": 24,
+  "rub_el_hizb_number": 93,
+  "ruku_number": 191,
+  "manzil_number": 3,
+  "page_number": 233,
+  "juz_number": 12,
+  "text_uthmani": "إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّمَنْ خَافَ عَذَابَ ٱلْـَٔاخِرَةِ ۚ ذَٰلِكَ يَوْمٌ مَّجْمُوعٌ لَّهُ ٱلنَّاسُ وَذَٰلِكَ يَوْمٌ مَّشْهُودٌ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/11.mp3",
+  "words": [
+    {
+      "id": 72304,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_103_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 72305,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_103_002.mp3",
+      "text": "فِى",
+      "translation": "didalam/pada",
+      "transliteration": "fī"
+    },
+    {
+      "id": 72306,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_103_003.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 72307,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_103_004.mp3",
+      "text": "لَـَٔايَةًۭ",
+      "translation": "sungguh terdapat tanda",
+      "transliteration": "laāyatan"
+    },
+    {
+      "id": 72308,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_103_005.mp3",
+      "text": "لِّمَنْ",
+      "translation": "bagi orang",
+      "transliteration": "liman"
+    },
+    {
+      "id": 72309,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_103_006.mp3",
+      "text": "خَافَ",
+      "translation": "takut",
+      "transliteration": "khāfa"
+    },
+    {
+      "id": 72310,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_103_007.mp3",
+      "text": "عَذَابَ",
+      "translation": "azab",
+      "transliteration": "ʿadhāba"
+    },
+    {
+      "id": 72311,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_103_008.mp3",
+      "text": "ٱلْـَٔاخِرَةِ ۚ",
+      "translation": "akhirat",
+      "transliteration": "l-ākhirati"
+    },
+    {
+      "id": 72313,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_103_010.mp3",
+      "text": "ذَٰلِكَ",
+      "translation": "demikian/itu",
+      "transliteration": "dhālika"
+    },
+    {
+      "id": 72314,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_103_011.mp3",
+      "text": "يَوْمٌۭ",
+      "translation": "hari",
+      "transliteration": "yawmun"
+    },
+    {
+      "id": 72315,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_103_012.mp3",
+      "text": "مَّجْمُوعٌۭ",
+      "translation": "dikumpulkan",
+      "transliteration": "majmūʿun"
+    },
+    {
+      "id": 72316,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_103_013.mp3",
+      "text": "لَّهُ",
+      "translation": "baginya",
+      "transliteration": "lahu"
+    },
+    {
+      "id": 72317,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_103_014.mp3",
+      "text": "ٱلنَّاسُ",
+      "translation": "manusia",
+      "transliteration": "l-nāsu"
+    },
+    {
+      "id": 72318,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_103_015.mp3",
+      "text": "وَذَٰلِكَ",
+      "translation": "dan demikian/itu",
+      "transliteration": "wadhālika"
+    },
+    {
+      "id": 72319,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_103_016.mp3",
+      "text": "يَوْمٌۭ",
+      "translation": "hari",
+      "transliteration": "yawmun"
+    },
+    {
+      "id": 72320,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/011_103_017.mp3",
+      "text": "مَّشْهُودٌۭ",
+      "translation": "disaksikan",
+      "transliteration": "mashhūdun"
+    },
+    {
+      "id": 72321,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "١٠٣",
+      "translation": "(103)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya pada yang demikian itu benar-benar terdapat pelajaran bagi orang-orang yang takut kepada azab akhirat.  Hari kiamat itu adalah suatu hari yang semua manusia dikumpulkan untuk (menghadapi)nya dan hari itu adalah suatu hari yang disaksikan (oleh segala makhluk).",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Inna fī żālika la'āyatal liman khāfa ‘ażābal-ākhirah(ti), żālika yaumum majmū‘(un), lahun-nāsu wa żālika yaumum masyhūd(un)."
+}

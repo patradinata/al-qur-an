@@ -1,0 +1,188 @@
+{
+  "id": 166,
+  "chapter_id": 2,
+  "verse_key": "2:159",
+  "hizb_number": 3,
+  "rub_el_hizb_number": 10,
+  "ruku_number": 20,
+  "manzil_number": 1,
+  "page_number": 24,
+  "juz_number": 2,
+  "text_uthmani": "إِنَّ ٱلَّذِينَ يَكْتُمُونَ مَآ أَنزَلْنَا مِنَ ٱلْبَيِّنَـٰتِ وَٱلْهُدَىٰ مِنۢ بَعْدِ مَا بَيَّنَّـٰهُ لِلنَّاسِ فِى ٱلْكِتَـٰبِ ۙ أُو۟لَـٰٓئِكَ يَلْعَنُهُمُ ٱللَّهُ وَيَلْعَنُهُمُ ٱللَّـٰعِنُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 81657,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_159_001.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 81658,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_159_002.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 81659,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_159_003.mp3",
+      "text": "يَكْتُمُونَ",
+      "translation": "(mereka) menyembunyikan",
+      "transliteration": "yaktumūna"
+    },
+    {
+      "id": 81660,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_159_004.mp3",
+      "text": "مَآ",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 81661,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_159_005.mp3",
+      "text": "أَنزَلْنَا",
+      "translation": "Kami turunkan",
+      "transliteration": "anzalnā"
+    },
+    {
+      "id": 81662,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_159_006.mp3",
+      "text": "مِنَ",
+      "translation": "dari",
+      "transliteration": "mina"
+    },
+    {
+      "id": 81663,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_159_007.mp3",
+      "text": "ٱلْبَيِّنَـٰتِ",
+      "translation": "keterangan/keterangan",
+      "transliteration": "l-bayināti"
+    },
+    {
+      "id": 81664,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_159_008.mp3",
+      "text": "وَٱلْهُدَىٰ",
+      "translation": "dan petunjuk",
+      "transliteration": "wal-hudā"
+    },
+    {
+      "id": 81665,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_159_009.mp3",
+      "text": "مِنۢ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 81666,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_159_010.mp3",
+      "text": "بَعْدِ",
+      "translation": "sesudah",
+      "transliteration": "baʿdi"
+    },
+    {
+      "id": 81667,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_159_011.mp3",
+      "text": "مَا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 81668,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_159_012.mp3",
+      "text": "بَيَّنَّـٰهُ",
+      "translation": "telah Kami terangkan",
+      "transliteration": "bayyannāhu"
+    },
+    {
+      "id": 81669,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_159_013.mp3",
+      "text": "لِلنَّاسِ",
+      "translation": "kepada manusia",
+      "transliteration": "lilnnāsi"
+    },
+    {
+      "id": 81670,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_159_014.mp3",
+      "text": "فِى",
+      "translation": "dalam",
+      "transliteration": "fī"
+    },
+    {
+      "id": 81671,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_159_015.mp3",
+      "text": "ٱلْكِتَـٰبِ ۙ",
+      "translation": "Al Kitab",
+      "transliteration": "l-kitābi"
+    },
+    {
+      "id": 81673,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_159_017.mp3",
+      "text": "أُو۟لَـٰٓئِكَ",
+      "translation": "mereka itulah",
+      "transliteration": "ulāika"
+    },
+    {
+      "id": 81674,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_159_018.mp3",
+      "text": "يَلْعَنُهُمُ",
+      "translation": "melaknati/mengutuk mereka",
+      "transliteration": "yalʿanuhumu"
+    },
+    {
+      "id": 81675,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_159_019.mp3",
+      "text": "ٱللَّهُ",
+      "translation": "Allah",
+      "transliteration": "l-lahu"
+    },
+    {
+      "id": 81676,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_159_020.mp3",
+      "text": "وَيَلْعَنُهُمُ",
+      "translation": "dan melaknati/mengutuk mereka",
+      "transliteration": "wayalʿanuhumu"
+    },
+    {
+      "id": 81677,
+      "line_number": 10,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_159_021.mp3",
+      "text": "ٱللَّـٰعِنُونَ",
+      "translation": "para pelaknat/pengutuk",
+      "transliteration": "l-lāʿinūna"
+    },
+    {
+      "id": 81678,
+      "line_number": 11,
+      "audio_url": null,
+      "text": "١٥٩",
+      "translation": "(159)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Sesungguhnya orang-orang yang menyembunyikan apa yang telah Kami turunkan berupa keterangan-keterangan (yang jelas) dan petunjuk, setelah Kami menerangkannya kepada manusia dalam Alkitab, mereka itu dilaknati Allah dan dilaknati (pula) oleh semua (makhluk) yang dapat melaknati,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Innal-lażīna yaktumūna mā anzalnā minal-bayyināti wal-hudā mim ba‘di mā bayyannāhu lin-nāsi fil-kitāb(i), ulā'ika yal‘anuhumullāhu wa yal‘anuhumul-lā‘inūn(a)."
+}

@@ -1,0 +1,124 @@
+{
+  "id": 1681,
+  "chapter_id": 12,
+  "verse_key": "12:85",
+  "hizb_number": 25,
+  "rub_el_hizb_number": 98,
+  "ruku_number": 202,
+  "manzil_number": 3,
+  "page_number": 245,
+  "juz_number": 13,
+  "text_uthmani": "قَالُوا۟ تَٱللَّهِ تَفْتَؤُا۟ تَذْكُرُ يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا أَوْ تَكُونَ مِنَ ٱلْهَـٰلِكِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/12.mp3",
+  "words": [
+    {
+      "id": 66369,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_085_001.mp3",
+      "text": "قَالُوا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 66370,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_085_002.mp3",
+      "text": "تَٱللَّهِ",
+      "translation": "demi Allah",
+      "transliteration": "tal-lahi"
+    },
+    {
+      "id": 66371,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_085_003.mp3",
+      "text": "تَفْتَؤُا۟",
+      "translation": "engkau senantiasa",
+      "transliteration": "tafta-u"
+    },
+    {
+      "id": 66372,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_085_004.mp3",
+      "text": "تَذْكُرُ",
+      "translation": "engkau mengingat",
+      "transliteration": "tadhkuru"
+    },
+    {
+      "id": 66373,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_085_005.mp3",
+      "text": "يُوسُفَ",
+      "translation": "Yusuf",
+      "transliteration": "yūsufa"
+    },
+    {
+      "id": 66374,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_085_006.mp3",
+      "text": "حَتَّىٰ",
+      "translation": "sehingga",
+      "transliteration": "ḥattā"
+    },
+    {
+      "id": 66375,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_085_007.mp3",
+      "text": "تَكُونَ",
+      "translation": "adalah engkau",
+      "transliteration": "takūna"
+    },
+    {
+      "id": 66376,
+      "line_number": 13,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_085_008.mp3",
+      "text": "حَرَضًا",
+      "translation": "penyakit yang berat",
+      "transliteration": "ḥaraḍan"
+    },
+    {
+      "id": 66377,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_085_009.mp3",
+      "text": "أَوْ",
+      "translation": "atau",
+      "transliteration": "aw"
+    },
+    {
+      "id": 66378,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_085_010.mp3",
+      "text": "تَكُونَ",
+      "translation": "adalah engkau",
+      "transliteration": "takūna"
+    },
+    {
+      "id": 66379,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_085_011.mp3",
+      "text": "مِنَ",
+      "translation": "dari/termasuk",
+      "transliteration": "mina"
+    },
+    {
+      "id": 66380,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/012_085_012.mp3",
+      "text": "ٱلْهَـٰلِكِينَ",
+      "translation": "orang-orang yang binasa",
+      "transliteration": "l-hālikīna"
+    },
+    {
+      "id": 66381,
+      "line_number": 14,
+      "audio_url": null,
+      "text": "٨٥",
+      "translation": "(85)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka berkata, \"Demi Allah, senantiasa kamu mengingati  Yūsuf sehingga kamu mengidapkan penyakit yang berat atau termasuk orang-orang yang binasa\".",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Qālū tallāhi tafta'u tażkuru yūsufa ḥattā takūna ḥaraḍan au takūna minal-hālikīn(a)."
+}

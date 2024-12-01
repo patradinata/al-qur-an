@@ -1,0 +1,132 @@
+{
+  "id": 4144,
+  "chapter_id": 40,
+  "verse_key": "40:11",
+  "hizb_number": 47,
+  "rub_el_hizb_number": 187,
+  "ruku_number": 407,
+  "manzil_number": 6,
+  "page_number": 468,
+  "juz_number": 24,
+  "text_uthmani": "قَالُوا۟ رَبَّنَآ أَمَتَّنَا ٱثْنَتَيْنِ وَأَحْيَيْتَنَا ٱثْنَتَيْنِ فَٱعْتَرَفْنَا بِذُنُوبِنَا فَهَلْ إِلَىٰ خُرُوجٍ مِّن سَبِيلٍ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/40.mp3",
+  "words": [
+    {
+      "id": 12091,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_011_001.mp3",
+      "text": "قَالُوا۟",
+      "translation": "mereka berkata",
+      "transliteration": "qālū"
+    },
+    {
+      "id": 12092,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_011_002.mp3",
+      "text": "رَبَّنَآ",
+      "translation": "ya Tuhan kami",
+      "transliteration": "rabbanā"
+    },
+    {
+      "id": 12093,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_011_003.mp3",
+      "text": "أَمَتَّنَا",
+      "translation": "Engkau mematikan kami",
+      "transliteration": "amattanā"
+    },
+    {
+      "id": 12094,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_011_004.mp3",
+      "text": "ٱثْنَتَيْنِ",
+      "translation": "dua kali",
+      "transliteration": "ith'natayni"
+    },
+    {
+      "id": 12095,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_011_005.mp3",
+      "text": "وَأَحْيَيْتَنَا",
+      "translation": "dan Engkau menghidupkan kami",
+      "transliteration": "wa-aḥyaytanā"
+    },
+    {
+      "id": 12096,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_011_006.mp3",
+      "text": "ٱثْنَتَيْنِ",
+      "translation": "dua kali",
+      "transliteration": "ith'natayni"
+    },
+    {
+      "id": 12097,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_011_007.mp3",
+      "text": "فَٱعْتَرَفْنَا",
+      "translation": "lalu kami mengakui",
+      "transliteration": "fa-iʿ'tarafnā"
+    },
+    {
+      "id": 12098,
+      "line_number": 7,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_011_008.mp3",
+      "text": "بِذُنُوبِنَا",
+      "translation": "dengan dosa-dosa kami",
+      "transliteration": "bidhunūbinā"
+    },
+    {
+      "id": 12099,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_011_009.mp3",
+      "text": "فَهَلْ",
+      "translation": "maka adakah",
+      "transliteration": "fahal"
+    },
+    {
+      "id": 12100,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_011_010.mp3",
+      "text": "إِلَىٰ",
+      "translation": "untuk",
+      "transliteration": "ilā"
+    },
+    {
+      "id": 12101,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_011_011.mp3",
+      "text": "خُرُوجٍۢ",
+      "translation": "keluar",
+      "transliteration": "khurūjin"
+    },
+    {
+      "id": 12102,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_011_012.mp3",
+      "text": "مِّن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 12103,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/040_011_013.mp3",
+      "text": "سَبِيلٍۢ",
+      "translation": "jalan",
+      "transliteration": "sabīlin"
+    },
+    {
+      "id": 12104,
+      "line_number": 8,
+      "audio_url": null,
+      "text": "١١",
+      "translation": "(11)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Mereka menjawab, \"Ya Tuhan kami, Engkau telah mematikan kami dua kali dan telah menghidupkan kami dua kali (pula), lalu kami mengakui dosa-dosa kami. Maka adakah sesuatu jalan (bagi kami) untuk keluar (dari neraka)?\"",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Qālū rabbanā amattanaṡnataini wa aḥyaitanaṡnataini fa‘tarafnā biżunūbinā fa hal ilā khurūjim min sabīl(in)."
+}

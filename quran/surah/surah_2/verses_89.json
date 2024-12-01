@@ -1,0 +1,236 @@
+{
+  "id": 96,
+  "chapter_id": 2,
+  "verse_key": "2:89",
+  "hizb_number": 2,
+  "rub_el_hizb_number": 5,
+  "ruku_number": 12,
+  "manzil_number": 1,
+  "page_number": 14,
+  "juz_number": 1,
+  "text_uthmani": "وَلَمَّا جَآءَهُمْ كِتَـٰبٌ مِّنْ عِندِ ٱللَّهِ مُصَدِّقٌ لِّمَا مَعَهُمْ وَكَانُوا۟ مِن قَبْلُ يَسْتَفْتِحُونَ عَلَى ٱلَّذِينَ كَفَرُوا۟ فَلَمَّا جَآءَهُم مَّا عَرَفُوا۟ كَفَرُوا۟ بِهِۦ ۚ فَلَعْنَةُ ٱللَّهِ عَلَى ٱلْكَـٰفِرِينَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/2.mp3",
+  "words": [
+    {
+      "id": 67761,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_089_001.mp3",
+      "text": "وَلَمَّا",
+      "translation": "dan setelah",
+      "transliteration": "walammā"
+    },
+    {
+      "id": 67762,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_089_002.mp3",
+      "text": "جَآءَهُمْ",
+      "translation": "datang kepada mereka",
+      "transliteration": "jāahum"
+    },
+    {
+      "id": 67763,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_089_003.mp3",
+      "text": "كِتَـٰبٌۭ",
+      "translation": "Kitab",
+      "transliteration": "kitābun"
+    },
+    {
+      "id": 67764,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_089_004.mp3",
+      "text": "مِّنْ",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 67765,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_089_005.mp3",
+      "text": "عِندِ",
+      "translation": "sisi",
+      "transliteration": "ʿindi"
+    },
+    {
+      "id": 67766,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_089_006.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 67767,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_089_007.mp3",
+      "text": "مُصَدِّقٌۭ",
+      "translation": "membenarkan",
+      "transliteration": "muṣaddiqun"
+    },
+    {
+      "id": 67768,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_089_008.mp3",
+      "text": "لِّمَا",
+      "translation": "terhadap apa",
+      "transliteration": "limā"
+    },
+    {
+      "id": 67769,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_089_009.mp3",
+      "text": "مَعَهُمْ",
+      "translation": "bersama mereka",
+      "transliteration": "maʿahum"
+    },
+    {
+      "id": 67770,
+      "line_number": 1,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_089_010.mp3",
+      "text": "وَكَانُوا۟",
+      "translation": "dan mereka adalah",
+      "transliteration": "wakānū"
+    },
+    {
+      "id": 67771,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_089_011.mp3",
+      "text": "مِن",
+      "translation": "dari",
+      "transliteration": "min"
+    },
+    {
+      "id": 67772,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_089_012.mp3",
+      "text": "قَبْلُ",
+      "translation": "sebelum",
+      "transliteration": "qablu"
+    },
+    {
+      "id": 67773,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_089_013.mp3",
+      "text": "يَسْتَفْتِحُونَ",
+      "translation": "mereka meminta kemenangan",
+      "transliteration": "yastaftiḥūna"
+    },
+    {
+      "id": 67774,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_089_014.mp3",
+      "text": "عَلَى",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 67775,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_089_015.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 67776,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_089_016.mp3",
+      "text": "كَفَرُوا۟",
+      "translation": "kafir/ingkar",
+      "transliteration": "kafarū"
+    },
+    {
+      "id": 67777,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_089_017.mp3",
+      "text": "فَلَمَّا",
+      "translation": "maka setelah",
+      "transliteration": "falammā"
+    },
+    {
+      "id": 67778,
+      "line_number": 2,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_089_018.mp3",
+      "text": "جَآءَهُم",
+      "translation": "datang kepada mereka",
+      "transliteration": "jāahum"
+    },
+    {
+      "id": 67779,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_089_019.mp3",
+      "text": "مَّا",
+      "translation": "apa",
+      "transliteration": "mā"
+    },
+    {
+      "id": 67780,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_089_020.mp3",
+      "text": "عَرَفُوا۟",
+      "translation": "mereka ketahui",
+      "transliteration": "ʿarafū"
+    },
+    {
+      "id": 67781,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_089_021.mp3",
+      "text": "كَفَرُوا۟",
+      "translation": "kafir/ingkar",
+      "transliteration": "kafarū"
+    },
+    {
+      "id": 67782,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_089_022.mp3",
+      "text": "بِهِۦ ۚ",
+      "translation": "dengannya",
+      "transliteration": "bihi"
+    },
+    {
+      "id": 67784,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_089_024.mp3",
+      "text": "فَلَعْنَةُ",
+      "translation": "maka kutukan",
+      "transliteration": "falaʿnatu"
+    },
+    {
+      "id": 67785,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_089_025.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 67786,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_089_026.mp3",
+      "text": "عَلَى",
+      "translation": "atas",
+      "transliteration": "ʿalā"
+    },
+    {
+      "id": 67787,
+      "line_number": 3,
+      "audio_url": "https://audio.qurancdn.com/wbw/002_089_027.mp3",
+      "text": "ٱلْكَـٰفِرِينَ",
+      "translation": "orang-orang yang ingkar",
+      "transliteration": "l-kāfirīna"
+    },
+    {
+      "id": 67788,
+      "line_number": 3,
+      "audio_url": null,
+      "text": "٨٩",
+      "translation": "(89)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan setelah datang kepada mereka Al-Qur`ān dari Allah yang membenarkan apa yang ada pada mereka, padahal sebelumnya mereka biasa memohon (kedatangan nabi) untuk mendapat kemenangan atas orang-orang kafir, maka setelah datang kepada mereka apa yang telah mereka ketahui<sup foot_note_id=\"70\">61</sup>, mereka lalu ingkar kepadanya.  Maka laknat Allah-lah atas orang-orang yang ingkar itu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Wa lammā jā'akum kitābum min ‘indillāhi muṣaddiqul limā ma‘ahum, wa kānū min qablu yastaftiḥūna ‘alal-lażīna kafarū, falammā jā'ahum mā ‘arafū kafarū bih(ī), fala‘natullāhi ‘alal-kāfirīn(a)."
+}

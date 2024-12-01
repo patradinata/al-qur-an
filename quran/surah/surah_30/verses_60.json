@@ -1,0 +1,108 @@
+{
+  "id": 3469,
+  "chapter_id": 30,
+  "verse_key": "30:60",
+  "hizb_number": 41,
+  "rub_el_hizb_number": 164,
+  "ruku_number": 355,
+  "manzil_number": 5,
+  "page_number": 410,
+  "juz_number": 21,
+  "text_uthmani": "فَٱصْبِرْ إِنَّ وَعْدَ ٱللَّهِ حَقٌّ ۖ وَلَا يَسْتَخِفَّنَّكَ ٱلَّذِينَ لَا يُوقِنُونَ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/30.mp3",
+  "words": [
+    {
+      "id": 54683,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_060_001.mp3",
+      "text": "فَٱصْبِرْ",
+      "translation": "maka bersabarlah kamu",
+      "transliteration": "fa-iṣ'bir"
+    },
+    {
+      "id": 54684,
+      "line_number": 14,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_060_002.mp3",
+      "text": "إِنَّ",
+      "translation": "sesungguhnya",
+      "transliteration": "inna"
+    },
+    {
+      "id": 54685,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_060_003.mp3",
+      "text": "وَعْدَ",
+      "translation": "janji",
+      "transliteration": "waʿda"
+    },
+    {
+      "id": 54686,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_060_004.mp3",
+      "text": "ٱللَّهِ",
+      "translation": "Allah",
+      "transliteration": "l-lahi"
+    },
+    {
+      "id": 54687,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_060_005.mp3",
+      "text": "حَقٌّۭ ۖ",
+      "translation": "hak/benar",
+      "transliteration": "ḥaqqun"
+    },
+    {
+      "id": 54689,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_060_007.mp3",
+      "text": "وَلَا",
+      "translation": "dan jangan",
+      "transliteration": "walā"
+    },
+    {
+      "id": 54690,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_060_008.mp3",
+      "text": "يَسْتَخِفَّنَّكَ",
+      "translation": "sekali-kali menggelisahkan kamu",
+      "transliteration": "yastakhiffannaka"
+    },
+    {
+      "id": 54691,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_060_009.mp3",
+      "text": "ٱلَّذِينَ",
+      "translation": "orang-orang yang",
+      "transliteration": "alladhīna"
+    },
+    {
+      "id": 54692,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_060_010.mp3",
+      "text": "لَا",
+      "translation": "(mereka) tidak",
+      "transliteration": "lā"
+    },
+    {
+      "id": 54693,
+      "line_number": 15,
+      "audio_url": "https://audio.qurancdn.com/wbw/030_060_011.mp3",
+      "text": "يُوقِنُونَ",
+      "translation": "meyakini",
+      "transliteration": "yūqinūna"
+    },
+    {
+      "id": 54694,
+      "line_number": 15,
+      "audio_url": null,
+      "text": "٦٠",
+      "translation": "(60)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan bersabarlah kamu, sesungguhnya janji Allah adalah benar dan sekali-kali janganlah orang-orang yang tidak meyakini (kebenaran ayat-ayat Allah) itu menggelisahkan kamu.",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Faṣbir inna wa‘dallāhi ḥaqquw wa lā yastakhiffannakal-lażīna lā yūqinūn(a)."
+}

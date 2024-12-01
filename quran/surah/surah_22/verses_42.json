@@ -1,0 +1,100 @@
+{
+  "id": 2637,
+  "chapter_id": 22,
+  "verse_key": "22:42",
+  "hizb_number": 34,
+  "rub_el_hizb_number": 135,
+  "ruku_number": 290,
+  "manzil_number": 4,
+  "page_number": 337,
+  "juz_number": 17,
+  "text_uthmani": "وَإِن يُكَذِّبُوكَ فَقَدْ كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَعَادٌ وَثَمُودُ",
+  "audio_url": "https://download.quranicaudio.com/qdc/mishari_al_afasy/murattal/22.mp3",
+  "words": [
+    {
+      "id": 43043,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_042_001.mp3",
+      "text": "وَإِن",
+      "translation": "dan jika",
+      "transliteration": "wa-in"
+    },
+    {
+      "id": 43044,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_042_002.mp3",
+      "text": "يُكَذِّبُوكَ",
+      "translation": "mereka mendustakan kamu",
+      "transliteration": "yukadhibūka"
+    },
+    {
+      "id": 43045,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_042_003.mp3",
+      "text": "فَقَدْ",
+      "translation": "maka sesungguhnya",
+      "transliteration": "faqad"
+    },
+    {
+      "id": 43046,
+      "line_number": 8,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_042_004.mp3",
+      "text": "كَذَّبَتْ",
+      "translation": "telah mendustakan",
+      "transliteration": "kadhabat"
+    },
+    {
+      "id": 43047,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_042_005.mp3",
+      "text": "قَبْلَهُمْ",
+      "translation": "sebelum mereka",
+      "transliteration": "qablahum"
+    },
+    {
+      "id": 43048,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_042_006.mp3",
+      "text": "قَوْمُ",
+      "translation": "kaum",
+      "transliteration": "qawmu"
+    },
+    {
+      "id": 43049,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_042_007.mp3",
+      "text": "نُوحٍۢ",
+      "translation": "Nuh",
+      "transliteration": "nūḥin"
+    },
+    {
+      "id": 43050,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_042_008.mp3",
+      "text": "وَعَادٌۭ",
+      "translation": "dan 'Ad",
+      "transliteration": "waʿādun"
+    },
+    {
+      "id": 43051,
+      "line_number": 9,
+      "audio_url": "https://audio.qurancdn.com/wbw/022_042_009.mp3",
+      "text": "وَثَمُودُ",
+      "translation": "dan Tsamud",
+      "transliteration": "wathamūdu"
+    },
+    {
+      "id": 43052,
+      "line_number": 9,
+      "audio_url": null,
+      "text": "٤٢",
+      "translation": "(42)",
+      "transliteration": null
+    }
+  ],
+  "translation": {
+    "text": "Dan jika mereka (orang-orang musyrik) mendustakan kamu, maka sesungguhnya telah mendustakan juga sebelum mereka kaum Nūḥ, ‘Ād, dan Ṡamūd,",
+    "resource_name": "King Fahad Quran Complex"
+  },
+  "transliteration": "Wa iy yukażżibūka faqad każżabat qablahum qaumu nūḥiw wa ‘āduw wa ṡamūd(u)."
+}
