@@ -6,7 +6,6 @@ import { FormEvent, useEffect } from "react";
 
 export default function AudioBar({ timestamp, playHandler }: { timestamp: Timestamp; playHandler: () => void }) {
   const [currentTime, setCurrentTime] = useAtom(currentTimeAtom);
-
   useEffect(() => {
     if (!timestamp) return;
     const percentage = (currentTime * 100) / timestamp.duration;
@@ -15,7 +14,7 @@ export default function AudioBar({ timestamp, playHandler }: { timestamp: Timest
     if (!audioBar) return;
 
     audioBar.style.backgroundSize = `${percentage}% 100%`;
-  }, [currentTime]);
+  }, [currentTime, timestamp]);
 
   const inputHandler = (e: FormEvent<HTMLInputElement>) => {
     if (!timestamp) return;
