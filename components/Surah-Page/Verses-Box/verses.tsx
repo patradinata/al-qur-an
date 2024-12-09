@@ -16,7 +16,7 @@ import { settingAtom } from "@/components/atoms/setting-atom";
 import Translation from "./translation";
 
 let highlightPrev = "s";
-function Verses({ verses, id, highlight }: { verses: VersesType, id: string, highlight: string | null }) {
+function Verses({ verses, id, highlight }: { verses: VersesType; id: string; highlight: string | null }) {
   const router = useRouter();
   const [isActive, setActive] = useState(false);
   const [footNote, setFootNote] = useState<{ text: string } | undefined>(undefined);
@@ -31,20 +31,20 @@ function Verses({ verses, id, highlight }: { verses: VersesType, id: string, hig
   useEffect(() => {
     if (!ref.current || highlight?.split(":")[1] === highlightPrev) {
       return;
-    };
+    }
 
     if (highlight) {
       scrollToElement(ref.current);
       highlightPrev = highlight.split(":")[1];
     }
-  }, [highlight])
+  }, [highlight]);
 
   useEffect(() => {
     window.addEventListener("scroll", () => scrollHandler());
     return () => {
-      window.removeEventListener("scroll", () => scrollHandler())
+      window.removeEventListener("scroll", () => scrollHandler());
     };
-  }, [])
+  }, []);
 
   useEffect(() => {
     const verseNumber = verses.verse_key.split(":")[1];
@@ -53,7 +53,7 @@ function Verses({ verses, id, highlight }: { verses: VersesType, id: string, hig
       scrollToElement(ref.current);
       setCurrentVerse(verses.verse_key.split(":")[1]);
     }
-  }, [surahInfo])
+  }, [surahInfo]);
 
   const scrollHandler = () => {
     if (!ref.current) return;
@@ -63,7 +63,7 @@ function Verses({ verses, id, highlight }: { verses: VersesType, id: string, hig
     if (rect.top >= 130 && rect.top <= 250) {
       setCurrentVerse(verses.verse_key.split(":")[1]);
     }
-  }
+  };
 
   const supHandler = async (footNoteId: string | undefined) => {
     try {
@@ -74,14 +74,24 @@ function Verses({ verses, id, highlight }: { verses: VersesType, id: string, hig
     } catch (error) {
       console.error(error);
     }
-  }
+  };
 
   const parseStringToElement = (text: string) => {
     const footNoteId = text.match(/"\d+"/g)?.[0].replace(/"/g, "");
     const footNoteNumber = text.match(/>\d+/g)?.[0].replace(">", "");
 
-    return <sup className="p-1 cursor-pointer hover:underline" onClick={() => { supHandler(footNoteId) }}>{footNoteNumber}</sup>
-  }
+    return (
+      <sup
+        key={footNoteId}
+        className="p-1 cursor-pointer hover:underline"
+        onClick={() => {
+          supHandler(footNoteId);
+        }}
+      >
+        {footNoteNumber}
+      </sup>
+    );
+  };
 
   const playHandler = async () => {
     if (!timestamp) return;
@@ -93,54 +103,64 @@ function Verses({ verses, id, highlight }: { verses: VersesType, id: string, hig
 
     audio.currentTime = timestamp?.verse_timings[verseIndex].timestamp_from * 0.001;
     audio.play();
-  }
+  };
 
-  return <div id={`${id}`} ref={ref} className={`rounded-sm border-b-2 dark:border-zinc-300 mt-8 p-4 flex flex-wrap md:flex-nowrap ${!!highlight && "bg-slate-50 dark:bg-sec-color-dark"}`}>
-    <div className="mr-10 mb-4 md:mb-0 flex md:flex-col items-center gap-1 text-gray-400 dark:text-zinc-300">
-      <a href={`#${id}`}>
-        <Button>
-          <p className="text-sm">{verses.verse_key}</p>
+  return (
+    <div id={`${id}`} ref={ref} className={`rounded-sm border-b-2 dark:border-zinc-300 mt-8 p-4 flex flex-wrap md:flex-nowrap ${!!highlight && "bg-slate-50 dark:bg-sec-color-dark"}`}>
+      <div className="mr-10 mb-4 md:mb-0 flex md:flex-col items-center gap-1 text-gray-400 dark:text-zinc-300">
+        <a href={`#${id}`}>
+          <Button>
+            <p className="text-sm">{verses.verse_key}</p>
+          </Button>
+        </a>
+        <Button onClick={playHandler}>
+          <FontAwesomeIcon icon={faPlay} />
         </Button>
-      </a>
-      <Button onClick={playHandler}>
-        <FontAwesomeIcon icon={faPlay} />
-      </Button>
-    </div>
-    <div className="w-full">
-      <div className={`words-container flex justify-start flex-row-reverse flex-wrap mb-4`}>
-        {verses.words.map((e, i) => {
-          return <Word highlight={(highlight === `${verses.verse_key}:${i + 1}`)} key={e.id} verse={e} isLast={i == verses.words.length - 1} />
-        })}
       </div>
-      {settings.translation.latin &&
-        <Translation settings={settings} resourceName="Latin">
-          {verses.transliteration}
-        </Translation>
-      }
-      {settings.translation.id &&
-        <Translation settings={settings} resourceName={verses.translation.resource_name}>
-          {verses.translation.text.split(regex).map((e) => {
-            if (!e.match(regex)) return e;
-            return parseStringToElement(e);
+      <div className="w-full">
+        <div className={`words-container flex justify-start flex-row-reverse flex-wrap mb-4`}>
+          {verses.words.map((e, i) => {
+            return <Word highlight={highlight === `${verses.verse_key}:${i + 1}`} key={e.id} verse={e} isLast={i == verses.words.length - 1} />;
           })}
-        </Translation>
-      }
-      {isActive && settings.translation.id &&
-        <div className="border-2 rounded-lg bg-slate-50 dark:border-zinc-300 dark:bg-sec-color-dark p-6 mb-6">
-          <div className="flex justify-between items-center mb-4 -mt-1">
-            <h2>Footnote</h2>
-            <Button onClick={() => { setActive(false) }}><FontAwesomeIcon icon={faXmark} /></Button>
-          </div>
-          {(footNote && footNote?.text != "") ?
-            <h2 className="font-normal text-justify text-sm sm:text-base">{footNote?.text}</h2> :
-            <div className="animate-pulse">
-              <div className="bg-slate-300 w-full h-4 rounded mb-2" />
-              <div className="bg-slate-300 w-full h-4 rounded" />
-            </div>}
         </div>
-      }
+        {settings.translation.latin && (
+          <Translation settings={settings} resourceName="Latin">
+            {verses.transliteration}
+          </Translation>
+        )}
+        {settings.translation.id && (
+          <Translation settings={settings} resourceName={verses.translation.resource_name}>
+            {verses.translation.text.split(regex).map((e) => {
+              if (!e.match(regex)) return e;
+              return parseStringToElement(e);
+            })}
+          </Translation>
+        )}
+        {isActive && settings.translation.id && (
+          <div className="border-2 rounded-lg bg-slate-50 dark:border-zinc-300 dark:bg-sec-color-dark p-6 mb-6">
+            <div className="flex justify-between items-center mb-4 -mt-1">
+              <h2>Footnote</h2>
+              <Button
+                onClick={() => {
+                  setActive(false);
+                }}
+              >
+                <FontAwesomeIcon icon={faXmark} />
+              </Button>
+            </div>
+            {footNote && footNote?.text != "" ? (
+              <h2 className="font-normal text-justify text-sm sm:text-base">{footNote?.text}</h2>
+            ) : (
+              <div className="animate-pulse">
+                <div className="bg-slate-300 w-full h-4 rounded mb-2" />
+                <div className="bg-slate-300 w-full h-4 rounded" />
+              </div>
+            )}
+          </div>
+        )}
+      </div>
     </div>
-  </div >
+  );
 }
 
 const VersesMemo = memo(Verses);

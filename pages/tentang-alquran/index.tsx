@@ -66,13 +66,13 @@ export default function Page() {
           <li>Syariat</li>
           <p>Al-quran berisi syariat, hukum-hukum Islam yang berkaitan dengan ibadah, sosial, politik, dan lain sebagainya.</p>
         </ol>
-        <h1 className="h1">Fungsi Al-Qur'an</h1>
-        <p>Adapun fungsi al-qur'an diantaranya adalah sebagai berikut:</p>
+        <h1 className="h1">Fungsi Al-Qur &lsquo;an</h1>
+        <p>Adapun fungsi al-qur&lsquo;an diantaranya adalah sebagai berikut:</p>
         <ol className="pl-8 list-decimal flex flex-col gap-1">
           <li>Al-Huda (Sebagai Petunjuk)</li>
           <p>
-            Fungsi Al-Qur’an adalah sebagai petunjuk yang terdiri dari 3 jenis, yakni petunjuk bagi manusia secara umum, petunjuk bagi orang yang bertaqwa dan petunjuk bagi orang yang beriman. Sebagaimana dalam Surah Al-Baqarah 2 : 185 dan
-            Surah Al-Fusilat 41 : 44 yang menyatakan bahwa “Al-Qur'an diturunkan kepada manusia sebagai petunjuk bagi umat manusia.”
+            Fungsi Al-Qur&lsquo;an adalah sebagai petunjuk yang terdiri dari 3 jenis, yakni petunjuk bagi manusia secara umum, petunjuk bagi orang yang bertaqwa dan petunjuk bagi orang yang beriman. Sebagaimana dalam Surah Al-Baqarah 2 :
+            185 dan Surah Al-Fusilat 41 : 44 yang menyatakan bahwa Al-Quran diturunkan kepada manusia sebagai petunjuk bagi umat manusia.”
           </p>
           <li>Al-Furqan (Sebagai Pembeda)</li>
           <p>
@@ -86,14 +86,14 @@ export default function Page() {
           </p>
           <li> Sebagai Peringatan dan Pelajaran Bagi Manusia</li>
           <p>
-            Al-Qur’an juga berfungsi sebagai peringatan dan pelajaran bagi umat umat manusia, dimana banyak menerangkan kisah para nabi dan umat terdahulu baik yang taat dalam melaksanakan perintah Allah SWT dan juga yang ingkar dan tidak
-            mentaati perintah Allah SWT.
+            Al-Qur &lsquan juga berfungsi sebagai peringatan dan pelajaran bagi umat umat manusia, dimana banyak menerangkan kisah para nabi dan umat terdahulu baik yang taat dalam melaksanakan perintah Allah SWT dan juga yang ingkar dan
+            tidak mentaati perintah Allah SWT.
           </p>
           <p>Sehingga dengan demikian kita dapat mengetahui dan menjadikan pembelajaran dari kisah-kisah yang ada di dalam Al-Qur’an.</p>
           <li>Asy Syifa (Sebagai Penyembuh)</li>
           <p>
-            Fungsi Al-Qur’an selanjutnya adalah sebagai penyembuh atau obat dari berbagai macam persoalan. Penyakit yang ada pada manusia bukan hanya penyakit fisik saja, melainkan penyakit hati, susasana hati dan lain sebagainya. Karena
-            itu Al-Qur’an diturunkan sebagai penyembuh dan obat dari berbagai macam penyakit dan persoalan. InsyaAllah.
+            Fungsi Al-Quran selanjutnya adalah sebagai penyembuh atau obat dari berbagai macam persoalan. Penyakit yang ada pada manusia bukan hanya penyakit fisik saja, melainkan penyakit hati, susasana hati dan lain sebagainya. Karena itu
+            Al-Quran diturunkan sebagai penyembuh dan obat dari berbagai macam penyakit dan persoalan. InsyaAllah.
           </p>
         </ol>
 
@@ -129,8 +129,8 @@ export default function Page() {
         <p>Sebagai seorang Muslim yang baik, sebelum membaca atau bahkan mempelajari Alquran sangat perlu dalam memperhatikan adab-adabnya. Berikut adab-adab dalam membaca Al-Quran :</p>
 
         <ol className="pl-8 list-decimal flex flex-col gap-1">
-          <li>Memulai membaca Alquran dengan isti’adzah.</li>
-          <p className="mb-2">Kalimat isti’adzah atau taawudz merupakan sebuah doa untuk memohon penjagaan dan perlindungan dari godaan setan. Allah ﷻ berfirman:</p>
+          <li>Memulai membaca Alquran dengan istiadzah.</li>
+          <p className="mb-2">Kalimat istiadzah atau taawudz merupakan sebuah doa untuk memohon penjagaan dan perlindungan dari godaan setan. Allah ﷻ berfirman:</p>
           <Arabic text="فَإِذَاقَرَأْتَٱلْقُرْءَانَفَٱسْتَعِذْبِٱللَّهِمِنَٱلشَّيْطَـٰنِٱلرَّجِيمِ" ayah="٩٨" />
           <p className="mt-2">
             &ldquo;Apabila kamu membaca Al-Qur`ān, hendaklah kamu meminta perlindungan kepada Allah dari setan yang terkutuk.&ldquo;{" "}

@@ -18,8 +18,4 @@ const createStorage = <T>(key: string, initValue: T) => {
   return { ...storage, getItem };
 };
 
-export const recentlyReadAtom = atomWithStorage<RecentlyRead[]>(
-  "recentlyRead",
-  [],
-  createStorage<RecentlyRead[]>("recentlyRead", [])
-);
+export const recentlyReadAtom = atomWithStorage<RecentlyRead[]>("recentlyRead", [], createStorage<RecentlyRead[]>("recentlyRead", []));

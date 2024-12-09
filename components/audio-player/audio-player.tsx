@@ -24,9 +24,9 @@ export default function AudioPlayer() {
     try {
       fetcher(`/api/timestamp?surah=${surahInfo.surah_number}`).then((data: Timestamp) => setTimestampAtom(() => data));
     } catch (error) {
-      console.error(error)
+      console.error(error);
     }
-  }
+  };
 
   useEffect(() => {
     getTimestamp();
@@ -48,13 +48,13 @@ export default function AudioPlayer() {
 
     audio.pause();
     setAudioPlay(false);
-  }, [])
+  }, []);
 
   const GetHighlight = () => {
     if (!currentTime || !timestamp) return;
     let newHighlight: string = "";
 
-    const verseTiming = timestamp.verse_timings.find((e) => (e.timestamp_from <= currentTime && e.timestamp_to > currentTime) && audioPlay);
+    const verseTiming = timestamp.verse_timings.find((e) => e.timestamp_from <= currentTime && e.timestamp_to > currentTime && audioPlay);
     if (!verseTiming) return;
 
     const wordIndex = verseTiming.segments.find((e) => e[1] <= currentTime && e[2] > currentTime);
@@ -64,18 +64,33 @@ export default function AudioPlayer() {
 
     if (newHighlight == highlight) return;
     setHighlight(newHighlight);
-  }
+  };
 
-  return <div className="w-full z-10 flex flex-col fixed bottom-0 h-14 bg-white dark:bg-pri-color-dark">
-    {timestamp && surahInfo && <>
-      <Audio playHandler={() => { GetHighlight() }} timestamp={timestamp} playToggle={playToggle} />
-      <AudioBar playHandler={() => { GetHighlight() }} timestamp={timestamp} />
+  return (
+    <div className="w-full z-10 flex flex-col fixed bottom-0 h-14 bg-white dark:bg-pri-color-dark">
+      {timestamp && surahInfo && (
+        <>
+          <Audio
+            playHandler={() => {
+              GetHighlight();
+            }}
+            timestamp={timestamp}
+            playToggle={playToggle}
+          />
+          <AudioBar
+            playHandler={() => {
+              GetHighlight();
+            }}
+            timestamp={timestamp}
+          />
 
-      <div className="flex justify-between items-center px-4 text-md font-medium mt-1">
-        <p className="w-20 text-left">{calcTime(currentTime * 0.001)}</p>
-        <AudioController timestamp={timestamp} playToggle={playToggle} />
-        <p className="w-20 text-right">{calcTime(timestamp.duration * 0.001)}</p>
-      </div>
-    </>}
-  </div>
+          <div className="flex justify-between items-center px-4 text-md font-medium mt-1">
+            <p className="w-20 text-left">{calcTime(currentTime * 0.001)}</p>
+            <AudioController timestamp={timestamp} playToggle={playToggle} />
+            <p className="w-20 text-right">{calcTime(timestamp.duration * 0.001)}</p>
+          </div>
+        </>
+      )}
+    </div>
+  );
 }

@@ -36,6 +36,7 @@ const quicksandFont = Quicksand({
   preload: true
 });
 
+
 export default function App({ Component, pageProps }: AppProps) {
   return <>
     <Head>

@@ -11,11 +11,12 @@ export default function AudioBar({ timestamp, playHandler }: { timestamp: Timest
     const percentage = (currentTime * 100) / timestamp.duration;
 
     const audioBar = document.querySelector<HTMLInputElement>(".audio-bar");
-    if (!audioBar) return;
+    if (!audioBar) return; // If the element is not found, do nothing
 
     audioBar.style.backgroundSize = `${percentage}% 100%`;
   }, [currentTime, timestamp]);
 
+  // arrow func
   const inputHandler = (e: FormEvent<HTMLInputElement>) => {
     if (!timestamp) return;
 
