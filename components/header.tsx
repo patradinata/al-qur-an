@@ -8,7 +8,7 @@ import Link from "next/link";
 
 const NewLink = ({ children, href }: { children: React.ReactNode; href: string }) => {
   return (
-    <Link href={href} className="w-fit py-2 px-3 bg-white rounded-full text-indigo-400 text-base hover:text-rose-400 hover:bg-slate-100 hover:glow">
+    <Link href={href} className="w-fit py-2 px-3 bg-white rounded-full text-indigo-400   text-base hover:text-rose-400 hover:bg-slate-100 hover:glow">
       {children}
     </Link>
   );

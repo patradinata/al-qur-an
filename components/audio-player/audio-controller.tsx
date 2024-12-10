@@ -23,7 +23,7 @@ function AudioControllerWithoutMemo({ playToggle, timestamp }: { playToggle: () 
     if (index < 0 || index >= timestamp.verse_timings.length) return;
     const verseTiming = timestamp.verse_timings[index]; //ambil verse timings berdasarkan index
     // Pastikan verseTimings ada dan timestamp_from tidak undefined
-           if (verseTiming && verseTiming.timestamp_from !== undefined) {
+    if (verseTiming && verseTiming.timestamp_from !== undefined) {
       audio.currentTime = verseTiming.timestamp_from * 0.001; //set current time Jika semua valid
     }
   };
