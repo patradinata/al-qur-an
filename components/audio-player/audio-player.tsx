@@ -53,6 +53,7 @@ export default function AudioPlayer() {
   const GetHighlight = () => {
     if (!currentTime || !timestamp) return;
     let newHighlight: string = "";
+    
 
     const verseTiming = timestamp.verse_timings.find((e) => e.timestamp_from <= currentTime && e.timestamp_to > currentTime && audioPlay);
     if (!verseTiming) return;

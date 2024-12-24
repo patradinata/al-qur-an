@@ -48,7 +48,7 @@ export default function Footer() {
           </a>
           .<br />
           Jika ada kesalahan pada terjemahan, pengetikan atau tampilan silakan buat issue pada repository{" "}
-          <a className="hover:text-sec-color-light underline hover:text-glow" href="https://github.com/patradinata">
+          <a className="hover:text-sec-color-light underline hover:text-glow" href="#">
             github
           </a>{" "}
           proyek ini atau hubungi saya lewat{" "}
