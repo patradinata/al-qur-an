@@ -55,7 +55,7 @@ export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefine
     <div className={`fixed w-full z-40 transition-all duration-100 ${isActive ? "top-0" : "-top-12"} ${!surahInfo && "dark:drop-shadow-md"}`}>
       <div className="flex justify-between items-center px-5 sm:px-8 h-12 bg-white dark:bg-pri-color-dark">
         <Link href={"/"}>
-          <h1 className="text-xl font-bold">Qur'anLet</h1>
+          <h1 className="text-xl font-bold">Al-Qur'an</h1>
         </Link>
         <Setting active={isActive} />
       </div>
