@@ -35,7 +35,7 @@ export const recommendations = [
 
 export default function Header({ data }: { data: SurahInfo[] }) {
   const [settings] = useAtom(settingAtom);
-
+  // setting header
   return (
     <header className=" bg-gradient-to-br dark:from-sec-color-dark dark:to-pri-color-dark from-pri-color-light to-thr-color-light flex-col p-2 pt-14 pb-8 flex">
       <div className="p-2 md:px-8">

@@ -1,4 +1,3 @@
-/* eslint-disable react/no-unescaped-entities */
 import Link from "next/link";
 import Setting from "../Setting/setting-button";
 import type { SurahInfo } from "@/types/surah-info-type";
@@ -25,7 +24,6 @@ export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefine
     const scrollHandler = () => {
       const currentScrollPos = window.scrollY;
       const scrollDelta = prevScrollPos - currentScrollPos;
-
       setActive(scrollDelta >= 0);
       setPrevScrollPos(currentScrollPos);
     };
@@ -37,6 +35,7 @@ export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefine
     };
 
     document.addEventListener("mousedown", clickHandler);
+
     document.addEventListener("scroll", scrollHandler);
     return () => {
       document.removeEventListener("mousedown", clickHandler);
@@ -46,16 +45,17 @@ export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefine
 
   useEffect(() => {
     const progressBar = document.querySelector<HTMLDivElement>(".progress-bar");
+
     if (!progressBar) return;
 
     progressBar.style.width = window.scrollY / ((document.body.scrollHeight - document.documentElement.clientHeight) / 100) + "vw";
   });
 
   return (
-    <div className={`fixed w-full z-40 transition-all duration-100 ${isActive ? "top-0" : "-top-12"} ${!surahInfo && "dark:drop-shadow-md"}`}>
-      <div className="flex justify-between items-center px-5 sm:px-8 h-12 bg-white dark:bg-pri-color-dark">
+    <div className={`fixed w-full z-40 transition-all duration-150 ease-in-out ${isActive ? "top-0" : "-top-12"} ${!surahInfo && "dark:drop-shadow-md"}`}>
+      <div className="flex justify-between items-center px-2 sm:px-8 h-12 bg-white dark:bg-pri-color-dark">
         <Link href={"/"}>
-          <h1 className="text-xl font-bold">Al-Qur'an</h1>
+          <h1 className="text-xl hover:text-slate-500 transition duration-300 ease-in-out font-bold text-sky-300 leading-3">Al-Qur'an</h1>
         </Link>
         <Setting active={isActive} />
       </div>
