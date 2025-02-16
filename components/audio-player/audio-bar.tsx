@@ -15,7 +15,7 @@ export default function AudioBar({ timestamp, playHandler }: { timestamp: Timest
 
     audioBar.style.backgroundSize = `${percentage}% 100%`;
   }, [currentTime, timestamp]);
-// input 
+// input   
   const inputHandler = (e: FormEvent<HTMLInputElement>) => {
     if (!timestamp) return;
 
