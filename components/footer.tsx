@@ -39,7 +39,7 @@ export default function Footer() {
   return (
     <div className="text-sm sm:text-base p-5 m-auto md:w-11/12 sm:flex sm:gap-32 mb-12 dark:border-zinc-300 border-t-2">
       <div className="flex-1 mb-10">
-        <h1 className="text-xl font-semibold">Quranlet</h1>
+        <h1 className="text-xl font-semibold">Al-Quran</h1>
         <h2 className="text-sm sm:text-base font-bold my-2">Al-Quran dengan terjemahan dan tafsir bahasa Indonesia</h2>
         <p>
           Proyek ini terinspirasi dari website{" "}

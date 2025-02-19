@@ -37,7 +37,7 @@ export default function Page({ data }: { data: Array<SurahInfo> }) {
       <Head>
         <link rel="preload" href="/quran.svg" as="image" type="image/svg+xml" />
       </Head>
-      <NextSeoWrapper title="AL-Quran Bahasa Indonesia" description="Al-Quran dengan terjamahan dan tafsir bahasa Indonesia" url="quranlet.vercel.app" />
+      <NextSeoWrapper title="AL-Quran Bahasa Indonesia" description="Al-Quran dengan terjemahan dan tafsir bahasa Indonesia" url="quranlet.vercel.app" />
       <Navbar />
       <Header data={data} />
       <div className="p-5 m-auto md:w-10/12 md:mt-4">
