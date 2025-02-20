@@ -12,20 +12,13 @@ export default function Search({ quranList }: { quranList: SurahInfo[] }) {
   const [isFocus, setFocus] = useState(false);
   const [isHover, setHover] = useState(false);
   const [searchResult, setResult] = useState<SurahInfo[]>([]);
-  const [error, setError] = useState<string | null>(null);
 
-  // Debounce
   useEffect(() => {
+    // membuat timer untuk debounce selama 300ms
     const delayDebounce = setTimeout(() => {
       // Melakukan filter pada daftar surah berdasarkan query pencarian
-      const result = quranList.filter((e) => search(e.name.toLowerCase(), searchQuery.toLowerCase()));
-      if (result.length === 0) {
-        setError("Tidak ditemukan hasil pencarian");
-      } else {
-        setError(null);
-      }
-      setResult(result);
-    }, 300); //Debounce selama 300ms
+      setResult(quranList.filter((e) => search(e.name.toLowerCase(), searchQuery.toLowerCase())));
+    }, 400); //Debounce selama 300ms
     // Membersihkan timer sebelumnya jika searchQuery berubah sebelum 300ms
     return () => clearTimeout(delayDebounce);
   }, [searchQuery, quranList]);
@@ -55,15 +48,11 @@ export default function Search({ quranList }: { quranList: SurahInfo[] }) {
         />
         <CSSTransition in={searchQuery !== "" && isFocus} unmountOnExit timeout={100} classNames={"search-suggest"}>
           <div className="z-[5] absolute top-[70px] sm:top-16 drop-shadow-[0_0_3px_rgba(0,0,0,0.5)] w-[95%] max-h-[15rem] overflow-hidden bg-white rounded-lg flex flex-col sm:w-[87%]">
-            {error ? (
-              <p className="p-2 text-gray-500">{error}</p>
-            ) : (
-              searchResult.map((e) => (
-                <Link className="p-2 rounded cursor-pointer hover:bg-gray-200" key={e.surah_number} href={`/${e.surah_number}`}>
-                  {e.name}
-                </Link>
-              ))
-            )}
+            {searchResult.map((e) => (
+              <Link className="p-2 rounded cursor-pointer hover:bg-gray-200" key={e.surah_number} href={`/${e.surah_number}`}>
+                {e.name}
+              </Link>
+            ))}
           </div>
         </CSSTransition>
         <Link
