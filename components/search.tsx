@@ -32,7 +32,7 @@ export default function Search({ quranList }: { quranList: SurahInfo[] }) {
           type="search"
           name="search"
           id="search"
-          enterKeyHint="search"
+          enterKeyHint="enter"
           aria-describedby="search-here"
           className="relative search-query rounded-l-full p-2 pl-8 h-14 w-11/12 outline-none border-2 border-gray-200 focus:border-blue-500 duration-300 ease-in-out transition-all"
           onBlur={() => {
