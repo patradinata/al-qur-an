@@ -60,12 +60,76 @@
   --pri-color-light: #83eaf1;
   --sec-color-light: #6dbafb;
   --thr-color-light: #63a4ff;
+
   --pri-color-dark: #252933;
   --sec-color-dark: #313746;
   --thr-color-dark: #6d7476;
-  --spi-color-spi: #f8ebd5;
-  /* --spi-color-spii: #dbccb3;
-  --spi-color-spii: #fff7ea;  */
+
+  /* 🎨 Warna Sepia */
+  --sephia-color: #d5c2a1; /* Warna latar utama */
+  --sephia-color-dark: #e5d5b5; /* Warna latar lebih terang */
+  --sephia-color-dark-one: #f3e1c8; /* Warna latar lebih soft */
+  --sephia-text-color: #4a3828; /* Warna teks lebih gelap */
+  --sephia-link-color: #8c5a3a; /* Warna link */
+  --sephia-hover-color: #a66a42; /* Warna link hover */
+}
+
+/* 🌟 Mode Sepia */
+[data-theme="sepia"] {
+  --pri-color-dark: var(--sephia-color-dark);
+  --sec-color-dark: var(--sephia-color-dark-one);
+  --thr-color-dark: var(--sephia-color);
+  --text-color: var(--sephia-text-color);
+
+  background-color: var(--pri-color-dark);
+  color: var(--text-color);
+}
+
+/* 🔥 Pastikan semua teks mengikuti warna Sepia */
+[data-theme="sepia"] body,
+[data-theme="sepia"] h1,
+[data-theme="sepia"] h2,
+[data-theme="sepia"] h3,
+[data-theme="sepia"] p,
+[data-theme="sepia"] ul li,
+[data-theme="sepia"] div,
+[data-theme="sepia"] span {
+  color: var(--sephia-text-color);
+}
+
+/* 🎨 Warna link agar kontras */
+[data-theme="sepia"] a {
+  color: var(--sephia-link-color);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+[data-theme="sepia"] a:hover {
+  color: var(--sephia-hover-color);
+  /* text-decoration: underline; */
+}
+
+/* 🌟 Pastikan tombol juga mengikuti tema Sepia */
+[data-theme="sepia"] button {
+  /* background-color: var(--sephia-color); */
+  color: var(--sephia-text-color);
+  /* border: 1px solid var(--sephia-text-color); */
+  padding: 8px 12px;
+  border-radius: 5px;
+  transition: all 0.3s ease;
+}
+
+[data-theme="sepia"] button:hover {
+  background-color: var(--sephia-text-color);
+  color: var(--sephia-color-dark-one);
+}
+
+.sepia-light {
+  --icon-color: #8b6f47;
+}
+
+.sepia-dark {
+  --icon-color: #5a4a3a;
 }
 
 html {
