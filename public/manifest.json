@@ -1,6 +1,6 @@
 {
-  "name": "QuranLet",
-  "short_name": "QuranLet",
+  "name": "Al-Quran",
+  "short_name": "Al-Quran",
   "icons": [
     {
       "src": "/logo/logo-192x.png",
@@ -26,11 +26,26 @@
       "purpose": "maskable"
     }
   ],
+
   "theme_color": "#FFFFFF",
   "background_color": "#FFFFFF",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
   "categories": ["books", "education"],
-  "description": "Al-Quran dengan terjamahan dan tafsir bahasa Indonesia."
+  "description": "Al-Quran dengan terjamahan dan tafsir bahasa Indonesia.",
+  "screenshots": [
+    {
+      "src": "/screenshot-desktop.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    },
+    {
+      "src": "/screenshot-mobile.png",
+      "sizes": "400x800",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
 }
