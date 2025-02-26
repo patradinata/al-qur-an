@@ -25,7 +25,7 @@ export default function VersesContainer() {
 
       scrollToElement(verseElement);
     }, 300);
-  }, [router.isReady, surahInfo])
+  }, [router.isReady, surahInfo]);
 
   useEffect(() => {
     if (!surahInfo || recentlyRead.length == 0) return;
@@ -34,32 +34,31 @@ export default function VersesContainer() {
       recentlyRead.pop();
     }
 
-    setRecentlyRead([{
-      surahInfo,
-      ayah: currentVerse
-    }, ...recentlyRead]);
-  }, [router.asPath])
+    setRecentlyRead([
+      {
+        surahInfo,
+        ayah: currentVerse,
+      },
+      ...recentlyRead,
+    ]);
+  }, [router.asPath]);
 
   useEffect(() => {
     if (!recentlyRead || currentVerse == "1") return;
 
     recentlyRead.splice(0, 1, {
       surahInfo,
-      ayah: currentVerse
+      ayah: currentVerse,
     });
 
     setRecentlyRead(recentlyRead);
-  }, [currentVerse])
+  }, [currentVerse]);
 
   useEffect(() => {
     if (!surahInfo) return;
 
-    setPages(Array.from({ length: (Math.ceil(surahInfo?.ayahs / 6)) }, (_, i) => undefined))
+    setPages(Array.from({ length: Math.ceil(surahInfo?.ayahs / 6) }, (_, i) => undefined));
   }, [surahInfo]);
 
-  return <div>{
-    pages &&
-    pages.map((e, i) => <VerseBox id={i + 1} key={i} />)
-  }
-  </div>
+  return <div>{pages && pages.map((e, i) => <VerseBox id={i + 1} key={i} />)}</div>;
 }

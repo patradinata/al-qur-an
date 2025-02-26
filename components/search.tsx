@@ -14,7 +14,7 @@ export default function Search({ quranList }: { quranList: SurahInfo[] }) {
   const [searchResult, setResult] = useState<SurahInfo[]>([]);
 
   useEffect(() => {
-    // membuat timer untuk debounce selama 300ms
+    // Fungsi debounce
     const delayDebounce = setTimeout(() => {
       // Melakukan filter pada daftar surah berdasarkan query pencarian
       setResult(quranList.filter((e) => search(e.name.toLowerCase(), searchQuery.toLowerCase())));

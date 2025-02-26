@@ -47,15 +47,19 @@ export default function Footer() {
             quran.com
           </a>
           .<br />
-          Jika ada kesalahan pada terjemahan, pengetikan atau tampilan silakan buat issue pada repository{" "}
-          <a className="hover:text-sec-color-light underline hover:text-glow" href="#">
-            github
-          </a>{" "}
-          proyek ini atau hubungi saya lewat{" "}
+          Jika ada kesalahan pada terjemahan, pengetikan atau tampilan <a className="hover:text-sec-color-light underline hover:text-glow" href="#"></a> pada proyek ini silakan hubungi saya lewat{" "}
           <a className="hover:text-sec-color-light underline hover:text-glow" href="https://www.instagram.com/patra_dinata">
             IG
           </a>
           .
+          <br />
+        </p>
+        <p className="text-xs font-medium sm:text-sm">
+          &copy; 2024 Patra-Dinata |{" "}
+          <a href="#" className="font-normal text-sm hover:text-sec-color-light hover:text-glow">
+            Al-quran.App
+          </a>{" "}
+          All rights reserved
         </p>
       </div>
       <div className="flex-1">

@@ -65,7 +65,7 @@
   --sec-color-dark: #313746;
   --thr-color-dark: #6d7476;
 
-  /* 🎨 Warna Sepia */
+  
   --sephia-color: #d5c2a1; /* Warna latar utama */
   --sephia-color-dark: #e5d5b5; /* Warna latar lebih terang */
   --sephia-color-dark-one: #f3e1c8; /* Warna latar lebih soft */
@@ -100,7 +100,7 @@
 /* 🎨 Warna link agar kontras */
 [data-theme="sepia"] a {
   color: var(--sephia-link-color);
-  text-decoration: none;
+
   font-weight: 600;
 }
 
@@ -111,17 +111,15 @@
 
 /* 🌟 Pastikan tombol juga mengikuti tema Sepia */
 [data-theme="sepia"] button {
-  /* background-color: var(--sephia-color); */
   color: var(--sephia-text-color);
   /* border: 1px solid var(--sephia-text-color); */
   padding: 8px 12px;
-  border-radius: 5px;
   transition: all 0.3s ease;
 }
 
 [data-theme="sepia"] button:hover {
-  background-color: var(--sephia-color);
-  color: var(--sephia-color-dark-one);
+  /* background-color: var(--sephia-color); */
+  color: white;
 }
 
 html {

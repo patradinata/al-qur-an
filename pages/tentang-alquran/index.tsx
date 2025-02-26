@@ -24,18 +24,18 @@ export default function Page() {
       <div className="mx-6 lg:mx-64 sm:mx-20 text-sm sm:text-base text-justify flex flex-col gap-3 mt-24 mb-10">
         <h1 className="h1">Pengertian Al-Quran</h1>
         <p>
-          Al-Quran berasal dari bahasa Arab yang artinya bacaan. Sebagian ulama menyebutkan bahwa kata Al-Quran adalah masdar yang di artikan dengan isim maf’ul, yakni maqru’ artinya sesuatu yang di baca. Maksudnya, Al-qur’an itu adalah
-          bacaan yang di baca.
+          Al-Qur&rsquo;an berasal dari bahasa Arab yang artinya bacaan. Sebagian ulama menyebutkan bahwa kata Al-Quran adalah masdar yang di artikan dengan isim maf’ul, yakni maqru’ artinya sesuatu yang di baca. Maksudnya, Al-qur’an itu
+          adalah bacaan yang di baca.
         </p>
         <p>
-          Al-Qur’an merupakan kalam Allah Subhanahu wa Ta’ala yang disampaikan kepada Rasulullah shallallahu ‘alaihi wasallam melalui perantaraan Jibril. Meskipun kalam (perkataan) juga dimiliki oleh manusia dan jin, malaikat, bahkan hewan,
-          tentu saja kalam Allah Subhanahu wa Ta’ala berbeda dari kalam makhluk. Diturunkannya Al-Qur’an dengan bahasa yang dipergunakan manusia tidak membuat Al-Qur’an secara otomatis bukan kalam Allah, dan tidak pula mencabut sisi Ilahiah
-          dan kesucian Al-Qur’an.
+          Al-Qur&rsquo;an merupakan kalam Allah Subhanahu wa Ta’ala yang disampaikan kepada Rasulullah shallallahu ‘alaihi wasallam melalui perantaraan Jibril. Meskipun kalam (perkataan) juga dimiliki oleh manusia dan jin, malaikat, bahkan
+          hewan, tentu saja kalam Allah Subhanahu wa Ta’ala berbeda dari kalam makhluk. Diturunkannya Al-Qur’an dengan bahasa yang dipergunakan manusia tidak membuat Al-Qur’an secara otomatis bukan kalam Allah, dan tidak pula mencabut sisi
+          Ilahiah dan kesucian Al-Qur&rsquo;an.
         </p>
-        <p>Secara istilah, Al-qur’an adalah wahyu Allah SWT yang di turunkan kepada Nabi Muhammad SAW, untuk di sampaikan umatnya secara berangsur-angsur melalui Malaikat Jibril dan membacanya adalah ibadah.</p>
-        <p>Al-Quran adalah sumber hukum Islam yang pertama. Al-Quran sebagai sumber hukum dan pedoman hidup umat manusia memiliki beberapa keistimewaan dan kelebihan di banding dengan kitab-kibat suci lainnya sebagai berikut :</p>
+        <p>Secara istilah, Al-qur&rsquo;an adalah wahyu Allah SWT yang di turunkan kepada Nabi Muhammad SAW, untuk di sampaikan umatnya secara berangsur-angsur melalui Malaikat Jibril dan membacanya adalah ibadah.</p>
+        <p>Al-Qur&rsquo;an adalah sumber hukum Islam yang pertama. Al-Quran sebagai sumber hukum dan pedoman hidup umat manusia memiliki beberapa keistimewaan dan kelebihan di banding dengan kitab-kibat suci lainnya sebagai berikut :</p>
         <ul className="list-disc pl-8">
-          <li>Al-quran memuat ringkasan mengenai ajaran-ajaran tentang ketuhanan yang pernah tertulis di kitab-kitab lainnya (sebelumnya) seperti Zabur, Taurat dan Injil.</li>
+          <li>Al-qur&rsquo;an memuat ringkasan mengenai ajaran-ajaran tentang ketuhanan yang pernah tertulis di kitab-kitab lainnya (sebelumnya) seperti Zabur, Taurat dan Injil.</li>
           <li>Al-quran memuat kalam-kalam Allah yang menjadi pedoman hidup manusia sepanjang masa.</li>
           <li>Al-quran adalah sumber ilmu pengetahuan sehingga seluruh fenomena yang terjadi di alam semesta tidak akan pernah berlawanan dengan apa yang Allah SWT ciptakan.</li>
           <li>
@@ -86,18 +86,18 @@ export default function Page() {
           </p>
           <li> Sebagai Peringatan dan Pelajaran Bagi Manusia</li>
           <p>
-            Al-Qur &lsquan juga berfungsi sebagai peringatan dan pelajaran bagi umat umat manusia, dimana banyak menerangkan kisah para nabi dan umat terdahulu baik yang taat dalam melaksanakan perintah Allah SWT dan juga yang ingkar dan
+            Al-Qur&rsquo;an juga berfungsi sebagai peringatan dan pelajaran bagi umat umat manusia, dimana banyak menerangkan kisah para nabi dan umat terdahulu baik yang taat dalam melaksanakan perintah Allah SWT dan juga yang ingkar dan
             tidak mentaati perintah Allah SWT.
           </p>
           <p>Sehingga dengan demikian kita dapat mengetahui dan menjadikan pembelajaran dari kisah-kisah yang ada di dalam Al-Qur’an.</p>
           <li>Asy Syifa (Sebagai Penyembuh)</li>
           <p>
-            Fungsi Al-Quran selanjutnya adalah sebagai penyembuh atau obat dari berbagai macam persoalan. Penyakit yang ada pada manusia bukan hanya penyakit fisik saja, melainkan penyakit hati, susasana hati dan lain sebagainya. Karena itu
-            Al-Quran diturunkan sebagai penyembuh dan obat dari berbagai macam penyakit dan persoalan. InsyaAllah.
+            Fungsi Al-Qur&rsquo;an selanjutnya adalah sebagai penyembuh atau obat dari berbagai macam persoalan. Penyakit yang ada pada manusia bukan hanya penyakit fisik saja, melainkan penyakit hati, susasana hati dan lain sebagainya.
+            Karena itu Al-Qur&rsquo;an diturunkan sebagai penyembuh dan obat dari berbagai macam penyakit dan persoalan. InsyaAllah.
           </p>
         </ol>
 
-        <h1 className="h1">Apakah Al-Quran terjaga keasliannya?</h1>
+        <h1 className="h1">Apakah Al-Qur&rsquo;an terjaga keasliannya?</h1>
         <p>Kebenaran Al-Quran adalah sesuatu yang pasti. Karena Al-Quran merupakan perkataan Allah SWT yang Maha Benar. Dan Allah SWT menjamin keaslian Al-Quran :</p>
         <Arabic text="إِنَّانَحْنُنَزَّلْنَاٱلذِّكْرَوَإِنَّالَهُۥلَحَـٰفِظُونَ" ayah="٩" />
         <p>

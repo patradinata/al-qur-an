@@ -33,19 +33,5 @@
   "display": "standalone",
   "orientation": "portrait",
   "categories": ["books", "education"],
-  "description": "Al-Quran dengan terjamahan dan tafsir bahasa Indonesia.",
-  "screenshots": [
-    {
-      "src": "/screenshot-desktop.png",
-      "sizes": "1280x720",
-      "type": "image/png",
-      "form_factor": "wide"
-    },
-    {
-      "src": "/screenshot-mobile.png",
-      "sizes": "400x800",
-      "type": "image/png",
-      "form_factor": "narrow"
-    }
-  ]
+  "description": "Al-Quran dengan terjamahan dan tafsir bahasa Indonesia."
 }

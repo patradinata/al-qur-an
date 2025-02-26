@@ -20,7 +20,7 @@ function AudioControllerWithoutMemo({ playToggle, timestamp }: { playToggle: () 
     console.log("Current Verse Index:", verseIndex);
 
     if (!timestamp || !timestamp.verse_timings) {
-      console.log("Timestamp data is missing");
+      console.log("Timsestamp is missing!", timestamp);
       return;
     }
 
