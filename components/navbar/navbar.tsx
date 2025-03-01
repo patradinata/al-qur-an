@@ -68,7 +68,7 @@ export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefine
                 <FontAwesomeIcon icon={faChevronDown} size="sm" className={`${surahNav && "rotate-180"} transition-transform duration-200`} />
               </div>
             </div>
-            <CSSTransition nodeRef={ref} in={surahNav} timeout={300} unmountOnExit classNames={"surah-nav"}>
+            <CSSTransition nodeRef={ref} in={surahNav} timeout={400} unmountOnExit classNames={"surah-nav"}>
               <div ref={ref} className="z-[-1] absolute rounded-md p-2 w-fit flex bg-white translate-y-2 left-4 right-4 sm:left-8 dark:bg-sec-color-dark drop-shadow-md">
                 <div className="flex gap-1 font-normal">
                   <SurahNav quran={quran} />

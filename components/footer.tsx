@@ -59,12 +59,13 @@ export default function Footer() {
           <a href="#" className="font-normal text-sm hover:text-sec-color-light hover:text-glow">
             Al-quran.App
           </a>{" "}
-          All rights reserved
+          All rights reserved.
         </p>
+        <p className="font-medium hover:text-blue-400">Hak cipta dilindungi undang-undang</p>
       </div>
       <div className="flex-1">
         <h1 className="text-sm sm:text-base mb-2 font-semibold">Rekomendasi</h1>
-        <div className="flex flex-wrap gap-2">
+        <div className="flex flex-wrap gap-3">
           {recommendations.map(({ name, href }, i) => (
             <Link className="p-2 border-[1.5px] rounded w-fit hover:text-sec-color-light hover:border-sec-color-light hover:glow" key={i} href={href}>
               {name}
