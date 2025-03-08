@@ -14,28 +14,37 @@ export default function SurahNav({ quran }: { quran: Array<SurahInfo> | undefine
 
   useEffect(() => {
     if (!quran) return;
-    setResult(quran?.filter((e) => search(`${e.surah_number}. ${e.name}`.toLowerCase(), searchQuery.toLowerCase())))
-  }, [searchQuery])
+    setResult(quran?.filter((e) => search(`${e.surah_number}. ${e.name}`.toLowerCase(), searchQuery.toLowerCase())));
+  }, [searchQuery]);
 
-  if (!quran || !surahInfo) return <></>;
+  if (!quran || !surahInfo) return;
 
-  return <div className="w-44">
-    <SearchBar inputHandler={(e) => setQuery(e.currentTarget.value)} placeholder="Cari Surah" />
-    <div className="max-h-80 overflow-y-scroll flex flex-col">
-      {searchQuery === "" ? quran.map((e) => <Link
-        key={e.surah_number}
-        href={`/${e.surah_number}`}
-        className={`p-2 rounded-md hover:bg-slate-100 dark:hover:bg-pri-color-dark cursor-pointer ${surahInfo.name == e.name ? "font-semibold bg-slate-100 dark:bg-pri-color-dark" : ""}`}
-      >
-        {e.surah_number}. {e.name}
-      </Link>) :
-        searchResult.map((e) => <Link
-          key={e.surah_number}
-          href={`/${e.surah_number}`}
-          className={`p-2 rounded-md hover:bg-slate-100 dark:hover:bg-pri-color-dark cursor-pointer ${surahInfo.name == e.name ? "font-semibold bg-slate-100 dark:bg-pri-color-dark" : ""}`}
-        >
-          {e.surah_number}. {e.name}
-        </Link>)}
+  <></>;
+
+  return (
+    <div className="w-44">
+      <SearchBar inputHandler={(e) => setQuery(e.currentTarget.value)} placeholder="Cari Surah" />
+      <div className="max-h-80 overflow-y-scroll flex flex-col">
+        {searchQuery === ""
+          ? quran.map((e) => (
+              <Link
+                key={e.surah_number}
+                href={`/${e.surah_number}`}
+                className={`p-2 rounded-md hover:bg-slate-100 dark:hover:bg-pri-color-dark cursor-pointer ${surahInfo.name == e.name ? "font-semibold bg-slate-100 dark:bg-pri-color-dark" : ""}`}
+              >
+                {e.surah_number}. {e.name}
+              </Link>
+            ))
+          : searchResult.map((e) => (
+              <Link
+                key={e.surah_number}
+                href={`/${e.surah_number}`}
+                className={`p-2 rounded-md hover:bg-slate-100 dark:hover:bg-pri-color-dark cursor-pointer ${surahInfo.name == e.name ? "font-semibold bg-slate-100 dark:bg-pri-color-dark" : ""}`}
+              >
+                {e.surah_number}. {e.name}
+              </Link>
+            ))}
+      </div>
     </div>
-  </div>
+  );
 }

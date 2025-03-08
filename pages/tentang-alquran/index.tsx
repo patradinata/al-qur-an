@@ -28,9 +28,9 @@ export default function Page() {
           adalah bacaan yang di baca.
         </p>
         <p>
-          Al-Qur&rsquo;an merupakan kalam Allah Subhanahu wa Ta’ala yang disampaikan kepada Rasulullah shallallahu ‘alaihi wasallam melalui perantaraan Jibril. Meskipun kalam (perkataan) juga dimiliki oleh manusia dan jin, malaikat, bahkan
-          hewan, tentu saja kalam Allah Subhanahu wa Ta’ala berbeda dari kalam makhluk. Diturunkannya Al-Qur’an dengan bahasa yang dipergunakan manusia tidak membuat Al-Qur’an secara otomatis bukan kalam Allah, dan tidak pula mencabut sisi
-          Ilahiah dan kesucian Al-Qur&rsquo;an.
+          Al-Qur&rsquo;an merupakan kalam Allah Subhanahu wa Ta’ala yang disampaikan kepada Rasulullah shallallahu ‘alaihi wasallam melalui perantaraan malaikat Jibril. Meskipun kalam (perkataan) juga dimiliki oleh manusia dan jin,
+          malaikat, bahkan hewan, tentu saja kalam Allah Subhanahu wa Ta’ala berbeda dari kalam makhluk. Diturunkannya Al-Qur’an dengan bahasa yang dipergunakan manusia tidak membuat Al-Qur’an secara otomatis bukan kalam Allah, dan tidak
+          pula mencabut sisi Ilahiah dan kesucian Al-Qur&rsquo;an.
         </p>
         <p>Secara istilah, Al-qur&rsquo;an adalah wahyu Allah SWT yang di turunkan kepada Nabi Muhammad SAW, untuk di sampaikan umatnya secara berangsur-angsur melalui Malaikat Jibril dan membacanya adalah ibadah.</p>
         <p>Al-Qur&rsquo;an adalah sumber hukum Islam yang pertama. Al-Quran sebagai sumber hukum dan pedoman hidup umat manusia memiliki beberapa keistimewaan dan kelebihan di banding dengan kitab-kibat suci lainnya sebagai berikut :</p>
@@ -39,7 +39,8 @@ export default function Page() {
           <li>Al-quran memuat kalam-kalam Allah yang menjadi pedoman hidup manusia sepanjang masa.</li>
           <li>Al-quran adalah sumber ilmu pengetahuan sehingga seluruh fenomena yang terjadi di alam semesta tidak akan pernah berlawanan dengan apa yang Allah SWT ciptakan.</li>
           <li>
-            Al-quran di turunkan oleh Allah SWT, dengan suatu gaya bahasa yang istimewa, mudah, tidak sulit bagi siapa pun untuk memahaminya dan tidak sulit pula mengamalkannya, jika disertai dengan keikhlasan hati dan kemauan yang kuat.
+            Al-quran di turunkan oleh Allah SWT, dengan suatu gaya bahasa yang istimewa, mudah, tidak sulit bagi siapa pun untuk memahaminya dan tidak sulit pula untuk mengamalkannya, jika disertai dengan keikhlasan hati dan kemauan yang
+            kuat.
           </li>
         </ul>
 

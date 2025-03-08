@@ -35,10 +35,9 @@ export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefine
     };
 
     document.addEventListener("mousedown", clickHandler);
-
     document.addEventListener("scroll", scrollHandler);
     return () => {
-      document.removeEventListener("mousedown", clickHandler);
+      document.removeEventListener("click", clickHandler);
       document.removeEventListener("scroll", scrollHandler);
     };
   });
@@ -52,23 +51,23 @@ export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefine
   });
 
   return (
-    <div className={`fixed w-full z-40 transition-all duration-150 ease-in-out ${isActive ? "top-0" : "-top-12"} ${!surahInfo && "dark:drop-shadow-md"}`}>
-      <div className="flex justify-between items-center px-2 sm:px-8 h-12 bg-white dark:bg-pri-color-dark">
-        <Link href={"/"}>
-          <h1 className="text-xl hover:text-blue-300 transition duration-500 ease-in-out font-bold leading-3">Al-Quran</h1>
+    <div className={`fixed w-full  z-40 transition-all duration-200 ease-in-out ${isActive ? "top-0" : "-top-12"} ${!surahInfo && "dark:drop-shadow-md"}`}>
+      <div className="flex justify-between items-center py-8 px-2 sm:px-8 h-12 bg-white dark:bg-pri-color-dark">
+        <Link href="/">
+          <h1 className="text-xl hover:text-blue-400 transition-all duration-500 ease-in-out font-bold leading-3">Al-Quran</h1>
         </Link>
         <Setting active={isActive} />
       </div>
       {surahInfo && (
         <>
           <div className="overflow-x-hidden w-screen">
-            <div className="px-5 sm:px-8 py-1 bg-white dark:bg-pri-color-dark drop-shadow-[0_3px_0px_rgba(0,0,0,0.1)]">
+            <div className="px-5 sm:px-8 py-2 bg-white dark:bg-pri-color-dark  drop-shadow-[0_3px_0px_rgba(0,0,0,, 0.1)]">
               <div className="w-fit flex items-center gap-1 cursor-pointer font-semibold" onClick={() => setSurahNav(!surahNav)}>
                 <span>{surahInfo.name}</span>
                 <FontAwesomeIcon icon={faChevronDown} size="sm" className={`${surahNav && "rotate-180"} transition-transform duration-200`} />
               </div>
             </div>
-            <CSSTransition nodeRef={ref} in={surahNav} timeout={400} unmountOnExit classNames={"surah-nav"}>
+            <CSSTransition nodeRef={ref} in={surahNav} timeout={300} unmountOnExit classNames={"surah-nav"}>
               <div ref={ref} className="z-[-1] absolute rounded-md p-2 w-fit flex bg-white translate-y-2 left-4 right-4 sm:left-8 dark:bg-sec-color-dark drop-shadow-md">
                 <div className="flex gap-1 font-normal">
                   <SurahNav quran={quran} />
@@ -76,7 +75,7 @@ export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefine
                 </div>
               </div>
             </CSSTransition>
-            <div className="progress-bar h-[3px] bg-sec-color-light" />
+            <div className="progress-bar h-[3px] bg-sec-color-light"></div>
           </div>
         </>
       )}

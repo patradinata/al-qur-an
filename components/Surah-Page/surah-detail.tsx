@@ -45,7 +45,7 @@ export default function SurahDetailButton() {
     <>
       <button onClick={() => setActive(!isActive)} className="flex items-center h-7 dark:hover:bg-sec-color-dark hover:bg-slate-200 px-2 pr-4 rounded transition-all">
         <p className={`text-sec-color-light font-semibold`}>Detail Surah</p>
-        <FontAwesomeIcon icon={faInbox} size="sm" className={`z-[2] ml-1 -mr-[9px] text-white py-1 px-2 rounded-full transition-all}`}></FontAwesomeIcon>
+        <FontAwesomeIcon icon={faInfo} size="sm" className={`z-[2] ml-1 -mr-[9px] text-white py-1 px-2 rounded-full transition-all}`}></FontAwesomeIcon>
       </button>
       <div
         ref={infoRef}

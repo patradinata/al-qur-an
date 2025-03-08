@@ -65,7 +65,6 @@
   --sec-color-dark: #313746;
   --thr-color-dark: #6d7476;
 
-  
   --sephia-color: #d5c2a1; /* Warna latar utama */
   --sephia-color-dark: #e5d5b5; /* Warna latar lebih terang */
   --sephia-color-dark-one: #f3e1c8; /* Warna latar lebih soft */
@@ -259,11 +258,13 @@ sup {
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: rgba(0, 0, 0, 0.4);
+  /* background: rgba(0, 0, 0, 0.2); */
   border-radius: 5px;
+  background: #6dbafb;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: rgba(0, 0, 0, 0.6);
+  background: #74c0ff;
+  /* background: rgba(0, 0, 0, 0.4); */
 }

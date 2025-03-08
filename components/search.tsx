@@ -19,7 +19,7 @@ export default function Search({ quranList }: { quranList: SurahInfo[] }) {
       // Melakukan filter pada daftar surah berdasarkan query pencarian
       setResult(quranList.filter((e) => search(e.name.toLowerCase(), searchQuery.toLowerCase())));
     }, 300); //Debounce selama 300ms
-    // Membersihkan timer sebelumnya jika searchQuery berubah sebelum 300ms
+
     return () => clearTimeout(delayDebounce);
   }, [searchQuery, quranList]);
 
@@ -28,7 +28,7 @@ export default function Search({ quranList }: { quranList: SurahInfo[] }) {
       <div className="flex relative items-center w-full m-auto mb-2 text-gray-700 sm:w-4/6 md:w-3/6 p-2 sm:p-0">
         <input
           autoComplete="off"
-          placeholder=" Surah Apa yang ingin kamu baca ?"
+          placeholder=" Apa yang ingin kamu baca ?"
           type="search"
           name="search"
           id="search"

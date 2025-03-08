@@ -55,13 +55,13 @@ export default function Footer() {
           <br />
         </p>
         <p className="text-xs font-medium sm:text-sm">
-          &copy; 2024 Patra-Dinata |{" "}
+          &copy; 2025 Patra-Dinata |{" "}
           <a href="#" className="font-normal text-sm hover:text-sec-color-light hover:text-glow">
             Al-quran.App
           </a>{" "}
           All rights reserved.
         </p>
-        <p className="font-medium hover:text-blue-400">Hak cipta dilindungi undang-undang</p>
+        <p className="font-medium hover:text-blue-400">Hak cipta dilindungi undang-undang.</p>
       </div>
       <div className="flex-1">
         <h1 className="text-sm sm:text-base mb-2 font-semibold">Rekomendasi</h1>
