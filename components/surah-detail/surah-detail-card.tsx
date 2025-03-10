@@ -5,7 +5,7 @@ import { detailCanvasAtom } from "../atoms/surah-detail-atom";
 import { surahInfoAtom } from "../atoms/surah-info-atom";
 import Button from "../Surah-Page/button";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faInfo } from "@fortawesome/free-solid-svg-icons";
+import { faXmark } from "@fortawesome/free-solid-svg-icons";
 import DetailContainer from "./detail-container";
 
 export default function SurahDetailCard() {
@@ -34,7 +34,7 @@ export default function SurahDetailCard() {
         <div ref={ref} className="w-11/12 md:w-9/12 bg-white dark:bg-sec-color-dark dark:shadow-lg m-auto rounded-xl p-6 md:p-8">
           <DetailContainer>
             <Button onClick={clickHandler}>
-              <FontAwesomeIcon icon={faInfo} size="xl" />
+              <FontAwesomeIcon icon={faXmark} size="xl" />
             </Button>
           </DetailContainer>
         </div>
