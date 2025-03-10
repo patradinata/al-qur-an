@@ -17,7 +17,7 @@ export default function SurahNav({ quran }: { quran: Array<SurahInfo> | undefine
     setResult(quran?.filter((e) => search(`${e.surah_number}. ${e.name}`.toLowerCase(), searchQuery.toLowerCase())));
   }, [searchQuery]);
 
-  if (!quran || !surahInfo) return;
+  if (!quran || !surahInfo) return null;
 
   <></>;
 
