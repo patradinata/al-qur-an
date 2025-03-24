@@ -36,10 +36,6 @@ export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefine
 
     document.addEventListener("mousedown", clickHandler);
     document.addEventListener("scroll", scrollHandler);
-    return () => {
-      document.removeEventListener("click", clickHandler);
-      document.removeEventListener("scroll", scrollHandler);
-    };
   });
 
   useEffect(() => {

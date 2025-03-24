@@ -50,6 +50,7 @@ export default function AudioPlayer() {
     setAudioPlay(false);
   }, []);
 
+  // Fungsi untuk mendapatkan highlight
   const GetHighlight = () => {
     if (!currentTime || !timestamp) return;
     let newHighlight: string = "";
@@ -84,7 +85,7 @@ export default function AudioPlayer() {
             timestamp={timestamp}
           />
 
-          <div className="flex justify-between items-center px-4 text-md font-medium mt-1">
+          <div className="flex justify-between items-center text-md font-medium px-4 mt-1">
             <p className="w-20 text-left">{calcTime(currentTime * 0.001)}</p>
             <AudioController timestamp={timestamp} playToggle={playToggle} />
             <p className="w-20 text-right">{calcTime(timestamp.duration * 0.001)}</p>
@@ -94,3 +95,27 @@ export default function AudioPlayer() {
     </div>
   );
 }
+
+// fetch(``)
+//   .then((res) => res.json())
+//   .then((data) => console.log(data))
+//   .catch((err) => console.error(err));
+
+// const users = [
+//   {
+//     name: "Budi",
+//     alamat: "Krui Pesisir Barat",
+//     usia: 20,
+//   },
+// ];
+
+// const userName = users.filter((user) => user.name === "Budi");
+
+// console.log(userName);
+
+fetch(`/api/timestamp?surah=1`)
+  .then((res) => res.json())
+  .then((data) => console.log(data))
+  .catch((err) => console.error(err));
+
+// Ini adalah contoh penggunaan High Irder Function dengan menggunakan method filter untuk memfilter objek didalam array

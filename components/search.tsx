@@ -7,6 +7,7 @@ import { SurahInfo } from "@/types/surah-info-type";
 import { search } from "@/utils/search";
 import Link from "next/link";
 
+// Komponen Search
 export default function Search({ quranList }: { quranList: SurahInfo[] }) {
   const [searchQuery, setQuery] = useState("");
   const [isFocus, setFocus] = useState(false);
@@ -28,7 +29,7 @@ export default function Search({ quranList }: { quranList: SurahInfo[] }) {
       <div className="flex relative items-center w-full m-auto mb-2 text-gray-700 sm:w-4/6 md:w-3/6 p-2 sm:p-0">
         <input
           autoComplete="off"
-          placeholder=" Apa yang ingin kamu baca ?"
+          placeholder=" Surah Apa yang ingin kamu baca ?"
           type="search"
           name="search"
           id="search"

@@ -55,7 +55,9 @@ function Verses({ verses, id, highlight }: { verses: VersesType; id: string; hig
     }
   }, [surahInfo]);
 
-  const scrollHandler = () => {
+  const scrollHandler = () => {      
+
+    
     if (!ref.current) return;
 
     const rect = ref.current.getBoundingClientRect();
@@ -76,6 +78,7 @@ function Verses({ verses, id, highlight }: { verses: VersesType; id: string; hig
     }
   };
 
+  // fungsi untuk memparse footNote
   const parseStringToElement = (text: string) => {
     const footNoteId = text.match(/"\d+"/g)?.[0].replace(/"/g, "");
     const footNoteNumber = text.match(/>\d+/g)?.[0].replace(">", "");
@@ -83,7 +86,7 @@ function Verses({ verses, id, highlight }: { verses: VersesType; id: string; hig
     return (
       <sup
         key={footNoteId}
-        className="p-1 cursor-pointer hover:underline"
+        className="p-2 cursor-pointer hover:underline"
         onClick={() => {
           supHandler(footNoteId);
         }}
@@ -141,6 +144,7 @@ function Verses({ verses, id, highlight }: { verses: VersesType; id: string; hig
             <div className="flex justify-between items-center mb-4 -mt-1">
               <h2>Footnote</h2>
               <Button
+                aria-label="Close-footnote"
                 onClick={() => {
                   setActive(false);
                 }}

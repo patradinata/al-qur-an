@@ -23,7 +23,7 @@ export default function SurahDetailCard() {
   };
 
   return (
-    <CSSTransition in={detailCanvas} classNames={`detail-card`} unmountOnExit timeout={200}>
+    <CSSTransition in={detailCanvas} classNames={`detail-card`} unmountOnExit timeout={400}>
       <div
         onClick={(event) => {
           if (event.target != event.currentTarget) return;

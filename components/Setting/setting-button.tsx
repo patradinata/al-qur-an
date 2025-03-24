@@ -24,7 +24,6 @@ export default function Setting({ active }: AppProps) {
         setCanvas(!offCanvas);
       }
     };
-
     document.addEventListener("mousedown", clickHandler);
     return () => {
       document.removeEventListener("mousedown", clickHandler);

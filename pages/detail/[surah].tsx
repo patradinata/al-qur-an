@@ -11,6 +11,7 @@ import { GetStaticPaths, GetStaticProps } from "next";
 import { useEffect } from "react";
 // import { mequranFont } from "../_app";
 
+// fungsi getStaticPaths
 export const getStaticPaths: GetStaticPaths = () => {
   return {
     paths: [],
@@ -31,6 +32,8 @@ export const getStaticProps: GetStaticProps = async (ctx) => {
   }
   return { notFound: true };
 };
+
+// fungsi getStaticProps page
 const Page = ({ surahInfo, surahDetail }: { surahInfo: SurahInfo; surahDetail: SurahDetail }) => {
   useHydrateAtoms([
     [surahInfoAtom, surahInfo],

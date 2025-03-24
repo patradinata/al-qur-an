@@ -31,6 +31,14 @@ export const recommendations = [
     name: "Surah Al-Kahf",
     href: "/18",
   },
+  // {
+  //   name: "Surah Al-isra",
+  //   href: "/17",
+  // },
+  // {
+  //   name: "Surah Ar-Rahman",
+  //   href: "/55",
+  // },
 ];
 
 export default function Header({ data }: { data: SurahInfo[] }) {
