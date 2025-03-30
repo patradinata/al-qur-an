@@ -30,6 +30,7 @@ export const getStaticProps: GetStaticProps = async (ctx) => {
       props: { surahInfo, surahDetail },
     };
   }
+
   return { notFound: true };
 };
 

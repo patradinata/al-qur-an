@@ -47,17 +47,19 @@ function Verses({ verses, id, highlight }: { verses: VersesType; id: string; hig
   }, []);
 
   useEffect(() => {
+    // ekstrak nomor ayat
     const verseNumber = verses.verse_key.split(":")[1];
+    // jika nomor ayat sama dengan nomor ayat navigasi atau url parameter verse sama dengan url parameter navigasi
     if (navigationVerse == verseNumber || router.query.verse == verseNumber) {
+      // scroll ke elemen ayat
       if (!ref.current) return;
       scrollToElement(ref.current);
+      // update state global
       setCurrentVerse(verses.verse_key.split(":")[1]);
     }
   }, [surahInfo]);
 
-  const scrollHandler = () => {      
-
-    
+  const scrollHandler = () => {
     if (!ref.current) return;
 
     const rect = ref.current.getBoundingClientRect();
@@ -80,9 +82,12 @@ function Verses({ verses, id, highlight }: { verses: VersesType; id: string; hig
 
   // fungsi untuk memparse footNote
   const parseStringToElement = (text: string) => {
+    // ekstrak id footnote
     const footNoteId = text.match(/"\d+"/g)?.[0].replace(/"/g, "");
+    // ekstrak nomor footnote
     const footNoteNumber = text.match(/>\d+/g)?.[0].replace(">", "");
 
+    // return komponent
     return (
       <sup
         key={footNoteId}
@@ -97,15 +102,22 @@ function Verses({ verses, id, highlight }: { verses: VersesType; id: string; hig
   };
 
   const playHandler = async () => {
-    if (!timestamp) return;
-
-    const verseIndex = parseInt(verses.verse_key.split(":")[1]) - 1;
-
-    const audio = document.querySelector<HTMLAudioElement>(".audio");
-    if (!audio) return;
-
-    audio.currentTime = timestamp?.verse_timings[verseIndex].timestamp_from * 0.001;
-    audio.play();
+    try {
+      if (!timestamp) {
+        console.warn("TimeStamp tidak tersedia");
+        return;
+      }
+      const verseIndex = parseInt(verses.verse_key.split(":")[1]) - 1;
+      const audio = document.querySelector<HTMLAudioElement>(".audio");
+      if (!audio) {
+        console.error("Audio Tidak Ditemukan");
+        return;
+      }
+      audio.currentTime = timestamp?.verse_timings[verseIndex].timestamp_from * 0.001;
+      await audio.play().catch((e) => console.error("Gagal Memutar Audio", e));
+    } catch (error) {
+      console.error("Error dalam Play Handler", error);
+    }
   };
 
   return (

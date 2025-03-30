@@ -24,7 +24,7 @@ export default function VerseBox({ id }: { id: number }) {
       if (scroll) setScroll(false);
       clearTimeout(timeoutId);
       timeoutId = setTimeout(() => {
-        if (!ref.current) return;
+        if (!ref.current) return; //jika tidak ada ref.current maka return
         const rect = ref.current.getBoundingClientRect();
         const viewHeight = Math.max(document.documentElement.clientHeight, window.innerHeight);
         setScroll(!(rect.bottom < -200 || rect.top - viewHeight >= 500));

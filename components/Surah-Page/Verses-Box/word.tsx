@@ -12,6 +12,7 @@ interface WordComponentProps {
   highlight: boolean;
 }
 
+// function word component
 function WordComponent({ verse, isLast, highlight }: WordComponentProps) {
   const [isHover, setHover] = useState(false);
   const [globalPlay, setGlobalPlay] = useAtom(audioStatusAtom);
@@ -28,6 +29,7 @@ function WordComponent({ verse, isLast, highlight }: WordComponentProps) {
     };
   }, [playing]);
 
+  // toggle play function
   const togglePlay = () => {
     if (playing || globalPlay || isLast) return;
     audioRef.current?.play();
@@ -58,12 +60,10 @@ function WordComponent({ verse, isLast, highlight }: WordComponentProps) {
         onEnded={() => {
           setPlay(false);
           setGlobalPlay(false);
-          
         }}
         onError={() => {
           setPlay(false);
           setGlobalPlay(false);
-          
         }}
       ></audio>
       {isHover && !isLast && setting.wordByWord.display.tooltip && (setting.wordByWord.transliteration || setting.wordByWord.translation) && (
