@@ -85,7 +85,7 @@ export default function AudioPlayer() {
             timestamp={timestamp}
           />
 
-          <div className="flex justify-between items-center text-md font-medium px-4 mt-1">
+          <div className="flex justify-between items-center text-base font-medium px-3 mt-1">
             <p className="w-20 text-left">{calcTime(currentTime * 0.001)}</p>
             <AudioController timestamp={timestamp} playToggle={playToggle} />
             <p className="w-20 text-right">{calcTime(timestamp.duration * 0.001)}</p>

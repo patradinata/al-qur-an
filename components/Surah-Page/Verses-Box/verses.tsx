@@ -53,22 +53,26 @@ function Verses({ verses, id, highlight }: { verses: VersesType; id: string; hig
     if (navigationVerse == verseNumber || router.query.verse == verseNumber) {
       // scroll ke elemen ayat
       if (!ref.current) return;
+
       scrollToElement(ref.current);
       // update state global
       setCurrentVerse(verses.verse_key.split(":")[1]);
     }
   }, [surahInfo]);
 
+  // fungsi untuk scroll ke elemen ayat
   const scrollHandler = () => {
     if (!ref.current) return;
 
     const rect = ref.current.getBoundingClientRect();
-
+    // jika elemen ayat berada di atas 130 dan di bawah 250
     if (rect.top >= 130 && rect.top <= 250) {
+      // perbarui state global
       setCurrentVerse(verses.verse_key.split(":")[1]);
     }
   };
 
+  // Fungsi untuk memunculkan footnote 
   const supHandler = async (footNoteId: string | undefined) => {
     try {
       setActive(true);
@@ -76,7 +80,7 @@ function Verses({ verses, id, highlight }: { verses: VersesType; id: string; hig
       const data = await fetcher(`/api/footnote?id=${footNoteId}`);
       setFootNote(data);
     } catch (error) {
-      console.error(error);
+      console.error("Error dalam supHandler", error);
     }
   };
 
@@ -101,6 +105,7 @@ function Verses({ verses, id, highlight }: { verses: VersesType; id: string; hig
     );
   };
 
+  // fungsi play handler 
   const playHandler = async () => {
     try {
       if (!timestamp) {

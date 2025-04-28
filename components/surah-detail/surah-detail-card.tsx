@@ -34,7 +34,7 @@ export default function SurahDetailCard() {
         <div ref={ref} className="w-11/12 md:w-9/12 bg-white dark:bg-sec-color-dark dark:shadow-lg m-auto rounded-xl p-6 md:p-8">
           <DetailContainer>
             <Button onClick={clickHandler}>
-              <FontAwesomeIcon icon={faXmark} size="xl" />
+              <FontAwesomeIcon icon={faXmark} size="xl" className="min-w-[45px]" />
             </Button>
           </DetailContainer>
         </div>

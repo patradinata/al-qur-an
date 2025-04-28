@@ -68,9 +68,9 @@
   --sephia-color: #d5c2a1; /* Warna latar utama */
   --sephia-color-dark: #e5d5b5; /* Warna latar lebih terang */
   --sephia-color-dark-one: #f3e1c8; /* Warna latar lebih soft */
-  --sephia-text-color: #4a2845; /* Warna teks lebih gelap */
-  --sephia-link-color: #8c5a3a; /* Warna link */
-  --sephia-hover-color: #a66a42; /* Warna link hover */
+  --sephia-text-color: #322c19; /* Warna teks lebih gelap */
+  --sephia-link-color: #322c19; /* Warna link */
+  --sephia-hover-color: #353654; /* Warna link hover */
 }
 
 /* 🌟 Mode Sepia */
@@ -114,11 +114,16 @@
   /* border: 1px solid var(--sephia-text-color); */
   padding: 8px 12px;
   transition: all 0.3s ease;
+  /* background-color: blue; */
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 [data-theme="sepia"] button:hover {
   /* background-color: var(--sephia-color); */
-  color: white;
+  color: var(--sephia-hover-color);
 }
 
 html {

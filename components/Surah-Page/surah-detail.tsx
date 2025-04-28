@@ -25,7 +25,6 @@ export default function SurahDetailButton() {
         setActive(!isActive);
       }
     };
-
     document.addEventListener("mousedown", clickHandler);
     return () => {
       document.removeEventListener("mousedown", clickHandler);
@@ -35,7 +34,7 @@ export default function SurahDetailButton() {
   const showMoreHandler = () => {
     window.history.pushState({}, "", `/detail/${surahInfo?.surah_number}`);
     setDetailCanvas(!detailCanvas);
-
+    // overflow hidden
     document.body.style.overflow = "hidden";
   };
 

@@ -58,7 +58,9 @@ function AudioControllerWithoutMemo({ playToggle, timestamp }: { playToggle: () 
           </Button>
 
           {/* Tombol Play/Pause */}
-          <Button onClick={playToggle}>{audioPlay ? <FontAwesomeIcon icon={faPause} /> : <FontAwesomeIcon icon={faPlay} />}</Button>
+          <Button aria-describedby="Putar audio" onClick={playToggle}>
+            {audioPlay ? <FontAwesomeIcon icon={faPause} /> : <FontAwesomeIcon icon={faPlay} />}
+          </Button>
 
           {/* Tombol Next */}
           <Button

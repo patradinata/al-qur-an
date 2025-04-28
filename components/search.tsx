@@ -34,7 +34,8 @@ export default function Search({ quranList }: { quranList: SurahInfo[] }) {
           name="search"
           id="search"
           enterKeyHint="enter"
-          aria-describedby="search-here"
+          aria-describedby="Cari Surah"
+          title="cari surah"
           className="relative search-query rounded-l-full p-2 pl-8 h-14 w-11/12 outline-none border-2 border-gray-200 focus:border-blue-500 duration-300 ease-in-out transition-all"
           onBlur={() => {
             setFocus(false);
@@ -67,6 +68,7 @@ export default function Search({ quranList }: { quranList: SurahInfo[] }) {
         </CSSTransition>
 
         <Link
+          aria-label="cari-surah"
           href={searchResult.length > 0 && searchQuery != "" ? `/${searchResult[0].surah_number}` : ""}
           onMouseEnter={() => {
             setHover(true);

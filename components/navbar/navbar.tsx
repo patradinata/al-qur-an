@@ -3,7 +3,7 @@ import Setting from "../Setting/setting-button";
 import type { SurahInfo } from "@/types/surah-info-type";
 import { useEffect, useRef, useState } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faChevronDown } from "@fortawesome/free-solid-svg-icons";
+import { faChevronDown, faL } from "@fortawesome/free-solid-svg-icons";
 import SurahNav from "./surah-navigation/surah-navigation";
 import { CSSTransition } from "react-transition-group";
 import fetcher from "@/utils/fetcher";
@@ -30,7 +30,7 @@ export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefine
 
     const clickHandler = (e: MouseEvent) => {
       if (surahNav && ref.current && !ref.current.contains(e.target as Node) && !ref.current.parentNode?.contains(e.target as Node)) {
-        setSurahNav(false);
+        setSurahNav(false); //mengembalikan boolean
       }
     };
 
@@ -53,10 +53,10 @@ export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefine
   });
 
   return (
-    <div className={`fixed w-full  z-40 transition-all duration-200 ease-in-out ${isActive ? "top-0" : "-top-12"} ${!surahInfo && "dark:drop-shadow-md"}`}>
+    <div className={`fixed w-full z-40 transition-all duration-200 ease-in-out ${isActive ? "top-0" : "-top-12"} ${!surahInfo && "dark:drop-shadow-md"}`}>
       <div className="flex justify-between items-center py-8 px-2 sm:px-8 h-12 bg-white dark:bg-pri-color-dark">
         <Link href="/">
-          <h1 className="text-xl hover:text-blue-400 transition-all duration-500 ease-in-out font-bold leading-3">Al-Quran</h1>
+          <h1 className="text-xl font-bold leading-3 hover:text-sky-400">Al-Quran</h1>
         </Link>
         <Setting active={isActive} />
       </div>
@@ -64,12 +64,12 @@ export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefine
         <>
           <div className="overflow-x-hidden w-screen">
             <div className="px-5 sm:px-8 py-2 bg-white dark:bg-pri-color-dark  drop-shadow-[0_3px_0px_rgba(0,0,0,, 0.1)]">
-              <div className="w-fit flex items-center gap-1 cursor-pointer font-semibold" onClick={() => setSurahNav(!surahNav)}>
+              <div className="w-fit flex items-center gap-2 font-semibold cursor-pointer" onClick={() => setSurahNav(!surahNav)}>
                 <span>{surahInfo.name}</span>
-                <FontAwesomeIcon icon={faChevronDown} size="sm" className={`${surahNav && "rotate-180"} transition-transform duration-200`} />
+                <FontAwesomeIcon icon={faChevronDown} size="sm" className={`${surahNav && "rotate-180"} transition-transform duration-300`} />
               </div>
             </div>
-            <CSSTransition nodeRef={ref} in={surahNav} timeout={300} unmountOnExit classNames={"surah-nav"}>
+            <CSSTransition nodeRef={ref} in={surahNav} timeout={400} unmountOnExit classNames={"surah-nav"}>
               <div ref={ref} className="z-[-1] absolute rounded-md p-2 w-fit flex bg-white translate-y-2 left-4 right-4 sm:left-8 dark:bg-sec-color-dark drop-shadow-md">
                 <div className="flex gap-1 font-normal">
                   <SurahNav quran={quran} />
