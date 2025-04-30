@@ -24,9 +24,9 @@ export default function WordByWord() {
         <p className="text-xs my-2">
           Pembaca : <span className="font-bold">Shaikh Wisam Sharieff.</span> Klik pada kata untuk mendengarkan bacaannya.
         </p>
-        <p className="text-xs">
+        <p className="text-xs font-medium">
           Sumber terjemahan kata demi kata :{" "}
-          <a className="link" href="https://quranwbw.com/">
+          <a className="link font-semibold text-sky-400" href="https://quranwbw.com/">
             quranwbw
           </a>
         </p>
@@ -34,7 +34,7 @@ export default function WordByWord() {
       <div className="w-full h-[1.5px] rounded-full bg-zinc-300 my-4" />
       <div className="font-normal">
         <div>
-          <div className="mb-2">Tampilan</div>
+          <div className="font-semibold text-base">Tampilan</div>
           <div className="flex flex-col">
             <SwitchButton
               text="In-Line"

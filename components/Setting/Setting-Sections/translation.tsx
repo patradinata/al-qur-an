@@ -3,7 +3,7 @@ import SwitchButton from "../switch-button";
 export default function Translation() {
   return (
     <>
-      <div className="font-semibold text-base mb-2 ">Terjemahan</div>
+      <div className="font-semibold text-base mb-3">Terjemahan</div>
       <div className="flex flex-col">
         <SwitchButton
           text="Latin"

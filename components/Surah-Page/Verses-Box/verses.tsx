@@ -1,6 +1,6 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faPlay, faXmark } from "@fortawesome/free-solid-svg-icons";
+import { faPlay, faXmark, faSpinner } from "@fortawesome/free-solid-svg-icons";
 import Word from "@/components/Surah-Page/Verses-Box/word";
 import { timestampAtom } from "@/components/atoms/timestamp-atom";
 import fetcher from "@/utils/fetcher";
@@ -27,6 +27,7 @@ function Verses({ verses, id, highlight }: { verses: VersesType; id: string; hig
   const [navigationVerse] = useAtom(navigationVerseAtom);
   const regex = /(<sup foot_note_id="\d+">\d+<\/sup>)/g;
   const ref = useRef<HTMLDivElement>(null);
+  const [isLoadingAudio, setIsLoadingAudio] = useState(false);
 
   useEffect(() => {
     if (!ref.current || highlight?.split(":")[1] === highlightPrev) {
@@ -72,7 +73,7 @@ function Verses({ verses, id, highlight }: { verses: VersesType; id: string; hig
     }
   };
 
-  // Fungsi untuk memunculkan footnote 
+  // Fungsi untuk memunculkan footnote
   const supHandler = async (footNoteId: string | undefined) => {
     try {
       setActive(true);
@@ -105,23 +106,35 @@ function Verses({ verses, id, highlight }: { verses: VersesType; id: string; hig
     );
   };
 
-  // fungsi play handler 
+  // fungsi play handler
   const playHandler = async () => {
     try {
       if (!timestamp) {
-        console.warn("TimeStamp tidak tersedia");
+        console.warn("timestamp tidak tersedia");
         return;
       }
+
       const verseIndex = parseInt(verses.verse_key.split(":")[1]) - 1;
       const audio = document.querySelector<HTMLAudioElement>(".audio");
       if (!audio) {
-        console.error("Audio Tidak Ditemukan");
+        console.error("Audio tidak ditemukan");
         return;
       }
-      audio.currentTime = timestamp?.verse_timings[verseIndex].timestamp_from * 0.001;
-      await audio.play().catch((e) => console.error("Gagal Memutar Audio", e));
+
+      setIsLoadingAudio(true);
+
+      setTimeout(async () => {
+        try {
+          audio.currentTime = timestamp?.verse_timings[verseIndex].timestamp_from * 0.001;
+          await audio.play();
+        } catch (e) {
+          console.error("Gagal memuat audio", e);
+        } finally {
+          setIsLoadingAudio(false);
+        }
+      }, 400);
     } catch (error) {
-      console.error("Error dalam Play Handler", error);
+      console.error("Error dalam play handler", error);
     }
   };
 
@@ -133,8 +146,8 @@ function Verses({ verses, id, highlight }: { verses: VersesType; id: string; hig
             <p className="text-sm">{verses.verse_key}</p>
           </Button>
         </a>
-        <Button onClick={playHandler}>
-          <FontAwesomeIcon icon={faPlay} />
+        <Button onClick={playHandler} disabled={isLoadingAudio}>
+          {isLoadingAudio ? <FontAwesomeIcon icon={faSpinner} spin /> : <FontAwesomeIcon icon={faPlay} />}
         </Button>
       </div>
       <div className="w-full">

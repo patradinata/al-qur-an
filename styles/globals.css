@@ -122,7 +122,6 @@
 }
 
 [data-theme="sepia"] button:hover {
-  /* background-color: var(--sephia-color); */
   color: var(--sephia-hover-color);
 }
 

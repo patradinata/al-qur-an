@@ -39,7 +39,6 @@ export default function SurahDetailButton() {
   };
 
   if (!surahDetail) return <></>;
-
   return (
     <>
       <button onClick={() => setActive(!isActive)} className="flex items-center h-7 dark:hover:bg-sec-color-dark hover:bg-slate-200 px-2 pr-4 rounded transition-all">
@@ -53,7 +52,7 @@ export default function SurahDetailButton() {
         }`}
       >
         <h1 className="text-xl font-semibold mb-2">{surahInfo?.name}</h1>
-        <p className="mb-2 text-sm sm:text-base">{surahDetail?.shortText}</p>
+        <p className="mb-2 text-sm  sm:text-base">{surahDetail?.shortText}</p>
         <p className="underline mt-2 cursor-pointer w-fit" onClick={showMoreHandler}>
           Selengkapnya...
         </p>
