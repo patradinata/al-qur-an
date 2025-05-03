@@ -47,11 +47,11 @@ export default function Search({ quranList }: { quranList: SurahInfo[] }) {
             setQuery(e.currentTarget.value);
           }}
           value={searchQuery}
-          // onKeyDown={(e) => {
-          //   if (e.key === "Enter" && searchResult.length > 0) {
-          //     window.location.href = `/${searchResult[0].surah_number}`;
-          //   }
-          // }}
+          onKeyDown={(e) => {
+            if (e.key === "Enter" && searchResult.length > 0) {
+              window.location.href = `/${searchResult[0].surah_number}`;
+            }
+          }}
         />
         <CSSTransition in={searchQuery !== "" && isFocus} unmountOnExit timeout={100} classNames={"search-suggest"}>
           <div className="z-[5] absolute top-[70px] sm:top-16 drop-shadow-[0_0_3px_rgba(0,0,0,0.5)] w-[95%] max-h-[15rem] overflow-hidden bg-white rounded-lg flex flex-col sm:w-[87%]">
@@ -62,7 +62,7 @@ export default function Search({ quranList }: { quranList: SurahInfo[] }) {
                 </Link>
               ))
             ) : (
-              <p className="p-2 text-gray-500">Tidak ditemukan hasil pencarian</p>
+              <p className="p-2 text-red-500">Tidak ditemukan hasil pencarian!</p>
             )}
           </div>
         </CSSTransition>
