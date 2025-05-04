@@ -30,13 +30,13 @@ export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefine
 
     const clickHandler = (e: MouseEvent) => {
       if (surahNav && ref.current && !ref.current.contains(e.target as Node) && !ref.current.parentNode?.contains(e.target as Node)) {
-        setSurahNav(false); 
+        setSurahNav(false);
       }
     };
 
     document.addEventListener("mousedown", clickHandler);
     window.addEventListener("scroll", scrollHandler);
-    
+
     return () => {
       // Cleanup function
       document.removeEventListener("mousedown", clickHandler);

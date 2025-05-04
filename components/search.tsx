@@ -29,12 +29,12 @@ export default function Search({ quranList }: { quranList: SurahInfo[] }) {
       <div className="flex items-center relative w-full m-auto mb-3 text-gray-700 sm:w-4/6 md:w-3/6 p-2 sm:p-0">
         <input
           autoComplete="off"
-          placeholder=" Surah Apa yang ingin kamu baca ?"
+          placeholder="Surah apa yang ingin kamu baca ?"
           type="search"
           name="search"
           id="search"
           enterKeyHint="enter"
-          aria-describedby="Cari Surah"
+          aria-describedby="Cari surah"
           title="cari surah"
           className="relative search-query rounded-l-full p-2 pl-8 h-14 w-11/12 outline-none border-2 border-gray-200 focus:border-blue-500 duration-300 ease-in-out transition-all"
           onBlur={() => {
