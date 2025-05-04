@@ -9,6 +9,7 @@ import { CSSTransition } from "react-transition-group";
 import fetcher from "@/utils/fetcher";
 import VerseNav from "./surah-navigation/verse-navigation";
 
+
 export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefined }) {
   const [isActive, setActive] = useState(true);
   const [prevScrollPos, setPrevScrollPos] = useState(Number);
