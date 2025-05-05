@@ -4,7 +4,7 @@ import { CheckIcon, ChevronDownIcon, PlayIcon, PauseIcon, StopIcon } from "@radi
 import { toast, ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
-const AdzanToggle = () => {
+const adzanToggle = () => {
   // State management
   const [isAdzanEnabled, setIsAdzanEnabled] = useState(false);
   const [selectedAdzan, setSelectedAdzan] = useState("jiharkah");
@@ -118,7 +118,6 @@ const AdzanToggle = () => {
     const checkPrayerTime = () => {
       const now = new Date();
       const timeNow = now.toTimeString().slice(0, 5);
-      
 
       if (timeNow === "00:00") {
         setPlayedToday([]);
@@ -290,4 +289,4 @@ const AdzanToggle = () => {
   );
 };
 
-export default AdzanToggle;
+export default adzanToggle;
