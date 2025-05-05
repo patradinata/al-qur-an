@@ -3,7 +3,7 @@ import Translation from "./Setting-Sections/translation";
 import WordByWord from "./Setting-Sections/wordByWord";
 import { settingAtom } from "../atoms/setting-atom";
 import { useEffect } from "react";
-import AdzanToggle from "@/components/adzanToggle";
+import AdzanToggle from "@/components/AdzanToggle";
 
 export default function SettingContainer() {
   const [setting, setSetting] = useImmerAtom(settingAtom);
