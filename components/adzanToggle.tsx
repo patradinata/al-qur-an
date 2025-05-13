@@ -5,6 +5,16 @@ import { toast, ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 // import { clearInterval } from "timers";
 
+type PrayerTime = {
+  name: string;
+  time: string;
+};
+
+type NextPrayer = {
+  name: string;
+  timeDiff: number;
+};
+
 interface PrayerTimes {
   Fajr: string;
   Dhuhr: string;
@@ -19,6 +29,11 @@ interface LocationData {
   country: string;
   latitude: number;
   longitude: number;
+}
+
+interface Prayer {
+  name: string;
+  timeDiff: number;
 }
 
 const AdzanToggle = () => {
@@ -46,12 +61,12 @@ const AdzanToggle = () => {
         },
         (error) => {
           console.error("Geolocation Error", error);
-          toast.error("Gagal mendapatkan lokasi, Menggunkan lokasi default");
+          toast.error("Gagal mendapatkan lokasi, Menggunakan lokasi default");
           setDefaultLocation();
           setIsLocationLoading(false);
         },
         {
-          timeout: 10000,
+          timeout: 3000,
         }
       );
     } else {
@@ -68,7 +83,7 @@ const AdzanToggle = () => {
       const data = await response.json();
 
       if (data.results?.length > 0) {
-        const components = data.results[0].formatted;
+        const components = data.results[0].components;
         const locationData: LocationData = {
           city: components.city || components.town || components.village || "Lampung",
           country: components.country || "Indonesia",
@@ -142,7 +157,7 @@ const AdzanToggle = () => {
       }
     } catch (error) {
       console.error("Gagal mengambil jadwal", error);
-      toast.error("Gagal memuat jadwal sholat, coba lagi nanti");
+      toast.error("Gagal memuat jadwal sholat, coba lagi nanti ");
     } finally {
       setIsLoading(false);
     }
@@ -161,7 +176,7 @@ const AdzanToggle = () => {
       const now = new Date();
       const currentTime = now.getTime(); // Waktu saat ini dalam milidetik
 
-      const prayers = [
+      const prayers: PrayerTime[] = [
         { name: "Subuh", time: jadwal.Fajr },
         { name: "Dzuhur", time: jadwal.Dhuhr },
         { name: "Ashar", time: jadwal.Asr },
@@ -169,7 +184,7 @@ const AdzanToggle = () => {
         { name: "Isya", time: jadwal.Isha },
       ];
 
-      let nextPrayer: { name: string; timeDiff: number } | null = null;
+      let nextPrayer: NextPrayer | null = null;
       let smallestTimeDiff = Infinity;
 
       prayers.forEach((prayer) => {
@@ -241,7 +256,7 @@ const AdzanToggle = () => {
 
           toast.info(`Waktu sholat ${name} telah tiba!`, {
             position: "top-center",
-            autoClose: 4000,
+            autoClose: 1000,
             closeOnClick: false,
             pauseOnHover: true,
             draggable: true,
@@ -258,7 +273,7 @@ const AdzanToggle = () => {
   // audio controls function
   const playAdzan = () => {
     stopAdzan();
-    const audio = new Audio(`/audio/azan_${selectedAdzan}.mp3`);
+    const audio = new Audio(`/audio/adzan_${selectedAdzan}.mp3`);
     setAudioInstance(audio);
 
     audio
@@ -298,13 +313,14 @@ const AdzanToggle = () => {
   const handleChangeAdzan = (value: string) => {
     stopAdzan(); //hentikan audio saat mengganti pilihan
     setSelectedAdzan(value);
+    localStorage.setItem("adzan", value);
     toast.success(`Suara adzan diubah ke ${value === "jiharkah" ? "adzan jiharkah" : "adzan kurdi"}`, {
       position: "top-right",
       autoClose: 2000,
     });
   };
 
-  // Clean up audio when component unmounts
+  // Clean up audio component
   useEffect(() => {
     return () => {
       if (audioInstance) {
@@ -315,18 +331,18 @@ const AdzanToggle = () => {
   }, [audioInstance]);
 
   return (
-    <div className="flex flex-col gap-4 p-4 bg-white dark:bg-amber-400 rounded-lg shadow max-w-md mx-auto">
+    <div className="flex flex-col gap-4 p-4 mt-4 bg-white dark:bg-pri-color-dark rounded-lg shadow-lg max-w-sm mx-auto">
       {/* Location info */}
-      <div className="p-3 bg-slate-300 dark:bg-sky-300 rounded-lg">
+      <div className="p-3 bg-slate-300 dark:bg-sec-color-dark rounded-lg">
         {isLocationLoading ? (
           <div className="flex items-center gap-3">
-            <span className="animate-pulse">Mendeteksi Lokasi....</span>
+            <span className="animate-spin">Mendeteksi Lokasi....</span>
           </div>
         ) : location ? (
-          <div className="text-sm text-slate-500 dark:text-sky-300">
+          <div className="text-sm text-slate-500 dark:text-white flex flex-col justify-center w-full gap-2 lg:items-center">
             <span className="font-bold">Lokasi: </span>
             {location.city}, {location.country}
-            <button onClick={getGeoLocation} className="ml-2 text-xs text-slate-400 rounded-md hover:text-sky-600 dark:text-sky-300">
+            <button onClick={getGeoLocation} className="text-sm m-2 bg-pri-color-dark px-4 py-2 text-white rounded-md hover:text-slate-100 dark:text-white">
               Perbarui
             </button>
           </div>
@@ -335,7 +351,7 @@ const AdzanToggle = () => {
         )}
       </div>
 
-      <div className="flex items-center justify-around">
+      <div className="flex items-center justify-evenly">
         <h3 className="font-bold text-lg text-slate-600 dark:text-slate-300">Pengaturan adzan</h3>
         {isLoading && <span className="text-xs px-2 py-1 bg-sky-400 text-amber-300  rounded animate-pulse">memuat jadwal shalat...</span>}
       </div>
@@ -356,7 +372,7 @@ const AdzanToggle = () => {
             <div className={`block w-10 h-6 rounded-full transition-colors ${isAdzanEnabled ? "bg-green-500" : "bg-gray-400"}`} />
             <div className={`absolute left-1 top-1 w-4 h-4 rounded-full bg-white transition-transform ${isAdzanEnabled ? "transform translate-x-4" : ""}`} />
           </div>
-          <span className="text-sm font-medium text-gray-700 dark:text-gray-300">{isAdzanEnabled ? "Adzan Aktif" : "Adzan Nonaktif"}</span>
+          <span className="text-xs font-medium p-0 flex-1 text-gray-700 dark:text-gray-300">{isAdzanEnabled ? "Adzan Aktif" : "Adzan Nonaktif"}</span>
         </label>
 
         <div className="flex gap-4">
@@ -405,13 +421,25 @@ const AdzanToggle = () => {
         <div className="p-3 bg-gray-100 dark:bg-gray-700 rounded-lg space-y-2">
           <div className="text-sm text-gray-700 dark:text-gray-300">
             <span className="block">Sholat Berikutnya:</span>
-            <strong className="text-lg font-medium text-sky-500 dark:text-sky-400">{nextSholat}</strong>
+            <strong className="text-lg font-medium text-slate-500 dark:text-slate-600">{nextSholat}</strong>
             <span className="block mt-1 font-sans text-xl font-bold">{countdown}</span>
           </div>
         </div>
       )}
 
-      <ToastContainer position="top-right" autoClose={3000} hideProgressBar={false} newestOnTop={false} closeOnClick rtl={false} pauseOnFocusLoss draggable pauseOnHover theme="colored" />
+      <ToastContainer
+        position="top-left"
+        autoClose={2000}
+        hideProgressBar={false}
+        newestOnTop={false}
+        closeOnClick
+        rtl={false}
+        pauseOnFocusLoss
+        draggable
+        pauseOnHover
+        theme="colored"
+        toastClassName="!w-[90vw] sm:!w-[320px] !max-w-full text-sm p-3 rounded shadow-lg"
+      />
     </div>
   );
 };

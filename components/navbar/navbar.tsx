@@ -9,7 +9,6 @@ import { CSSTransition } from "react-transition-group";
 import fetcher from "@/utils/fetcher";
 import VerseNav from "./surah-navigation/verse-navigation";
 
-
 export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefined }) {
   const [isActive, setActive] = useState(true);
   const [prevScrollPos, setPrevScrollPos] = useState(Number);
@@ -56,8 +55,9 @@ export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefine
   return (
     <div className={`fixed w-full z-40 transition-all duration-200 ease-in-out ${isActive ? "top-0" : "-top-12"} ${!surahInfo && "dark:drop-shadow-md"}`}>
       <div className="flex justify-between items-center py-8 px-2 sm:px-8 h-12 bg-white dark:bg-pri-color-dark">
-        <Link href="/">
-          <h1 className="text-xl font-bold leading-3 hover:text-sky-400">Al-Quran</h1>
+        <Link href="/" className="flex items-center gap-1 px-2 lg:px-3">
+          <img src="/logo/logo-256x.png" alt="logo" className="w-8 h-8 " />
+          <h1 className="text-xl font-bold text-slate-400leading-tight hover:text-sky-500 transition-all duration-300 ease-in-out">Al-Quran</h1>
         </Link>
         <Setting active={isActive} />
       </div>
