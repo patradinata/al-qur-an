@@ -3,17 +3,6 @@ import * as Select from "@radix-ui/react-select";
 import { CheckIcon, ChevronDownIcon, PlayIcon, PauseIcon, StopIcon } from "@radix-ui/react-icons";
 import { toast, ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-// import { clearInterval } from "timers";
-
-type PrayerTime = {
-  name: string;
-  time: string;
-};
-
-type NextPrayer = {
-  name: string;
-  timeDiff: number;
-};
 
 interface PrayerTimes {
   Fajr: string;
@@ -34,6 +23,11 @@ interface LocationData {
 interface Prayer {
   name: string;
   timeDiff: number;
+}
+
+interface PrayerTimeEntry {
+  name: string;
+  time: string;
 }
 
 const AdzanToggle = () => {
@@ -66,7 +60,7 @@ const AdzanToggle = () => {
           setIsLocationLoading(false);
         },
         {
-          timeout: 3000,
+          timeout: 1000,
         }
       );
     } else {
@@ -76,7 +70,7 @@ const AdzanToggle = () => {
     }
   };
 
-  const reverseGeocode = async (lat: number, lng: number) => {
+  const reverseGeocode = async (lat: number, lng: number): Promise<void> => {
     try {
       const API_KEY = "34f73417c2334613ae64481871f1f91c";
       const response = await fetch(`https://api.opencagedata.com/geocode/v1/json?q=${lat}+${lng}&key=${API_KEY}&language=en&pretty=1`);
@@ -110,18 +104,18 @@ const AdzanToggle = () => {
   };
 
   // set default lokasi
-  const setDefaultLocation = () => {
+  const setDefaultLocation = (): void => {
     setLocation({
       city: "Lampung",
       country: "Indonesia",
-      latitude: -545,
+      latitude: -5.45,
       longitude: 105.26667,
     });
   };
 
   // inisialisasi local storage dan get location
   useEffect(() => {
-    const loadSettings = () => {
+    const loadSettings = (): void => {
       if (typeof window !== "undefined") {
         setIsAdzanEnabled(localStorage.getItem("adzan_enabled") === "true");
         setSelectedAdzan(localStorage.getItem("adzan") || "jiharkah");
@@ -141,7 +135,7 @@ const AdzanToggle = () => {
   }, []);
 
   // Fetch prayer times based on location
-  const fetchPrayerTimes = async () => {
+  const fetchPrayerTimes = async (): Promise<void> => {
     if (!location) return;
 
     setIsLoading(true);
@@ -164,19 +158,22 @@ const AdzanToggle = () => {
   };
 
   useEffect(() => {
-    fetchPrayerTimes();
-    const interval = setInterval(fetchPrayerTimes, 3600000); //refresh every hour
-    return () => clearInterval(interval);
+    if (location) {
+      fetchPrayerTimes();
+      const interval = setInterval(fetchPrayerTimes, 3600000); //refresh every hour
+      return () => clearInterval(interval);
+    }
   }, [location]);
 
   // Calculate next prayer time with countdown
   useEffect(() => {
     if (!jadwal) return;
-    const updateCountDown = () => {
+
+    const updateCountDown = (): void => {
       const now = new Date();
       const currentTime = now.getTime(); // Waktu saat ini dalam milidetik
 
-      const prayers: PrayerTime[] = [
+      const prayers: PrayerTimeEntry[] = [
         { name: "Subuh", time: jadwal.Fajr },
         { name: "Dzuhur", time: jadwal.Dhuhr },
         { name: "Ashar", time: jadwal.Asr },
@@ -184,11 +181,13 @@ const AdzanToggle = () => {
         { name: "Isya", time: jadwal.Isha },
       ];
 
-      let nextPrayer: NextPrayer | null = null;
+      let nextPrayer: Prayer | null = null;
       let smallestTimeDiff = Infinity;
 
-      prayers.forEach((prayer) => {
-        const [hours, minutes] = prayer.time.split(":").map(Number);
+      for (const prayer of prayers) {
+        const timeparts = prayer.time.split(":");
+        const hours = parseInt(timeparts[0], 10);
+        const minutes = parseInt(timeparts[1], 10);
         const prayerTime = new Date(now.getFullYear(), now.getMonth(), now.getDate(), hours, minutes).getTime();
 
         const timeDiff = prayerTime > currentTime ? prayerTime - currentTime : prayerTime + 86400000 - currentTime; // Waktu selisih dalam milidetik
@@ -199,7 +198,7 @@ const AdzanToggle = () => {
             timeDiff: timeDiff,
           };
         }
-      });
+      }
 
       if (nextPrayer) {
         setNextSholat(nextPrayer.name);
@@ -214,8 +213,8 @@ const AdzanToggle = () => {
         setCountDown("00:00:00");
       }
     };
-    updateCountDown();
 
+    updateCountDown();
     const interval = setInterval(updateCountDown, 1000);
     return () => clearInterval(interval);
   }, [jadwal]);
@@ -224,17 +223,16 @@ const AdzanToggle = () => {
   useEffect(() => {
     if (!isAdzanEnabled || !jadwal) return;
 
-    const checkPrayerTime = () => {
+    const checkPrayerTime = (): void => {
       const now = new Date();
       const timeNow = now.toTimeString().slice(0, 5);
-      const today = now.toDateString();
 
       if (timeNow === "00:00") {
         setPlayedToday([]); // reset played today
         return;
       }
 
-      const prayers = [
+      const prayers: PrayerTimeEntry[] = [
         { name: "Subuh", time: jadwal.Fajr },
         { name: "Dzuhur", time: jadwal.Dhuhr },
         { name: "Ashar", time: jadwal.Asr },
@@ -242,19 +240,19 @@ const AdzanToggle = () => {
         { name: "Isha", time: jadwal.Isha },
       ];
 
-      prayers.forEach(({ name, time }) => {
-        if (timeNow === time && !playedToday.includes(time)) {
+      for (const prayer of prayers) {
+        if (timeNow === prayer.time && !playedToday.includes(prayer.time)) {
           playAdzan();
-          setPlayedToday((prev) => [...prev, time]);
+          setPlayedToday((prev) => [...prev, prayer.time]);
 
-          if (Notification.permission !== "granted") {
-            new Notification(`Waktu shalat ${name}`, {
-              body: `Sudah masuk waktu shalat ${name}`,
+          if (Notification.permission === "granted") {
+            new Notification(`Waktu shalat ${prayer.name}`, {
+              body: `Sudah masuk waktu shalat ${prayer.name}`,
               icon: "/icons/azan.png",
             });
           }
 
-          toast.info(`Waktu sholat ${name} telah tiba!`, {
+          toast.info(`Waktu sholat ${prayer.name} telah tiba!`, {
             position: "top-center",
             autoClose: 1000,
             closeOnClick: false,
@@ -263,7 +261,7 @@ const AdzanToggle = () => {
             theme: "colored",
           });
         }
-      });
+      }
     };
 
     const interval = setInterval(checkPrayerTime, 2000);
@@ -271,7 +269,7 @@ const AdzanToggle = () => {
   }, [isAdzanEnabled, jadwal, playedToday, selectedAdzan]);
 
   // audio controls function
-  const playAdzan = () => {
+  const playAdzan = (): void => {
     stopAdzan();
     const audio = new Audio(`/audio/adzan_${selectedAdzan}.mp3`);
     setAudioInstance(audio);
@@ -287,7 +285,7 @@ const AdzanToggle = () => {
     audio.onended = () => setIsPlaying(false);
   };
 
-  const pauseAdzan = () => {
+  const pauseAdzan = (): void => {
     if (audioInstance && isPlaying) {
       audioInstance.pause();
       setIsPlaying(false);
@@ -298,7 +296,7 @@ const AdzanToggle = () => {
     }
   };
 
-  const stopAdzan = () => {
+  const stopAdzan = (): void => {
     if (audioInstance) {
       audioInstance.pause();
       audioInstance.currentTime = 0;
@@ -310,7 +308,7 @@ const AdzanToggle = () => {
     }
   };
 
-  const handleChangeAdzan = (value: string) => {
+  const handleChangeAdzan = (value: string): void => {
     stopAdzan(); //hentikan audio saat mengganti pilihan
     setSelectedAdzan(value);
     localStorage.setItem("adzan", value);
@@ -331,7 +329,7 @@ const AdzanToggle = () => {
   }, [audioInstance]);
 
   return (
-    <div className="flex flex-col gap-4 p-4 mt-4 bg-white dark:bg-pri-color-dark rounded-lg shadow-lg max-w-sm mx-auto">
+    <div className="max-h-screen  rounded-lg bg-white">
       {/* Location info */}
       <div className="p-3 bg-slate-300 dark:bg-sec-color-dark rounded-lg">
         {isLocationLoading ? (
@@ -339,7 +337,7 @@ const AdzanToggle = () => {
             <span className="animate-spin">Mendeteksi Lokasi....</span>
           </div>
         ) : location ? (
-          <div className="text-sm text-slate-500 dark:text-white flex flex-col justify-center w-full gap-2 lg:items-center">
+          <div className="text-sm text-slate-500 dark:text-white flex flex-col justify-center w-full md:items-center">
             <span className="font-bold">Lokasi: </span>
             {location.city}, {location.country}
             <button onClick={getGeoLocation} className="text-sm m-2 bg-pri-color-dark px-4 py-2 text-white rounded-md hover:text-slate-100 dark:text-white">
@@ -351,7 +349,7 @@ const AdzanToggle = () => {
         )}
       </div>
 
-      <div className="flex items-center justify-evenly">
+      <div className="flex items-center justify-evenly py-2">
         <h3 className="font-bold text-lg text-slate-600 dark:text-slate-300">Pengaturan adzan</h3>
         {isLoading && <span className="text-xs px-2 py-1 bg-sky-400 text-amber-300  rounded animate-pulse">memuat jadwal shalat...</span>}
       </div>
@@ -366,10 +364,11 @@ const AdzanToggle = () => {
               onChange={(e) => {
                 const enabled = e.target.checked;
                 setIsAdzanEnabled(enabled);
+                localStorage.setItem("adzan_enabled", enabled.toString());
                 toast.success(enabled ? "🔔 Notifikasi adzan diaktifkan" : "🔕 Notifikasi adzan dimatikan", { position: "top-right", autoClose: 3000 });
               }}
             />
-            <div className={`block w-10 h-6 rounded-full transition-colors ${isAdzanEnabled ? "bg-green-500" : "bg-gray-400"}`} />
+            <div className={`block w-10 h-6 rounded-full transition-colors ${isAdzanEnabled ? "bg-green-500" : "bg-gray-500"}`} />
             <div className={`absolute left-1 top-1 w-4 h-4 rounded-full bg-white transition-transform ${isAdzanEnabled ? "transform translate-x-4" : ""}`} />
           </div>
           <span className="text-xs font-medium p-0 flex-1 text-gray-700 dark:text-gray-300">{isAdzanEnabled ? "Adzan Aktif" : "Adzan Nonaktif"}</span>
@@ -387,10 +386,11 @@ const AdzanToggle = () => {
           </button>
         </div>
       </div>
+
       <div className="space-y-2">
         <label className="block text-sm font-bold text-slate-700 dark:text-slate-300">Pilih Suara Adzan</label>
         <Select.Root value={selectedAdzan} onValueChange={handleChangeAdzan} disabled={isLoading}>
-          <Select.Trigger className="inline-flex items-center justify-between w-full px-3 py-2 text-sm bg-white dark:bg-gray-700 border border-gray-400 dark:border-gray-300 rounded-lg shadow-md focus:outline-none focus:ring-1 focus:ring-sky-400 focus:border-sky-600  dark:focus:ring-sky-300 dark:focus:border-sky-300 disabled:opacity-0">
+          <Select.Trigger className="flex items-center justify-between w-full px-3 py-2 text-sm bg-white dark:bg-gray-700 border border-gray-400 dark:border-gray-300 rounded-lg shadow-md focus:outline-none focus:ring-1 focus:ring-sky-400 focus:border-sky-600  dark:focus:ring-sky-300 dark:focus:border-sky-300 disabled:opacity-50">
             <Select.Value placeholder="Pilih Suara Adzan" />
             <Select.Icon>
               <ChevronDownIcon />
@@ -399,13 +399,13 @@ const AdzanToggle = () => {
           <Select.Portal>
             <Select.Content className="z-50 bg-white dark:bg-gray-800 rounded-md shadow-lg">
               <Select.Viewport className="p-1">
-                <Select.Item value="jiharkah" className="flex items-center justify-between px-3 py-2 text-sm cursor-pointer hover:bg-gray-200 dark:hover:bg-gray-700 rounded ">
+                <Select.Item value="jiharkah" className="flex items-center justify-between px-3 py-2 text-sm cursor-pointer hover:bg-pri-color-light dark:text-white rounded-md ">
                   <Select.ItemText>Adzan Jiharkah</Select.ItemText>
                   <Select.ItemIndicator>
                     <CheckIcon />
                   </Select.ItemIndicator>
                 </Select.Item>
-                <Select.Item value="kurdi" className="flex items-center justify-between px-3 py-2 text-sm cursor-pointer hover:bg-gray-200 dark:hover:bg-gray-700 rounded">
+                <Select.Item value="kurdi" className="flex items-center justify-between px-3 py-2 text-sm cursor-pointer hover:bg-pri-color-light dark:text-white  rounded-md">
                   <Select.ItemText>Adzan Kurdi</Select.ItemText>
                   <Select.ItemIndicator>
                     <CheckIcon />

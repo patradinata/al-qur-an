@@ -8,6 +8,7 @@ import SurahNav from "./surah-navigation/surah-navigation";
 import { CSSTransition } from "react-transition-group";
 import fetcher from "@/utils/fetcher";
 import VerseNav from "./surah-navigation/verse-navigation";
+// import AdzanToggle from "../adzanToggle";
 
 export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefined }) {
   const [isActive, setActive] = useState(true);
@@ -17,7 +18,7 @@ export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefine
   const [quran, setQuran] = useState<Array<SurahInfo> | undefined>(undefined);
 
   useEffect(() => {
-    fetcher("/api/quran").then((data) => setQuran(data));
+    fetcher("api/quran").then((data) => setQuran(data));
   }, []);
 
   useEffect(() => {
@@ -38,9 +39,8 @@ export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefine
     window.addEventListener("scroll", scrollHandler);
 
     return () => {
-      // Cleanup function
-      document.removeEventListener("mousedown", clickHandler);
-      window.removeEventListener("scroll", scrollHandler);
+      document.addEventListener("mousedown", clickHandler);
+      window.addEventListener("scroll", scrollHandler);
     };
   });
 
@@ -54,10 +54,10 @@ export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefine
 
   return (
     <div className={`fixed w-full z-40 transition-all duration-200 ease-in-out ${isActive ? "top-0" : "-top-12"} ${!surahInfo && "dark:drop-shadow-md"}`}>
-      <div className="flex justify-between items-center py-8 px-2 sm:px-8 h-12 bg-white dark:bg-pri-color-dark">
+      <div className="flex items-center justify-between py-8 px-2 sm:px-8 h-12 bg-white dark:bg-pri-color-dark">
         <Link href="/" className="flex items-center gap-1 px-2 lg:px-3">
           <img src="/logo/logo-256x.png" alt="logo" className="w-8 h-8 " />
-          <h1 className="text-xl font-bold text-slate-400leading-tight hover:text-sky-500 transition-all duration-300 ease-in-out">Al-Quran</h1>
+          <h1 className="text-lg font-bold lg:px-1 lg:text-xl drop-shadow-lg hover:text-sky-400 dark:hover:text-sky-500">Al-Quran</h1>
         </Link>
         <Setting active={isActive} />
       </div>

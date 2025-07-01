@@ -1,14 +1,13 @@
-/* eslint-disable react-hooks/exhaustive-deps */
-import { memo, useEffect, useState } from "react";
-import VerseBox from "./verse-box";
-import { useAtom } from "jotai";
-import { surahInfoAtom } from "@/components/atoms/surah-info-atom";
-import { recentlyReadAtom } from "@/components/atoms/recently-read-atom";
 import { currentVerseAtom } from "@/components/atoms/nav-atom";
-import { useRouter } from "next/router";
+import { recentlyReadAtom } from "@/components/atoms/recently-read-atom";
+import { surahInfoAtom } from "@/components/atoms/surah-info-atom";
 import scrollToElement from "@/utils/scrollToElement";
+import { useAtom } from "jotai";
+import { useRouter } from "next/router";
+import { useEffect, useState } from "react";
+import VerseBox from "./verse-box";
 
-export default function VersesContainer() {
+export default function versesContainner() {
   const router = useRouter();
   const [pages, setPages] = useState<undefined[]>();
   const [surahInfo] = useAtom(surahInfoAtom);
@@ -20,17 +19,15 @@ export default function VersesContainer() {
     if (!verse) return;
 
     setTimeout(() => {
-      const verseElement = document.getElementById(`${surahInfo?.surah_number}:${verse}`);
+      const verseElement = document.getElementById(`${surahInfo?.surah_number}: ${verse}`);
       if (!verseElement) return;
 
       scrollToElement(verseElement);
-    }, 300);
+    }, 400);
   }, [router.isReady, surahInfo]);
 
   useEffect(() => {
-    if (!surahInfo || recentlyRead.length == 0) return;
-
-    if (recentlyRead.length >= 10) {
+    if (!surahInfo || recentlyRead.length >= 10) {
       recentlyRead.pop();
     }
 

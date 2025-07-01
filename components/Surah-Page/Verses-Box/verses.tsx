@@ -87,7 +87,6 @@ function Verses({ verses, id, highlight }: { verses: VersesType; id: string; hig
 
   // fungsi untuk memparse footNote
   const parseStringToElement = (text: string) => {
-    // ekstrak id footnote
     const footNoteId = text.match(/"\d+"/g)?.[0].replace(/"/g, "");
     // ekstrak nomor footnote
     const footNoteNumber = text.match(/>\d+/g)?.[0].replace(">", "");

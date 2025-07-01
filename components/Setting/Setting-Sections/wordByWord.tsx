@@ -21,8 +21,8 @@ export default function WordByWord() {
           }}
           checked={(setting) => setting.wordByWord.transliteration}
         />
-        <p className="text-xs my-2">
-          Pembaca : <span className="font-bold">Shaikh Wisam Sharieff.</span> Klik pada kata untuk mendengarkan bacaannya.
+        <p className="text-sm my-3 font-medium">
+          pembaca: <span className="font-bold italic">syeikh wisam syarief</span> klik pada kata untuk mendengarkan bacaannya.
         </p>
         <p className="text-xs font-medium">
           Sumber terjemahan kata demi kata :{" "}
@@ -55,7 +55,7 @@ export default function WordByWord() {
           </div>
         </div>
       </div>
-      <div className="w-full h-[1.5px] rounded-full bg-gray-700 dark:bg-zinc-300 my-4" />
+      <div className="w-full h-[1.6px] rounded-full bg-gray-700 dark:bg-zinc-300 my-4" />
     </>
   );
 }

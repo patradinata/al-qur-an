@@ -36,7 +36,7 @@ export default function Search({ quranList }: { quranList: SurahInfo[] }) {
           enterKeyHint="enter"
           aria-describedby="Cari surah"
           title="cari surah"
-          className="relative search-query rounded-l-full p-2 pl-8 h-14 w-11/12 outline-none border-2 border-gray-200 focus:border-blue-500 duration-300 ease-in-out transition-all"
+          className="relative search-query p-3 pl-8 rounded-l-full h-14 border-2 border-gray-200 w-11/12 outline-none focus:border-blue-400 focus:ring-1 transition-all duration-200 ease-in-out"
           onBlur={() => {
             setFocus(false);
           }}

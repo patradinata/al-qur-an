@@ -21,12 +21,12 @@ export default function Setting({ active }: AppProps) {
   useEffect(() => {
     const clickHandler = (e: MouseEvent) => {
       if (ref.current && !ref.current.contains(e.target as Node) && !ref.current.parentNode?.contains(e.target as Node)) {
-        setCanvas(!offCanvas);
+        setCanvas(offCanvas);
       }
     };
-    document.addEventListener("mousedown", clickHandler);
+    document.addEventListener("click", clickHandler);
     return () => {
-      document.removeEventListener("mousedown", clickHandler);
+      document.removeEventListener("click", clickHandler);
     };
   });
 

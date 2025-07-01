@@ -55,7 +55,7 @@ export default function Footer() {
           <br />
         </p>
         <p className="text-sm font-medium sm:text-sm">
-          &copy; 2025 Patra-Dinata |{" "}
+          &copy; 2024 Patra Dinata |{" "}
           <a href="#" className="font-semibold capitalize text-sm hover:text-sec-color-light hover:text-glow">
             Al-quran.App
           </a>{" "}
