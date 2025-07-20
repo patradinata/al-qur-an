@@ -31,7 +31,7 @@ IndoQur’an adalah website Al-Qur’an digital berbasis [React js]yang dirancan
 ## 🛠️ Cara Menjalankan Project
 
 ```bash
-git clone https://github.com/patra-dinata/al-quran.git
+git clone https://github.com/patradinata/al-quran.git
 cd al-quran
 npm install
 npm run dev
@@ -60,8 +60,9 @@ Kalau kamu suka project ini, bantu support dengan:
 ## 📩 Kontak
 
 📧 Email: patradinata08@gmail.com 
-🐙 GitHub: [@patra dinata](https://github.com/patra dinata)
+🐙 GitHub: [@patra dinata](https://github.com/patradinata)
 
 ---
 
 **Bismillah semoga bermanfaat untuk umat. Terima kasih! 🤍**
+**Jangan lupa kasih star nya ya guysss 🔥
