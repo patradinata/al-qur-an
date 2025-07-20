@@ -1,38 +1,67 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌙 Alquran – Al-Qur’an Digital Modern
 
-## Getting Started
+IndoQur’an adalah website Al-Qur’an digital berbasis [React js]yang dirancang modern dan ringan, dilengkapi dengan fitur-fitur islami seperti:
+- 🔍 Pencarian ayat & surat
+- 🎧 Audio per ayat
+- 📌 Higlight Ayat 
+- 🌙 Mode gelap (dark mode)
 
-First, run the development server:
+---
+
+## 🚀 Fitur Unggulan
+
+- 🔎 **Pencarian cepat** ayat dan surat
+- 📑 **Bookmark** ayat favorit untuk dibaca kembali
+- 🔊 **Audio** per ayat dengan kontrol play/pause
+- 🌙 **Dark mode / Light mode**
+- ⚡ Cepat & responsif, dibangun dengan React Js + Tailwind CSS
+
+---
+
+
+---
+
+## 📦 Teknologi yang Digunakan
+
+- React Js
+- Tailwind Css
+- Quran.com API
+---
+
+## 🛠️ Cara Menjalankan Project
 
 ```bash
+git clone https://github.com/patra-dinata/al-quran.git
+cd al-quran
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Buka [http://localhost:3000](http://localhost:3000) di browser.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+---
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## 🙌 Kontribusi
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Pull request sangat diterima! Jika kamu menemukan bug atau punya ide fitur baru, silakan buat issue atau langsung PR.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+---
 
-## Learn More
+## ⭐ Dukung Project Ini
 
-To learn more about Next.js, take a look at the following resources:
+Kalau kamu suka project ini, bantu support dengan:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- ✨ Memberi **Star** di GitHub
+- 👥 **Follow** akun saya untuk update project open source lainnya
+- 📢 Share ke teman atau komunitas yang membutuhkan
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 📩 Kontak
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+📧 Email: patradinata08@gmail.com 
+🐙 GitHub: [@patra dinata](https://github.com/patra dinata)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+---
+
+**Bismillah semoga bermanfaat untuk umat. Terima kasih! 🤍**
