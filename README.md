@@ -1,6 +1,6 @@
 # 🌙 Alquran – Al-Qur’an Digital Modern
 
-IndoQur’an adalah website Al-Qur’an digital berbasis [React js]yang dirancang modern dan ringan, dilengkapi dengan fitur-fitur islami seperti:
+Ini adalah website Al-Qur’an digital berbasis React js yang dirancang modern dan ringan, dilengkapi dengan fitur-fitur islami seperti:
 - 🔍 Pencarian ayat & surat
 - 🎧 Audio per ayat
 - 📌 Higlight Ayat 
@@ -11,15 +11,11 @@ IndoQur’an adalah website Al-Qur’an digital berbasis [React js]yang dirancan
 ## 🚀 Fitur Unggulan
 
 - 🔎 **Pencarian cepat** ayat dan surat
-- 📑 **Bookmark** ayat favorit untuk dibaca kembali
 - 🔊 **Audio** per ayat dengan kontrol play/pause
 - 🌙 **Dark mode / Light mode**
+-Fitur Highlight ayat 
 - ⚡ Cepat & responsif, dibangun dengan React Js + Tailwind CSS
 
----
-
-
----
 
 ## 📦 Teknologi yang Digunakan
 
@@ -52,7 +48,7 @@ Pull request sangat diterima! Jika kamu menemukan bug atau punya ide fitur baru,
 Kalau kamu suka project ini, bantu support dengan:
 
 - ✨ Memberi **Star** di GitHub
-- 👥 **Follow** akun saya untuk update project open source lainnya
+- 👥 **Follow** akun githu  saya untuk update project open source lainnya
 - 📢 Share ke teman atau komunitas yang membutuhkan
 
 ---
