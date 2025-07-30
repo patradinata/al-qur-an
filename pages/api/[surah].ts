@@ -3,9 +3,10 @@ import path from "path";
 import fs from "fs";
 import type { SurahInfo } from "@/types/surah-info-type";
 
-const qurandir: string = path.join(process.cwd(), "quran");
+const quranDir: string = path.join(process.cwd(), "quran");
+
 const resPage = (pageNumber: number, surahInfo: SurahInfo) => {
-  const totalPage = Math.ceil(surahInfo.ayahs / 6);
+  const totalPage = Math.ceil(surahInfo?.ayahs / 6);
   let ayahs = 1;
   const totalVerses = () => {
     if (pageNumber < totalPage) return 6;
@@ -15,12 +16,13 @@ const resPage = (pageNumber: number, surahInfo: SurahInfo) => {
   };
 
   if (pageNumber > totalPage) return null;
+
   const verses: object[] = [];
 
   for (let i = 1; i <= totalVerses(); i++) {
-    verses.push(JSON.parse(fs.readFileSync(`${qurandir}/surah/surah_${surahInfo?.surah_number}/verses_${i + 6 * (pageNumber + 1)}.json`, "utf-8")));
+    verses.push(JSON.parse(fs.readFileSync(`${quranDir}/surah/surah_${surahInfo?.surah_number}/verses_${i + 6 * (pageNumber - 1)}.json`, "utf-8")));
+    ayahs++;
   }
-  ayahs++;
 
   return {
     verses,
@@ -28,7 +30,7 @@ const resPage = (pageNumber: number, surahInfo: SurahInfo) => {
       current_page: pageNumber,
       ayahs: ayahs,
       next_page: pageNumber + 1 > totalPage ? null : pageNumber + 1,
-      totalPages: totalPage,
+      total_pages: totalPage,
     },
   };
 };
@@ -51,7 +53,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
     return res404();
   }
 
-  const surahInfo: SurahInfo = JSON.parse(fs.readFileSync(`${qurandir}/surah/surah_${surah}/surah_info.json`, "utf-8"));
+  const surahInfo: SurahInfo = JSON.parse(fs.readFileSync(`${quranDir}/surah/surah_${surah}/surah_info.json`, "utf8"));
 
   if (page?.match(/[0-9]/i)) {
     const content = resPage(parseInt(page), surahInfo);
@@ -61,7 +63,7 @@ export default async function handler(req: NextApiRequest, res: NextApiResponse)
   }
 
   if (ayah?.match(/[0-9]/i)) {
-    const content = fs.readFileSync(`${qurandir}/surah/surah_${surah}/verses_${ayah}.json`, "utf-8");
+    const content = fs.readFileSync(`${quranDir}/surah/surah_${surah}/verses_${ayah}.json`, "utf8");
     return res.status(200).json(JSON.parse(content));
   }
 

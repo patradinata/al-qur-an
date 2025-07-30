@@ -9,7 +9,7 @@ import { useImmerAtom } from "jotai-immer";
 import { useHydrateAtoms } from "jotai/utils";
 import { GetStaticPaths, GetStaticProps } from "next";
 import { useEffect } from "react";
-// import { mequranFont } from "../_app";
+//  import { mequranFont } from "../_app";
 
 // fungsi getStaticPaths
 export const getStaticPaths: GetStaticPaths = () => {

@@ -95,27 +95,3 @@ export default function AudioPlayer() {
     </div>
   );
 }
-
-// fetch(``)
-//   .then((res) => res.json())
-//   .then((data) => console.log(data))
-//   .catch((err) => console.error(err));
-
-// const users = [
-//   {
-//     name: "Budi",
-//     alamat: "Krui Pesisir Barat",
-//     usia: 20,
-//   },
-// ];
-
-// const userName = users.filter((user) => user.name === "Budi");
-
-// console.log(userName);
-
-fetch(`/api/timestamp?surah=1`)
-  .then((res) => res.json())
-  .then((data) => console.log(data))
-  .catch((err) => console.error(err));
-
-// Ini adalah contoh penggunaan High Irder Function dengan menggunakan method filter untuk memfilter objek didalam array
