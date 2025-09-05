@@ -39,8 +39,8 @@ export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefine
     window.addEventListener("scroll", scrollHandler);
 
     return () => {
-      document.addEventListener("mousedown", clickHandler);
-      window.addEventListener("scroll", scrollHandler);
+      document.removeEventListener("mousedown", clickHandler);
+      window.removeEventListener("scroll", scrollHandler);
     };
   });
 
