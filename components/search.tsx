@@ -36,21 +36,21 @@ export default function Search({ quranList }: { quranList: SurahInfo[] }) {
       const results = fuse.search(searchQuery);
       setResult(results.map((res) => res.item));
       setLoading(false);
-    }, 500); // 300ms delay, sesuaikan jika perlu
+    }, 800); //500 ms delay
 
     return () => clearTimeout(timeoutId);
   }, [searchQuery, fuse]);
 
   return (
     <>
-      <div className="flex relative items-center w-full m-auto mb-2 text-gray-700 sm:w-4/6 md:w-3/6 p-2 sm:p-0">
+      <div className="flex relative items-center w-full m-auto mb-2 text-gray-700 sm:w-4/6 md:w-3/6 px-4">
         <input
           autoComplete="off"
           placeholder="Surah apa yang ingin kamu baca ?"
           type="search"
           name="search"
           id="search"
-          className="relative search-query rounded-l-full p-2 pl-4 h-14 w-11/12 outline-none"
+          className="relative search-query rounded-l-full p-2 pl-4 h-14 w-11/12 outline-none border-2 focus:border-sky-600 transition-all duration-300 ease-out"
           onBlur={() => {
             setFocus(false);
           }}

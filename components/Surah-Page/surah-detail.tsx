@@ -51,7 +51,7 @@ export default function SurahDetailButton() {
           isActive ? "info-on" : "info-off"
         }`}
       >
-        <h1 className="text-xl font-semibold mb-2">{surahInfo?.name}</h1>
+        <h1 className="text-lg sm:text-xl text-green-700">{surahInfo?.name}</h1>
         <p className="mb-2 text-sm  sm:text-base">{surahDetail?.shortText}</p>
         <p className="underline mt-2 cursor-pointer w-fit" onClick={showMoreHandler}>
           Selengkapnya...

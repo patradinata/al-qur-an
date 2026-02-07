@@ -1,7 +1,7 @@
 /* eslint-disable react-hooks/exhaustive-deps */
 import fetcher from "@/utils/fetcher";
-import { Segments, Timestamp, VerseTiming } from "@/types/timestamps";
-import { useCallback, useEffect, useRef } from "react";
+import { Segments, Timestamp } from "@/types/timestamps";
+import { useCallback, useEffect } from "react";
 import { useAtom } from "jotai";
 import { surahInfoAtom } from "../atoms/surah-info-atom";
 import { timestampAtom } from "../atoms/timestamp-atom";
@@ -22,9 +22,11 @@ export default function AudioPlayer() {
   const getTimestamp = async () => {
     if (!surahInfo) return;
     try {
-      fetcher(`/api/timestamp?surah=${surahInfo.surah_number}`).then((data: Timestamp) => setTimestampAtom(() => data));
+      fetcher(`/api/timestamp?surah=${surahInfo.surah_number}`)
+      .then((data: Timestamp) => 
+      setTimestampAtom(() => data));
     } catch (error) {
-      console.error(error);
+      console.error('Terjadi Error pada timeStamp', error);
     }
   };
 
@@ -85,7 +87,7 @@ export default function AudioPlayer() {
             timestamp={timestamp}
           />
 
-          <div className="flex justify-between items-center text-base font-medium px-3 mt-1">
+          <div className="flex justify-evenly items-center md:justify-between px-3 mt-1">
             <p className="w-20 text-left">{calcTime(currentTime * 0.001)}</p>
             <AudioController timestamp={timestamp} playToggle={playToggle} />
             <p className="w-20 text-right">{calcTime(timestamp.duration * 0.001)}</p>

@@ -53,11 +53,11 @@ export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefine
   });
 
   return (
-    <div className={`fixed w-full z-40 transition-all duration-200 ease-in-out ${isActive ? "top-0" : "-top-12"} ${!surahInfo && "dark:drop-shadow-md"}`}>
-      <div className="flex items-center justify-between py-8 px-2 sm:px-8 h-12 bg-white dark:bg-pri-color-dark">
-        <Link href="/" className="flex items-center gap-1 px-2 lg:px-3">
+    <div className={`fixed w-full z-40 transition-all duration-300 ease-in-out ${isActive ? "top-0" : "-top-12"} ${!surahInfo && "dark:drop-shadow-md"}`}>
+      <div className="flex justify-between py-2 px-3 sm:px-9 bg-white dark:bg-pri-color-dark drop-shadow-sm items-center">
+        <Link href="/" className="flex items-center gap-2 lg:gap-3">
           <img src="/logo/logo-256x.png" alt="logo" className="w-8 h-8 " />
-          <h1 className="text-lg font-bold lg:px-1 lg:text-xl drop-shadow-lg hover:text-sky-400 dark:hover:text-sky-500">Al-Quran</h1>
+          <h1 className="text-lg font-bold text-sec-color-dark dark:text-white hover:text-sky-500 drop-shadow lg:px-2 transition-all duration-200 ease-out hover:dark:text-red-600">Al-Quran</h1>
         </Link>
         <Setting active={isActive} />
       </div>
@@ -72,7 +72,7 @@ export default function Navbar({ surahInfo }: { surahInfo?: SurahInfo | undefine
             </div>
             <CSSTransition nodeRef={ref} in={surahNav} timeout={400} unmountOnExit classNames={"surah-nav"}>
               <div ref={ref} className="z-[-1] absolute rounded-md p-2 w-fit flex bg-white translate-y-2 left-4 right-4 sm:left-8 dark:bg-sec-color-dark drop-shadow-md">
-                <div className="flex gap-1 font-normal">
+                <div className="flex gap-1 font-medium">
                   <SurahNav quran={quran} />
                   <VerseNav />
                 </div>

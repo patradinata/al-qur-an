@@ -17,7 +17,7 @@ function AudioControllerWithoutMemo({ playToggle, timestamp }: { playToggle: () 
     if (!highlight.includes(":")) return;
 
     let verseIndex = parseInt(highlight.split(":")[1]); // Ambil indeks ayat saat ini
-    // console.log("Current Verse Index:", verseIndex);
+    console.log("Current verse index", verseIndex);
 
     if (!timestamp || !timestamp.verse_timings) {
       return;

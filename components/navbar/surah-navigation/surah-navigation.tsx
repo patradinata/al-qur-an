@@ -62,7 +62,7 @@ export default function SurahNav({ quran }: { quran: Array<SurahInfo> | undefine
           placeholder="Cari Surah"
           value={searchQuery}
           onChange={(e) => setQuery(e.currentTarget.value)}
-          className="w-full p-2 rounded border border-gray-300 dark:border-gray-600 focus:outline-none focus:ring focus:ring-yellow-400 dark:bg-gray-800 dark:text-white"
+          className="w-full p-2 rounded-md border border-sec-color-light dark:border-gray-600 focus:outline-none focus:ring-1  dark:bg-gray-800 dark:text-white"
         />
       </div>
 
@@ -74,7 +74,7 @@ export default function SurahNav({ quran }: { quran: Array<SurahInfo> | undefine
             <Link
               key={e.surah_number}
               href={`/${e.surah_number}`}
-              className={`p-2 rounded-md hover:bg-slate-100 dark:hover:bg-pri-color-dark cursor-pointer ${surahInfo.name === e.name ? "font-semibold bg-slate-100 dark:bg-pri-color-dark" : ""}`}
+              className={`p-2 rounded-md  hover:bg-slate-100 dark:hover:bg-pri-color-dark cursor-pointer ${surahInfo.name === e.name ? "font-semibold bg-slate-100 dark:bg-pri-color-dark" : ""}`}
             >
               <Highlight text={`${e.surah_number}. ${e.name}`} highlight={searchQuery} />
             </Link>

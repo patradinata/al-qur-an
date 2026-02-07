@@ -15,7 +15,7 @@ export default function AudioBar({ timestamp, playHandler }: { timestamp: Timest
 
     audioBar.style.backgroundSize = `${percentage}% 100%`;
   }, [currentTime, timestamp]);
-  // input
+  // input Handler
   const inputHandler = (e: FormEvent<HTMLInputElement>) => {
     if (!timestamp) return;
 
@@ -29,9 +29,11 @@ export default function AudioBar({ timestamp, playHandler }: { timestamp: Timest
     const audio = document.querySelector<HTMLAudioElement>(".audio");
     if (!audio) return;
 
-    audio.currentTime = value * 0.001; // divide 1000
+    audio.currentTime = value * 0.001;
     playHandler();
   };
 
-  return <input value={currentTime} onChange={inputHandler} type="range" className="audio-bar" min={0} max={timestamp.duration} />;
+  return (
+     <input value={currentTime} onChange={inputHandler} type="range" className="audio-bar" min={0} max={timestamp.duration} />
+  );
 }

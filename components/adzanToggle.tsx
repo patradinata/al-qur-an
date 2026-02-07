@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import * as Select from "@radix-ui/react-select";
 import { CheckIcon, ChevronDownIcon, PlayIcon, PauseIcon, StopIcon } from "@radix-ui/react-icons";
 import { toast, ToastContainer } from "react-toastify";
-import "react-toastify/dist/ReactToastify.css";
+// import "react-toastify/dist/ReactToastify.css";
 
 interface PrayerTimes {
   Fajr: string;

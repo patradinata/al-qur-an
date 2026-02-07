@@ -8,7 +8,7 @@ export default function SurahCard({ surahInfo }: AppProps) {
   return (
     <>
       <Link href={`/${surahInfo.surah_number}`} className={`${surahInfo.name.toLowerCase()} active:scale-95 group`}>
-        <div className="flex justify-between p-3 group-hover:glow dark:border-zinc-300 border-2 rounded-lg dark:group-hover:border-sec-color-light group-hover:border-sec-color-light">
+        <div className="flex justify-between items-center p-3 group-hover:glow dark:border-zinc-300 border-2 rounded-lg dark:group-hover:border-sec-color-light group-hover:border-sec-color-light">
           <div className="flex justify-center items-center">
             <div className="flex items-center justify-center rounded rotate-45 w-10 h-10 bg-gray-200 dark:bg-sec-color-dark ml-1 mr-4 group-hover:bg-sec-color-light">
               <span className="-rotate-45 m-2 group-hover:text-white">{surahInfo.surah_number}</span>
